@@ -1,7 +1,7 @@
 # Armour Component Machining Services
 **Status:** Draft
 **Slug:** /defense-cnc-machining/armour-component-machining/
-**Meta Title:** Armour Component Machining Services | Weldo CNC
+**Meta Title:** Armour Component Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Armour Component Machining Services
 **Parent:** [[defense-cnc-machining]]

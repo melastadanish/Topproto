@@ -1,7 +1,7 @@
 # [Part Name] Case Study
 **Status:** Draft
 **Slug:** /[part-name]-case-study/
-**Meta Title:** [Part Name] CNC Machining Case Study | Weldo CNC
+**Meta Title:** [Part Name] CNC Machining Case Study | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** [Part Name] CNC Machining Case Study
 
@@ -45,7 +45,7 @@ What the client needed. Key requirements — tolerances, material, surface finis
 ---
 
 ## Section 3: Our Approach
-How Weldo solved it. Machine selection, fixturing strategy, toolpath decisions, material sourcing, any DFM changes made before cutting. Written with technical depth — specific, not generic.
+How TOP PROTO solved it. Machine selection, fixturing strategy, toolpath decisions, material sourcing, any DFM changes made before cutting. Written with technical depth — specific, not generic.
 
 ---
 

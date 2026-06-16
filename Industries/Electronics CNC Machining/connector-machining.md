@@ -1,7 +1,7 @@
 # Connector Machining Services
 **Status:** Draft
 **Slug:** /electronics-cnc-machining/connector-machining/
-**Meta Title:** Connector Machining Services | Weldo CNC
+**Meta Title:** Connector Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Connector Machining Services
 **Parent:** [[electronics-cnc-machining]]

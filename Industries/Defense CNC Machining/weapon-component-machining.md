@@ -1,7 +1,7 @@
 # Weapon Component Machining Services
 **Status:** Draft
 **Slug:** /defense-cnc-machining/weapon-component-machining/
-**Meta Title:** Weapon Component Machining Services | Weldo CNC
+**Meta Title:** Weapon Component Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Weapon Component Machining Services
 **Parent:** [[defense-cnc-machining]]

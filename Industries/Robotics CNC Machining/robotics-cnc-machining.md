@@ -1,7 +1,7 @@
 # Robotics CNC Machining
 **Status:** Draft
 **Slug:** /robotics-cnc-machining/
-**Meta Title:** Robotics CNC Machining | Weldo CNC
+**Meta Title:** Robotics CNC Machining | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Robotics CNC Machining
 **Parent:** [[cnc-machining-industries]]

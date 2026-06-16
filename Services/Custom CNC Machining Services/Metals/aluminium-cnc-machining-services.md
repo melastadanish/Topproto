@@ -1,8 +1,8 @@
 # Aluminium CNC Machining Services
 **Status:** Complete
 **Slug:** /aluminium-cnc-machining-services/
-**Meta Title:** Aluminium CNC Machining Services | CNC Machined Aluminium Parts | Weldo CNC
-**Meta Description:** Weldo CNC machines aluminium parts to ±0.005mm tolerances — 6061, 7075, 2024, MIC-6, and more. In-house anodizing. ISO 9001:2015. Quote in 24 hours.
+**Meta Title:** Aluminium CNC Machining Services | CNC Machined Aluminium Parts | TOP PROTO
+**Meta Description:** TOP PROTO machines aluminium parts to ±0.005mm tolerances — 6061, 7075, 2024, MIC-6, and more. In-house anodizing. ISO 9001:2015. Quote in 24 hours.
 **Target Keyword:** Aluminium CNC Machining Services
 **Secondary Keywords:** cnc machined aluminium parts, aluminium cnc machining, aluminium machining, 6061 cnc machining, 7075 cnc machining
 
@@ -20,7 +20,7 @@
 - [x] 10. Pros & Cons
 - [x] 11. Quality & Certifications (RS-01)
 - [x] 12. Gallery
-- [x] 13. Why Choose Weldo CNC
+- [x] 13. Why Choose TOP PROTO
 - [x] 14. FAQ
 - [x] 15. Blog / Resources
 - [x] 16. Final CTA + Form (RS-03)
@@ -220,9 +220,9 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 13: Why Choose Weldo CNC for Aluminium Machining
+## Section 13: Why Choose TOP PROTO for Aluminium Machining
 **Design:** 2-column — 5 points left, image right. White background.
-**Heading:** Why Engineers Specify Weldo CNC for Aluminium
+**Heading:** Why Engineers Specify TOP PROTO for Aluminium
 
 **In-house anodizing under our QMS.**
 Anodizing is the most common finish on aluminium. We don't send your parts to a finishing house and hope the colour comes back right. In-house means we control the process, the thickness, and the sequence — and the parts don't disappear between suppliers.
@@ -274,7 +274,7 @@ Planning. Any aluminium CNC machining job involving anodizing and tight-toleranc
 
 ## Section 16: Final CTA + Form
 **Design:** RS-03. 2-column split.
-**Heading:** Machine Your Aluminium Parts at Weldo CNC
+**Heading:** Machine Your Aluminium Parts at TOP PROTO
 **Subtext:** Upload your STEP file and tell us your alloy, tolerance class, and finish requirements. We review anodizing allowances, masking needs, and grade suitability — then return a complete quote within 24 hours.
 **Bullets:**
 - ✅ 6061, 7075, 2024, 5052, 6063, MIC-6 in-house stock

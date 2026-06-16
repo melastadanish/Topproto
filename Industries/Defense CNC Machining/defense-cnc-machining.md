@@ -1,7 +1,7 @@
 # Defense CNC Machining
 **Status:** Draft
 **Slug:** /defense-cnc-machining/
-**Meta Title:** Defense CNC Machining | Weldo CNC
+**Meta Title:** Defense CNC Machining | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Defense CNC Machining
 **Parent:** [[cnc-machining-industries]]

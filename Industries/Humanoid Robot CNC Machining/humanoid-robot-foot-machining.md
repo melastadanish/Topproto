@@ -1,7 +1,7 @@
 # Humanoid Robot Foot Machining Services
 **Status:** Draft
 **Slug:** /humanoid-robot-cnc-machining/humanoid-robot-foot-machining/
-**Meta Title:** Humanoid Robot Foot Machining Services | Weldo CNC
+**Meta Title:** Humanoid Robot Foot Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Humanoid Robot Foot Machining Services
 **Parent:** [[humanoid-robot-cnc-machining]]

@@ -1,7 +1,7 @@
 # Aluminium Machining Guide
 **Status:** Draft
 **Slug:** /knowledge-base/materials/aluminium-machining-guide/
-**Meta Title:** Aluminium Machining Guide | Weldo CNC
+**Meta Title:** Aluminium Machining Guide | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Aluminium Machining Guide
 **Parent:** [[knowledge-base-materials]]

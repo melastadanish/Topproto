@@ -1,7 +1,7 @@
 # Heat Sink Machining Services
 **Status:** Draft
 **Slug:** /electronics-cnc-machining/heat-sink-machining/
-**Meta Title:** Heat Sink Machining Services | Weldo CNC
+**Meta Title:** Heat Sink Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Heat Sink Machining Services
 **Parent:** [[electronics-cnc-machining]]

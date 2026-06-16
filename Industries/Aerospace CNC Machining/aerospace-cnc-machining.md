@@ -1,8 +1,8 @@
 # Aerospace CNC Machining
 **Status:** Complete
 **Slug:** /aerospace-cnc-machining/
-**Meta Title:** Aerospace CNC Machining | Precision Aerospace Components | Weldo CNC
-**Meta Description:** Weldo CNC machines precision aerospace components — structural brackets, manifolds, housings, fittings — with full material traceability and CMM inspection reporting. ISO 9001:2015. Quote in 24 hours.
+**Meta Title:** Aerospace CNC Machining | Precision Aerospace Components | TOP PROTO
+**Meta Description:** TOP PROTO machines precision aerospace components — structural brackets, manifolds, housings, fittings — with full material traceability and CMM inspection reporting. ISO 9001:2015. Quote in 24 hours.
 **Target Keyword:** Aerospace CNC Machining
 **Secondary Keywords:** aerospace cnc machining services, aerospace machined parts, aerospace cnc components, cnc machining for aerospace, aerospace aluminium machining
 
@@ -17,7 +17,7 @@
 - [x] 7. Documentation — What Ships With Every Order
 - [x] 8. Quality & Certifications (RS-01)
 - [x] 9. Gallery
-- [x] 10. Why Choose Weldo CNC
+- [x] 10. Why Choose TOP PROTO
 - [x] 11. FAQ
 - [x] 12. Blog / Resources
 - [x] 13. Final CTA + Form (RS-03)
@@ -144,9 +144,9 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 10: Why Choose Weldo CNC for Aerospace
+## Section 10: Why Choose TOP PROTO for Aerospace
 **Design:** 2-column — 5 points left, image right. White background.
-**Heading:** Why Aerospace Engineers Specify Weldo CNC
+**Heading:** Why Aerospace Engineers Specify TOP PROTO
 
 **The documentation is built into the process — not assembled at the end.**
 CMM inspection, material certs, finish records — these aren't generated at dispatch. Material is verified before cutting starts. Inspection is built into the sequence. The documentation is the natural output of a controlled process, not a report written afterwards to close the job.
@@ -161,7 +161,7 @@ Compound-angle brackets, multi-face fittings, complex ported manifolds — geome
 Anodizing thickness affects bolt hole clearances. Masking decisions affect coverage. Pre-coat surface condition affects adhesion. We plan finishing at quote stage — masking confirmed from the drawing before the part enters finishing, process documented, coated features re-checked after.
 
 **No gap between the facility that machines and the facility that signs off.**
-Parts machined at Weldo CNC, finished under our QMS, documented and shipped from the same facility. No parts moving between suppliers, no documentation assembled from two sources. When a quality question arises, one conversation answers it.
+Parts machined at TOP PROTO, finished under our QMS, documented and shipped from the same facility. No parts moving between suppliers, no documentation assembled from two sources. When a quality question arises, one conversation answers it.
 
 ---
 
@@ -198,7 +198,7 @@ From 5 business days for standard complexity parts in aluminium. Titanium and co
 
 ## Section 13: Final CTA + Form
 **Design:** RS-03. 2-column split.
-**Heading:** Machine Your Aerospace Components at Weldo CNC
+**Heading:** Machine Your Aerospace Components at TOP PROTO
 **Subtext:** Upload your STEP file and drawing. We review material grade, GD&T callouts, finish requirements, and masking needs — then return a complete quote with DFM notes within 24 hours.
 **Bullets:**
 - ✅ Full material traceability to heat number on every order

@@ -1,13 +1,13 @@
 # [Blog Post Title]
 **Status:** Draft
 **Slug:** /[post-slug]/
-**Meta Title:** [Post Title] | Weldo CNC
+**Meta Title:** [Post Title] | TOP PROTO
 **Meta Description:** [150–160 character description. Include primary keyword. Describe what the reader will learn.]
 **Category:** [Guides | Materials | Comparisons | Industry | Process]
 **Target Keyword:** [primary keyword]
 **Secondary Keywords:** [keyword 2, keyword 3, keyword 4]
 **Reading Time:** [X min read — calculate at ~200 words/min after writing]
-**Author:** Weldo CNC Engineering Team
+**Author:** TOP PROTO Engineering Team
 **Publish Date:** [YYYY-MM-DD]
 **Featured Image:** [description of image needed — e.g. "CMM probe measuring aluminium bracket"]
 
@@ -51,7 +51,7 @@ Blog → [Category] → [Post Title]
 
 ## Post Meta Bar
 **Design:** Single line below H1. Light grey rule below.
-- Format: `By Weldo CNC Engineering Team · [Month DD, YYYY] · [X min read]`
+- Format: `By TOP PROTO Engineering Team · [Month DD, YYYY] · [X min read]`
 - Category tag links to category archive: /blog/[category]/
 
 ---
@@ -147,8 +147,8 @@ Contents
 
 ## Author Block
 **Design:** Small card below key takeaways. Author avatar (photo or initials icon) left. Name and title right.
-- Name: Weldo CNC Engineering Team
-- Title: Technical Writing — Weldo CNC, Dongguan
+- Name: TOP PROTO Engineering Team
+- Title: Technical Writing — TOP PROTO, Dongguan
 - Bio (1–2 lines): Engineering and manufacturing content written by the team behind the parts. 20+ years of CNC production experience in Dongguan, China.
 
 ---
@@ -165,7 +165,7 @@ Contents
 
 ## End CTA
 **Design:** RS-03 variant — adapted to article topic. Full width. 2-column split.
-**Heading:** [Topic-specific — e.g. for DFM article: "Get a DFM Review With Your Quote" | for material article: "Machine Your [Material] Parts at Weldo CNC"]
+**Heading:** [Topic-specific — e.g. for DFM article: "Get a DFM Review With Your Quote" | for material article: "Machine Your [Material] Parts at TOP PROTO"]
 **Subtext:** Upload your STEP file. We return a quote with DFM review within 24 hours — tolerance feasibility, finish interactions, and material suitability included.
 **Bullets:**
 - ✅ ISO 9001:2015 certified facility

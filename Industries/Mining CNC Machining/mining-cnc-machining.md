@@ -1,7 +1,7 @@
 # Mining CNC Machining
 **Status:** Draft
 **Slug:** /mining-cnc-machining/
-**Meta Title:** Mining CNC Machining | Weldo CNC
+**Meta Title:** Mining CNC Machining | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Mining CNC Machining
 **Parent:** [[cnc-machining-industries]]

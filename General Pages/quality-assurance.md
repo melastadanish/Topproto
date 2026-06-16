@@ -1,7 +1,7 @@
 # Quality Assurance
 **Status:** Draft
 **Slug:** /quality-assurance/
-**Meta Title:** CNC Machining Quality Assurance | Weldo CNC
+**Meta Title:** CNC Machining Quality Assurance | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** CNC Machining Quality Assurance
 
@@ -31,7 +31,7 @@
 ## Section 2: Our Quality Promise
 **Design:** 2-column — left: paragraph text. Right: 4 stat callouts (bold number + label).
 **Heading:** Built Into Every Job — Not Bolted On
-**Body:** At Weldo CNC, quality isn't a final inspection step — it's a system that runs from the moment your order is confirmed through to the moment parts leave the building. Our ISO 9001:2015 quality management system governs material verification, in-process checks, dimensional inspection, non-conformance handling, and shipping release. Nothing ships without sign-off.
+**Body:** At TOP PROTO, quality isn't a final inspection step — it's a system that runs from the moment your order is confirmed through to the moment parts leave the building. Our ISO 9001:2015 quality management system governs material verification, in-process checks, dimensional inspection, non-conformance handling, and shipping release. Nothing ships without sign-off.
 
 **Stats:**
 - ±0.005mm — Minimum tolerance capability
@@ -121,7 +121,7 @@ The international standard for quality management systems. Covers the full produ
 1. **Do you provide CMM inspection reports as standard?** — CMM reports are standard on all tight-tolerance orders and available on request for standard tolerance work. The report includes measured values, nominal dimensions, tolerances, and pass/fail status per feature — against your drawing revision, not a generic template.
 2. **What happens if a part fails inspection?** — Non-conforming parts are quarantined and dispositioned through our NCR (Non-Conformance Report) process. Options are rework, replacement, or concession — all documented. Failed parts do not ship. You are notified of any disposition that affects your delivery timeline before it becomes a problem.
 3. **Can you supply material certificates?** — Yes. Material certs showing alloy grade, heat number, temper designation, and mechanical properties are available for every order. These trace directly to the raw stock used on your job — not a generic batch certificate.
-4. **Are you ISO 9001:2015 certified?** — Yes. Weldo CNC holds ISO 9001:2015 certification, independently audited by an accredited third-party body. Certificate available on request. Our QMS governs the full production chain from purchase order through to shipping release.
+4. **Are you ISO 9001:2015 certified?** — Yes. TOP PROTO holds ISO 9001:2015 certification, independently audited by an accredited third-party body. Certificate available on request. Our QMS governs the full production chain from purchase order through to shipping release.
 5. **What tolerances can you hold and verify?** — Standard work follows ISO 2768-m (±0.1mm). Tight tolerances to ±0.005mm are achievable on suitable features and verified by CMM. Geometric tolerances including true position, perpendicularity, and flatness are measured and reported. If a callout is at the limit of what's practical, we say so during DFM review.
 6. **Do you perform first article inspection?** — Yes. FAI is available on all production orders and performed as standard on first runs for new parts. The FAI report establishes the dimensional baseline for all subsequent production batches. Cpk data available on request for ongoing production programmes.
 

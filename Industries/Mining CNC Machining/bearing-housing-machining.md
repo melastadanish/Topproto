@@ -1,7 +1,7 @@
 # Bearing Housing Machining Services
 **Status:** Draft
 **Slug:** /mining-cnc-machining/bearing-housing-machining/
-**Meta Title:** Bearing Housing Machining Services | Weldo CNC
+**Meta Title:** Bearing Housing Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Bearing Housing Machining Services
 **Parent:** [[mining-cnc-machining]]

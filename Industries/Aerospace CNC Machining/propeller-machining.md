@@ -1,7 +1,7 @@
 # Propeller Machining Services
 **Status:** Draft
 **Slug:** /aerospace-cnc-machining/propeller-machining/
-**Meta Title:** Propeller Machining Services | Weldo CNC
+**Meta Title:** Propeller Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Propeller Machining Services
 **Parent:** [[aerospace-cnc-machining]]

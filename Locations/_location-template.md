@@ -5,12 +5,12 @@ Two separate templates — use the correct one per page type.
 ## Country Hub Page
 **Template:** [[_location-country-template]]
 **Example slugs:** /cnc-machining-usa/ · /cnc-machining-uk/ · /cnc-machining-germany/ · /cnc-machining-france/
-**Sections:** Hero → Stats → Why source from Weldo → How it works → Services → Materials → Shipping & Logistics → Industries → Quality RS-01 → Cities grid → FAQ → CTA
+**Sections:** Hero → Stats → Why source from TOP PROTO → How it works → Services → Materials → Shipping & Logistics → Industries → Quality RS-01 → Cities grid → FAQ → CTA
 
 ## City Page
 **Template:** [[_location-city-template]]
 **Example slugs:** /cnc-machining-usa/los-angeles/ · /cnc-machining-uk/london/
-**Sections:** Hero → Stats → Local context → Services → Local CNC shops listing → Weldo vs local comparison table → Shipping to city → Industries → Quality RS-01 → FAQ → CTA
+**Sections:** Hero → Stats → Local context → Services → Local CNC shops listing → TOP PROTO vs local comparison table → Shipping to city → Industries → Quality RS-01 → FAQ → CTA
 
 ---
 

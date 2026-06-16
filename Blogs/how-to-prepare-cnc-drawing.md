@@ -1,7 +1,7 @@
 # How to Prepare a CNC Drawing
 **Status:** Draft
 **Slug:** /knowledge-base/guides/how-to-prepare-cnc-drawing/
-**Meta Title:** How to Prepare a CNC Drawing | Weldo CNC
+**Meta Title:** How to Prepare a CNC Drawing | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** How to Prepare a CNC Drawing
 **Parent:** [[knowledge-base-guides]]

@@ -1,7 +1,7 @@
 # Bearing Block Machining Services
 **Status:** Draft
 **Slug:** /industrial-machinery-cnc-machining/bearing-block-machining/
-**Meta Title:** Bearing Block Machining Services | Weldo CNC
+**Meta Title:** Bearing Block Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Bearing Block Machining Services
 **Parent:** [[industrial-machinery-cnc-machining]]

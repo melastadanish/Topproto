@@ -1,8 +1,8 @@
 # CNC Machining [Country] — Country Hub Page Template
 **Status:** Draft
 **Slug:** /cnc-machining-[country]/
-**Meta Title:** CNC Machining [Country] | Precision CNC Parts for [Country] Engineers | Weldo CNC
-**Meta Description:** Weldo CNC supplies precision CNC machined parts to engineers across [Country] — tight tolerances, full documentation, ISO 9001:2015. Quote in 24 hours. DDP delivery in [X–Y] days.
+**Meta Title:** CNC Machining [Country] | Precision CNC Parts for [Country] Engineers | TOP PROTO
+**Meta Description:** TOP PROTO supplies precision CNC machined parts to engineers across [Country] — tight tolerances, full documentation, ISO 9001:2015. Quote in 24 hours. DDP delivery in [X–Y] days.
 **Target Keyword:** CNC Machining [Country]
 **Secondary Keywords:** cnc machining services [country], precision cnc parts [country], cnc machined parts [country], cnc machining supplier [country]
 
@@ -10,7 +10,7 @@
 ## Sections — Standard (every country page)
 - [ ] 1. Hero
 - [ ] 2. Stats Bar
-- [ ] 3. Why [Country] Engineers Source from Weldo CNC
+- [ ] 3. Why [Country] Engineers Source from TOP PROTO
 - [ ] 4. How It Works — From Quote to Delivery
 - [ ] 5. Services
 - [ ] 6. Materials
@@ -44,11 +44,11 @@
 
 ---
 
-## Section 3: Why [Country] Engineers Source from Weldo CNC
+## Section 3: Why [Country] Engineers Source from TOP PROTO
 **Design:** 2-column — text left, image right. White background.
 **Heading:** Precision Manufacturing. Delivered to [Country].
 
-Engineers across [Country] source precision CNC machined parts from Weldo CNC for a straightforward reason: the tolerance capability, material range, and documentation standard that would cost a premium at a local precision shop are standard operations at our Dongguan facility — at a cost that makes high-complexity, tight-tolerance work commercially viable even at low volumes.
+Engineers across [Country] source precision CNC machined parts from TOP PROTO for a straightforward reason: the tolerance capability, material range, and documentation standard that would cost a premium at a local precision shop are standard operations at our Dongguan facility — at a cost that makes high-complexity, tight-tolerance work commercially viable even at low volumes.
 
 We understand the concerns that come with sourcing from China. Communication across timezones. IP protection. Quality that doesn't match what was quoted. Delivery delays that kill a project timeline. These are real considerations, and we address them directly: all communication in English, 24-hour quote and response turnaround, ISO 9001:2015 certified QMS, NDA available before any file transfer, and DDP shipping so there are no customs surprises on arrival.
 
@@ -128,7 +128,7 @@ Parts delivered to your door in [Country]. Typical transit [X–Y] business days
 Sourcing precision CNC parts from China to the UK since Brexit involves a few steps that didn't exist pre-2021. Understanding them upfront prevents delays and unexpected costs.
 
 **DDP means we handle it**
-All Weldo CNC shipments to the UK are sent DDP — Delivered Duty Paid. We file the import declaration, pay the customs duty, and handle clearance before the parcel reaches your door. You receive parts with no additional charges and no need to appoint a customs broker.
+All TOP PROTO shipments to the UK are sent DDP — Delivered Duty Paid. We file the import declaration, pay the customs duty, and handle clearance before the parcel reaches your door. You receive parts with no additional charges and no need to appoint a customs broker.
 
 **UK import duty on CNC machined parts**
 Most CNC machined metal parts fall under Chapter 84 or 73 of the UK Global Tariff. Typical duty rates:
@@ -137,7 +137,7 @@ Most CNC machined metal parts fall under Chapter 84 or 73 of the UK Global Tarif
 - Precision machined components (HS 8466.93): 0–2%
 - Titanium parts (HS 8108.99): 0%
 
-Under DDP, these are paid by Weldo CNC and included in your quoted price.
+Under DDP, these are paid by TOP PROTO and included in your quoted price.
 
 **VAT on import**
 20% UK import VAT applies to goods imported from China. Under DDP, this is handled at the border and included in the delivered price. If you are VAT-registered, you can reclaim import VAT through your standard VAT return — confirm with your accountant.
@@ -161,7 +161,7 @@ DHL Express and FedEx International Priority: typically 3–5 business days from
 | Incoterms | DDP (UK) |
 | Import duty | Included in quoted price |
 | UK import VAT (20%) | Included in DDP — reclaimable if VAT registered |
-| Customs clearance | Handled by Weldo CNC |
+| Customs clearance | Handled by TOP PROTO |
 | Transit time | 3–5 business days |
 | Carriers | DHL Express / FedEx |
 | Documents | Invoice, packing list, HS codes, COO, material certs |
@@ -174,10 +174,10 @@ DHL Express and FedEx International Priority: typically 3–5 business days from
 
 Key points to address:
 - Section 301 tariffs on Chinese goods (25% on most machined metal parts under HTS Chapter 84/73/76)
-- Under DDP, Weldo CNC pays Section 301 tariffs — confirm this is included in quote
+- Under DDP, TOP PROTO pays Section 301 tariffs — confirm this is included in quote
 - ISF filing (Importer Security Filing) — handled by freight forwarder
 - FDA registration not required for machined components (only finished medical devices)
-- ITAR: Weldo CNC is not ITAR registered — defence programmes requiring ITAR compliance cannot use Weldo CNC for controlled technical data
+- ITAR: TOP PROTO is not ITAR registered — defence programmes requiring ITAR compliance cannot use TOP PROTO for controlled technical data
 
 ---
 

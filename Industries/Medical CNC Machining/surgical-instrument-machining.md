@@ -1,7 +1,7 @@
 # Surgical Instrument Machining Services
 **Status:** Draft
 **Slug:** /medical-cnc-machining/surgical-instrument-machining/
-**Meta Title:** Surgical Instrument Machining Services | Weldo CNC
+**Meta Title:** Surgical Instrument Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Surgical Instrument Machining Services
 **Parent:** [[medical-cnc-machining]]

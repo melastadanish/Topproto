@@ -1,8 +1,8 @@
 # ABS CNC Machining Services
 **Status:** Complete
 **Slug:** /abs-cnc-machining-services/
-**Meta Title:** ABS CNC Machining Services | CNC Machined ABS Parts | Weldo CNC
-**Meta Description:** Weldo CNC machines ABS parts to tight tolerances — standard ABS, ABS+PC, flame retardant, and ESD grades. In-house finishing. ISO 9001:2015. Quote in 24 hours.
+**Meta Title:** ABS CNC Machining Services | CNC Machined ABS Parts | TOP PROTO
+**Meta Description:** TOP PROTO machines ABS parts to tight tolerances — standard ABS, ABS+PC, flame retardant, and ESD grades. In-house finishing. ISO 9001:2015. Quote in 24 hours.
 **Target Keyword:** ABS CNC Machining Services
 **Secondary Keywords:** cnc machined abs parts, abs cnc machining, abs plastic machining, abs+pc cnc machining, abs machining tolerances
 
@@ -20,7 +20,7 @@
 - [x] 10. Pros & Cons
 - [x] 11. Quality & Certifications (RS-01)
 - [x] 12. Gallery
-- [x] 13. Why Choose Weldo CNC
+- [x] 13. Why Choose TOP PROTO
 - [x] 14. FAQ
 - [x] 15. Blog / Resources
 - [x] 16. Final CTA + Form (RS-03)
@@ -209,9 +209,9 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 13: Why Choose Weldo CNC for ABS Machining
+## Section 13: Why Choose TOP PROTO for ABS Machining
 **Design:** 2-column — 5 points left, image right. White background.
-**Heading:** Why Engineers Specify Weldo CNC for ABS
+**Heading:** Why Engineers Specify TOP PROTO for ABS
 
 **Grade selection support before you commit.**
 Standard ABS, ABS+PC, FR, ESD — the right grade depends on what the part actually does. We'll ask about operating temperature, UL requirements, ESD sensitivity, and finishing requirements at quote stage. Getting the grade right before machining starts is cheaper than finding out the part can't handle the environment after.
@@ -223,7 +223,7 @@ Tight tolerance ABS parts need context. A bore mating with a metal shaft has dif
 Standard ABS and powder coating don't mix without distortion. We see this regularly on drawings from designers who've specified a finish without checking the cure temperature against the material HDT. We catch it at quote stage, not at the curing oven.
 
 **Finishing in-house under our QMS.**
-Painting, bead blasting, and surface treatment at Weldo CNC or qualified local partners under our QMS. No parts disappearing between suppliers, no finish quality that doesn't match what was quoted.
+Painting, bead blasting, and surface treatment at TOP PROTO or qualified local partners under our QMS. No parts disappearing between suppliers, no finish quality that doesn't match what was quoted.
 
 **Full documentation with every order.**
 Material certificate, dimensional inspection report, packing list. Same documentation standard for ABS prototype quantities as for production runs. If you need grade certification or specific compliance documentation, confirm at RFQ stage.
@@ -263,7 +263,7 @@ Flame retardant ABS grades (UL 94 V-0 and V-1 rated) are available and we machin
 
 ## Section 16: Final CTA + Form
 **Design:** RS-03. 2-column split.
-**Heading:** Machine Your ABS Parts at Weldo CNC
+**Heading:** Machine Your ABS Parts at TOP PROTO
 **Subtext:** Upload your STEP file and tell us the grade, tolerance class, and finish requirements. We review grade suitability, tolerance feasibility on thermoplastic, and finishing compatibility — then return a complete quote within 24 hours.
 **Bullets:**
 - ✅ Standard ABS, ABS+PC, FR, and ESD grades available

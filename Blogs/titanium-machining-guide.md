@@ -1,7 +1,7 @@
 # Titanium Machining Guide
 **Status:** Draft
 **Slug:** /knowledge-base/materials/titanium-machining-guide/
-**Meta Title:** Titanium Machining Guide | Weldo CNC
+**Meta Title:** Titanium Machining Guide | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Titanium Machining Guide
 **Parent:** [[knowledge-base-materials]]

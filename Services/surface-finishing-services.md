@@ -1,8 +1,8 @@
 # Surface Finishing Services
 **Status:** Complete
 **Slug:** /surface-finishing-services/
-**Meta Title:** Surface Finishing Services | Metal Finishing for CNC Parts | Weldo CNC
-**Meta Description:** Weldo CNC provides metal finishing services for CNC machined parts — anodizing, passivation, powder coating, nickel plating, electropolishing and more. ISO 9001:2015. Quote in 24 hours.
+**Meta Title:** Surface Finishing Services | Metal Finishing for CNC Parts | TOP PROTO
+**Meta Description:** TOP PROTO provides metal finishing services for CNC machined parts — anodizing, passivation, powder coating, nickel plating, electropolishing and more. ISO 9001:2015. Quote in 24 hours.
 **Target Keyword:** Surface Finishing Services
 **Secondary Keywords:** metal finishing services, anodizing services, cnc part finishing, post-machining finishing, surface treatment for cnc parts
 
@@ -18,7 +18,7 @@
 - [x] 8. Industries Served
 - [x] 9. Quality & Certifications (RS-01)
 - [x] 10. Gallery
-- [x] 11. Why Choose Weldo CNC
+- [x] 11. Why Choose TOP PROTO
 - [x] 12. FAQ
 - [x] 13. Blog / Resources
 - [x] 14. Final CTA + Form (RS-03)
@@ -163,9 +163,9 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 11: Why Choose Weldo CNC
+## Section 11: Why Choose TOP PROTO
 **Design:** 2-column — 5 points left, image right. White background.
-**Heading:** Why Engineers Trust Weldo CNC for Surface Finishing
+**Heading:** Why Engineers Trust TOP PROTO for Surface Finishing
 
 **Finishing planned into the manufacturing sequence — not bolted on at the end.**
 Coating thickness affects tolerances. Masking affects finishing coverage. Pre-coat surface condition affects finish adhesion. We plan all of this when the job is quoted — not discovered when parts come back from an external finishing house and don't fit.
@@ -177,7 +177,7 @@ Threads, precision bores, sealing faces — masked before finishing, re-checked 
 Process record, coating thickness measurements, visual inspection sign-off, and material cert with every finished order. For aerospace and medical applications where finish traceability is required, that documentation is standard — not an additional charge.
 
 **One order, one point of contact.**
-Parts machined at Weldo CNC finish at Weldo CNC or our qualified local partners under our QMS. No separate PO to a finishing house, no coordination between two suppliers, no misplaced parts between handoffs.
+Parts machined at TOP PROTO finish at TOP PROTO or our qualified local partners under our QMS. No separate PO to a finishing house, no coordination between two suppliers, no misplaced parts between handoffs.
 
 **Qualified finishing partners under our QMS.**
 For specialist processes — hardcoat anodize, electroless nickel, electropolishing, powder coat — we work with qualified local partners whose process controls and documentation meet our ISO 9001:2015 requirements. You get the specialist process; we take accountability for the result.

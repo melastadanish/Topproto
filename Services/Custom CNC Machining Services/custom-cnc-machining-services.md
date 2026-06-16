@@ -1,8 +1,8 @@
 # Custom CNC Machining Services
 **Status:** Complete
 **Slug:** /custom-cnc-machining-services/
-**Meta Title:** Custom CNC Machining Services | Weldo CNC
-**Meta Description:** Weldo CNC is a precision CNC machining shop in Dongguan with 20+ years producing tight-tolerance custom machined parts. ISO 9001:2015. Quote in 24 hours.
+**Meta Title:** Custom CNC Machining Services | TOP PROTO
+**Meta Description:** TOP PROTO is a precision CNC machining shop in Dongguan with 20+ years producing tight-tolerance custom machined parts. ISO 9001:2015. Quote in 24 hours.
 **Target Keyword:** Custom CNC Machining Services
 **Secondary Keywords:** precision cnc machining, cnc machining shop, cnc machining parts, custom machined parts, cnc machining parts supplier
 **Parent:** [[precision-machining-services]]
@@ -10,7 +10,7 @@
 ---
 ## Sections
 - [x] 1. Hero
-- [x] 2. Why Weldo CNC (Stats Bar)
+- [x] 2. Why TOP PROTO (Stats Bar)
 - [x] 3. What is Custom CNC Machining
 - [x] 4. Our CNC Machining Services (sub-service cards)
 - [x] 5. Capabilities & Tolerances Table
@@ -21,7 +21,7 @@
 - [x] 10. Industries Served (icon grid)
 - [x] 11. Quality & Certifications (RS-01)
 - [x] 12. Gallery
-- [x] 13. Why Choose Weldo CNC
+- [x] 13. Why Choose TOP PROTO
 - [x] 14. FAQ
 - [x] 15. Blog / Resources
 - [x] 16. Final CTA + Form (RS-03)
@@ -38,7 +38,7 @@
 
 ---
 
-## Section 2: Why Weldo CNC
+## Section 2: Why TOP PROTO
 **Design:** 4-number stats bar. Light grey background. Full width.
 - 20+ Years Experience
 - ±0.005mm Tolerance Capability
@@ -162,9 +162,9 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 13: Why Choose Weldo CNC
+## Section 13: Why Choose TOP PROTO
 **Design:** Same as Home Section 4 — 2-column, 6 points left, image right. White background.
-**Heading:** Why Engineers Specify Weldo CNC
+**Heading:** Why Engineers Specify TOP PROTO
 
 **Content:**
 
@@ -204,7 +204,7 @@ Upload your STEP file using the quote form. Tell us the material, required toler
 **Q4: Can you machine parts to ±0.005mm tolerances?**
 Yes. That's our verified capability on suitable features. The reality is that ±0.005mm is achievable on many feature types — bores, external diameters, critical step heights — but not on all geometry. Thin features, long unsupported spans, and certain plastics introduce variables that affect what's practically achievable. We assess tolerance feasibility during DFM review and will tell you honestly if a callout is at the edge of what's reliable rather than quoting it and hoping for the best.
 
-**Q5: What makes Weldo different from other CNC machining parts suppliers?**
+**Q5: What makes TOP PROTO different from other CNC machining parts suppliers?**
 Directness, mainly. You deal with the facility that's cutting your parts, not a platform that brokers the work. Our engineers review your file, our machinists run the job, our inspection team signs it off. When something needs a decision — a DFM change, a tolerance question, a timeline issue — you get an answer from someone who knows what's happening on the floor. For engineers who've dealt with opaque online platforms, that's a meaningful difference.
 
 **Q6: Do you offer precision CNC machining for medical and aerospace applications?**

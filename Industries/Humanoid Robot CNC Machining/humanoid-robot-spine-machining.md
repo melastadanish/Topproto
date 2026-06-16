@@ -1,7 +1,7 @@
 # Humanoid Robot Spine Machining Services
 **Status:** Draft
 **Slug:** /humanoid-robot-cnc-machining/humanoid-robot-spine-machining/
-**Meta Title:** Humanoid Robot Spine Machining Services | Weldo CNC
+**Meta Title:** Humanoid Robot Spine Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Humanoid Robot Spine Machining Services
 **Parent:** [[humanoid-robot-cnc-machining]]

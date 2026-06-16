@@ -1,7 +1,7 @@
 # CNC Machining for Prototypes
 **Status:** Draft
 **Slug:** /knowledge-base/comparisons/cnc-machining-for-prototypes/
-**Meta Title:** CNC Machining for Prototypes | Weldo CNC
+**Meta Title:** CNC Machining for Prototypes | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** CNC Machining for Prototypes
 **Parent:** [[knowledge-base-comparisons]]

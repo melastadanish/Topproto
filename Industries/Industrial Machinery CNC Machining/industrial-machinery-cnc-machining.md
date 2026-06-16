@@ -1,7 +1,7 @@
 # Industrial Machinery CNC Machining
 **Status:** Draft
 **Slug:** /industrial-machinery-cnc-machining/
-**Meta Title:** Industrial Machinery CNC Machining | Weldo CNC
+**Meta Title:** Industrial Machinery CNC Machining | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Industrial Machinery CNC Machining
 **Parent:** [[cnc-machining-industries]]

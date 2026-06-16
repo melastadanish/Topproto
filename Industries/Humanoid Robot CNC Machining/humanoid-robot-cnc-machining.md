@@ -1,8 +1,8 @@
 # Humanoid Robot CNC Machining
 **Status:** Complete
 **Slug:** /humanoid-robot-cnc-machining/
-**Meta Title:** Humanoid Robot CNC Machining | Precision Robot Components | Weldo CNC
-**Meta Description:** Weldo CNC machines precision components for humanoid robot development — actuator housings, joint links, harmonic drive parts, dexterous hand components. Dongguan, China. Quote in 24 hours.
+**Meta Title:** Humanoid Robot CNC Machining | Precision Robot Components | TOP PROTO
+**Meta Description:** TOP PROTO machines precision components for humanoid robot development — actuator housings, joint links, harmonic drive parts, dexterous hand components. Dongguan, China. Quote in 24 hours.
 **Target Keyword:** Humanoid Robot CNC Machining
 **Secondary Keywords:** humanoid robot cnc machining, robot cnc machined parts, actuator housing machining, humanoid robot components, robot joint machining
 
@@ -18,7 +18,7 @@
 - [x] 8. Surface Finishes for Robot Components
 - [x] 9. Quality & Certifications (RS-01)
 - [x] 10. Gallery
-- [x] 11. Why Choose Weldo CNC
+- [x] 11. Why Choose TOP PROTO
 - [x] 12. FAQ
 - [x] 13. Blog / Resources
 - [x] 14. Final CTA + Form (RS-03)
@@ -50,9 +50,9 @@
 
 The humanoid robot sector doesn't move like aerospace. There's no multi-year qualification cycle before a geometry revision. Teams at Tesla Optimus, Unitree, Figure AI, Agility Robotics, and dozens of Chinese-based robotics startups are iterating actuator geometry, joint link topology, and hand mechanism designs in weeks — sometimes days. The manufacturing partner has to keep up.
 
-That changes what matters in a supplier. Documentation and compliance matter — but lead the quote with those and you've missed the point. What matters first is whether a revised joint housing is quoted, machined, and on a desk in Shenzhen before the next design review. Whether DFM feedback comes with the quote. Whether a bore tolerance change on a harmonic drive housing gets caught before ten sets are machined to the wrong dimension.
+That changes what matters in a supplier. Documentation and compliance matter — but lead the quote with those and you've missed the point. What matters first is whether a revised joint housing is quoted, machined, and on a desk in Dongguan before the next design review. Whether DFM feedback comes with the quote. Whether a bore tolerance change on a harmonic drive housing gets caught before ten sets are machined to the wrong dimension.
 
-We machine precision CNC components for humanoid robot development programmes and pre-production builds from our Dongguan facility — 40 minutes from Shenzhen, in the middle of China's robotics supply chain. Prototype quantities to pre-production batches. Tight tolerances on joint geometry, weight-optimised structural links, and finished surface quality on external parts that will face a camera at a product launch.
+We machine precision CNC components for humanoid robot development programmes and pre-production builds from our Dongguan facility — 40 minutes from Dongguan, in the middle of China's robotics supply chain. Prototype quantities to pre-production batches. Tight tolerances on joint geometry, weight-optimised structural links, and finished surface quality on external parts that will face a camera at a product launch.
 
 ---
 
@@ -158,12 +158,12 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 11: Why Choose Weldo CNC for Humanoid Robot Components
+## Section 11: Why Choose TOP PROTO for Humanoid Robot Components
 **Design:** 2-column — 5 points left, image right. White background.
-**Heading:** Why Robotics Engineers Specify Weldo CNC
+**Heading:** Why Robotics Engineers Specify TOP PROTO
 
 **We're in Dongguan — in the middle of China's robotics supply chain.**
-Shenzhen is 40 minutes away. Most of China's humanoid robot development is happening within 2 hours of our facility. That proximity matters for prototypes that need to get to a lab fast, for engineers who want to visit the facility, and for production batches that feed directly into a Shenzhen assembly line.
+Dongguan is 40 minutes away. Most of China's humanoid robot development is happening within 2 hours of our facility. That proximity matters for prototypes that need to get to a lab fast, for engineers who want to visit the facility, and for production batches that feed directly into a Dongguan assembly line.
 
 **DFM at every quote stage — not just the first prototype.**
 Geometry changes between iterations. A wall that worked fine at prototype weight doesn't always survive the revised loads after motion testing. We review DFM at every quote stage. If something in a revised geometry will cause a machining or tolerance problem, we raise it before cutting starts.
@@ -212,7 +212,7 @@ Yes — that's deliberate. Prototype geometry, validation batches, and pre-produ
 
 ## Section 14: Final CTA + Form
 **Design:** RS-03. 2-column split. Dark or brand-colour background to maintain editorial tone from hero.
-**Heading:** Machine Your Robot Components at Weldo CNC
+**Heading:** Machine Your Robot Components at TOP PROTO
 **Subtext:** Upload your STEP file and tell us the component, material, tolerance class, and quantity. We return a quote with DFM review within 24 hours — prototype parts from 3 days.
 **Bullets:**
 - ✅ 5-axis CNC for complex multi-face robot geometry

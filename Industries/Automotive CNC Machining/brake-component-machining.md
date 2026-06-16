@@ -1,7 +1,7 @@
 # Brake Component Machining Services
 **Status:** Draft
 **Slug:** /automotive-cnc-machining/brake-component-machining/
-**Meta Title:** Brake Component Machining Services | Weldo CNC
+**Meta Title:** Brake Component Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Brake Component Machining Services
 **Parent:** [[automotive-cnc-machining]]

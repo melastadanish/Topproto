@@ -1,7 +1,7 @@
 # CNC Surface Finish Guide
 **Status:** Draft
 **Slug:** /knowledge-base/guides/cnc-surface-finish-guide/
-**Meta Title:** CNC Surface Finish Guide | Weldo CNC
+**Meta Title:** CNC Surface Finish Guide | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** CNC Surface Finish Guide
 **Parent:** [[knowledge-base-guides]]

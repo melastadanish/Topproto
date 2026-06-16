@@ -1,8 +1,8 @@
 # Blog Archive
 **Status:** Complete
 **Slug:** /blog/
-**Meta Title:** CNC Machining Blog | Engineering Guides & Resources | Weldo CNC
-**Meta Description:** Engineering guides, material comparisons, DFM tips, and machining resources from Weldo CNC — written for engineers who design and specify precision CNC machined parts.
+**Meta Title:** CNC Machining Blog | Engineering Guides & Resources | TOP PROTO
+**Meta Description:** Engineering guides, material comparisons, DFM tips, and machining resources from TOP PROTO — written for engineers who design and specify precision CNC machined parts.
 **Target Keyword:** CNC Machining Blog
 **Secondary Keywords:** cnc machining guides, design for manufacturability, cnc machining resources, engineering blog
 

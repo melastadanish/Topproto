@@ -12,17 +12,23 @@
 
 ## Services Silo
 
-### Overview
-- [[precision-machining-services]] — /precision-machining-services/
+> Services are grouped into 5 categories matching the site navigation:
+> **Machining Services | 3D Printing | Sheet Metal | Formative Manufacturing | Solutions**
 
-### Level 1 — Main Service Pages
+### Hub
+- [[rapid-prototyping-services]] — /rapid-prototyping-services/ *(master services hub)*
+
+---
+
+### Machining Services
+
+#### Level 1 — Main Service Pages
 - [[custom-cnc-machining-services]] — /custom-cnc-machining-services/
 - [[cnc-milling-services]] — /cnc-milling-services/
 - [[cnc-turning-services]] — /cnc-turning-services/
 - [[5-axis-cnc-machining-services]] — /5-axis-cnc-machining-services/
-- [[surface-finishing-services]] — /surface-finishing-services/
 
-### Level 2 — Material Sub-Pages (under Custom CNC)
+#### Level 2 — Material Sub-Pages (under Custom CNC)
 **Metals:**
 - [[aluminium-cnc-machining-services]] — /custom-cnc-machining-services/aluminium-cnc-machining-services/
 - [[aluminium-6061-cnc-machining-services]] — /custom-cnc-machining-services/aluminium-6061-cnc-machining-services/
@@ -51,16 +57,7 @@
 - [[hdpe-cnc-machining-services]] — /custom-cnc-machining-services/hdpe-cnc-machining-services/
 - [[polypropylene-cnc-machining-services]] — /custom-cnc-machining-services/polypropylene-cnc-machining-services/
 
-**Surface Finishes:**
-- [[anodizing-cnc-machining-services]] — /custom-cnc-machining-services/anodizing-cnc-machining-services/
-- [[powder-coating-cnc-machining-services]] — /custom-cnc-machining-services/powder-coating-cnc-machining-services/
-- [[passivation-cnc-machining-services]] — /custom-cnc-machining-services/passivation-cnc-machining-services/
-- [[nickel-plating-cnc-machining-services]] — /custom-cnc-machining-services/nickel-plating-cnc-machining-services/
-- [[bead-blasting-cnc-machining-services]] — /custom-cnc-machining-services/bead-blasting-cnc-machining-services/
-- [[black-oxide-cnc-machining-services]] — /custom-cnc-machining-services/black-oxide-cnc-machining-services/
-- [[electropolishing-cnc-machining-services]] — /custom-cnc-machining-services/electropolishing-cnc-machining-services/
-
-### Level 2 — Material Sub-Pages (under CNC Milling)
+#### Level 2 — Material Sub-Pages (under CNC Milling)
 - [[aluminium-cnc-milling-services]] — /cnc-milling-services/aluminium-cnc-milling-services/
 - [[stainless-steel-cnc-milling-services]] — /cnc-milling-services/stainless-steel-cnc-milling-services/
 - [[titanium-cnc-milling-services]] — /cnc-milling-services/titanium-cnc-milling-services/
@@ -73,7 +70,7 @@
 - [[abs-cnc-milling-services]] — /cnc-milling-services/abs-cnc-milling-services/
 - [[polycarbonate-cnc-milling-services]] — /cnc-milling-services/polycarbonate-cnc-milling-services/
 
-### Level 2 — Material Sub-Pages (under CNC Turning)
+#### Level 2 — Material Sub-Pages (under CNC Turning)
 - [[aluminium-cnc-turning-services]] — /cnc-turning-services/aluminium-cnc-turning-services/
 - [[stainless-steel-cnc-turning-services]] — /cnc-turning-services/stainless-steel-cnc-turning-services/
 - [[titanium-cnc-turning-services]] — /cnc-turning-services/titanium-cnc-turning-services/
@@ -83,7 +80,7 @@
 - [[delrin-cnc-turning-services]] — /cnc-turning-services/delrin-cnc-turning-services/
 - [[nylon-cnc-turning-services]] — /cnc-turning-services/nylon-cnc-turning-services/
 
-### Level 2 — Material Sub-Pages (under 5-Axis)
+#### Level 2 — Material Sub-Pages (under 5-Axis)
 - [[aluminium-5-axis-cnc-machining-services]] — /5-axis-cnc-machining-services/aluminium-5-axis-cnc-machining-services/
 - [[stainless-steel-5-axis-cnc-machining-services]] — /5-axis-cnc-machining-services/stainless-steel-5-axis-cnc-machining-services/
 - [[titanium-5-axis-cnc-machining-services]] — /5-axis-cnc-machining-services/titanium-5-axis-cnc-machining-services/
@@ -91,91 +88,171 @@
 - [[peek-5-axis-cnc-machining-services]] — /5-axis-cnc-machining-services/peek-5-axis-cnc-machining-services/
 - [[tool-steel-5-axis-cnc-machining-services]] — /5-axis-cnc-machining-services/tool-steel-5-axis-cnc-machining-services/
 
+---
 
+### 3D Printing
+
+#### Level 1 — Hub + Technology Pages
+- [[3d-printing-services]] — /3d-printing-services/
+- [[sla-3d-printing-services]] — /3d-printing-services/sla-3d-printing-services/
+- [[sls-3d-printing-services]] — /3d-printing-services/sls-3d-printing-services/
+- [[mjf-3d-printing-services]] — /3d-printing-services/mjf-3d-printing-services/
+- [[fdm-3d-printing-services]] — /3d-printing-services/fdm-3d-printing-services/
+
+#### Level 2 — Material Sub-Pages (under 3D Printing)
+- [[resin-sla-3d-printing]] — /3d-printing-services/sla-3d-printing-services/resin-sla-3d-printing/
+- [[nylon-sls-3d-printing]] — /3d-printing-services/sls-3d-printing-services/nylon-sls-3d-printing/
+- [[pa12-mjf-3d-printing]] — /3d-printing-services/mjf-3d-printing-services/pa12-mjf-3d-printing/
+- [[abs-fdm-3d-printing]] — /3d-printing-services/fdm-3d-printing-services/abs-fdm-3d-printing/
+- [[tpu-fdm-3d-printing]] — /3d-printing-services/fdm-3d-printing-services/tpu-fdm-3d-printing/
+
+---
+
+### Sheet Metal
+
+#### Level 1 — Hub + Process Pages
+- [[sheet-metal-fabrication-services]] — /sheet-metal-fabrication-services/
+- [[laser-cutting-services]] — /sheet-metal-fabrication-services/laser-cutting-services/
+- [[metal-bending-services]] — /sheet-metal-fabrication-services/metal-bending-services/
+
+#### Level 2 — Material Sub-Pages (under Sheet Metal)
+- [[aluminium-sheet-metal-services]] — /sheet-metal-fabrication-services/aluminium-sheet-metal-services/
+- [[stainless-steel-sheet-metal-services]] — /sheet-metal-fabrication-services/stainless-steel-sheet-metal-services/
+- [[mild-steel-sheet-metal-services]] — /sheet-metal-fabrication-services/mild-steel-sheet-metal-services/
+
+---
+
+### Formative Manufacturing
+
+#### Level 1 — Hub + Service Pages
+- [[vacuum-casting-services]] — /vacuum-casting-services/
+- [[injection-molding-services]] — /injection-molding-services/
+
+#### Level 2 — Sub-Pages (under Vacuum Casting)
+- [[rigid-pu-vacuum-casting-services]] — /vacuum-casting-services/rigid-pu-vacuum-casting-services/
+- [[flexible-pu-vacuum-casting-services]] — /vacuum-casting-services/flexible-pu-vacuum-casting-services/
+- [[abs-like-vacuum-casting-services]] — /vacuum-casting-services/abs-like-vacuum-casting-services/
+- [[transparent-casting-services]] — /vacuum-casting-services/transparent-casting-services/
+
+#### Level 2 — Sub-Pages (under Injection Molding)
+- [[low-volume-injection-molding-services]] — /injection-molding-services/low-volume-injection-molding-services/
+- [[overmolding-services]] — /injection-molding-services/overmolding-services/
+- [[insert-molding-services]] — /injection-molding-services/insert-molding-services/
+- [[abs-injection-molding-services]] — /injection-molding-services/abs-injection-molding-services/
+- [[polycarbonate-injection-molding-services]] — /injection-molding-services/polycarbonate-injection-molding-services/
+- [[nylon-injection-molding-services]] — /injection-molding-services/nylon-injection-molding-services/
+- [[polypropylene-injection-molding-services]] — /injection-molding-services/polypropylene-injection-molding-services/
+
+---
+
+### Solutions
+
+#### Level 1 — Service Pages
+- [[wire-edm-services]] — /wire-edm-services/
+- [[surface-finishing-services]] — /surface-finishing-services/
+- [[rapid-prototyping-services]] — /rapid-prototyping-services/
+
+#### Level 2 — Sub-Pages (under Wire EDM)
+- [[tool-steel-wire-edm-services]] — /wire-edm-services/tool-steel-wire-edm-services/
+- [[titanium-wire-edm-services]] — /wire-edm-services/titanium-wire-edm-services/
+- [[stainless-steel-wire-edm-services]] — /wire-edm-services/stainless-steel-wire-edm-services/
+
+#### Level 2 — Sub-Pages (under Surface Finishing)
+- [[anodizing-services]] — /surface-finishing-services/anodizing-services/
+- [[powder-coating-services]] — /surface-finishing-services/powder-coating-services/
+- [[passivation-services]] — /surface-finishing-services/passivation-services/
+- [[nickel-plating-services]] — /surface-finishing-services/nickel-plating-services/
+- [[electroplating-services]] — /surface-finishing-services/electroplating-services/
+- [[bead-blasting-services]] — /surface-finishing-services/bead-blasting-services/
+- [[black-oxide-services]] — /surface-finishing-services/black-oxide-services/
+- [[electropolishing-services]] — /surface-finishing-services/electropolishing-services/
+- [[brushed-finish-services]] — /surface-finishing-services/brushed-finish-services/
+- [[painting-services]] — /surface-finishing-services/painting-services/
 
 ---
 
 ## Industries Silo
 
 ### Overview
-- [[cnc-machining-industries]] — /cnc-machining-industries/
+- [[manufacturing-industries]] — /manufacturing-industries/
 
 ### Aerospace
-- [[aerospace-cnc-machining]] — /aerospace-cnc-machining/
-  - [[propeller-machining]] — /aerospace-cnc-machining/propeller-machining/
-  - [[turbine-blade-machining]] — /aerospace-cnc-machining/turbine-blade-machining/
-  - [[hydraulic-manifold-machining]] — /aerospace-cnc-machining/hydraulic-manifold-machining/
-  - [[aircraft-bracket-machining]] — /aerospace-cnc-machining/aircraft-bracket-machining/
-  - [[avionic-housing-machining]] — /aerospace-cnc-machining/avionic-housing-machining/
+- [[aerospace-manufacturing]] — /aerospace-manufacturing/
+  - [[propeller-machining]] — /aerospace-manufacturing/propeller-machining/
+  - [[turbine-blade-machining]] — /aerospace-manufacturing/turbine-blade-machining/
+  - [[hydraulic-manifold-machining]] — /aerospace-manufacturing/hydraulic-manifold-machining/
+  - [[aircraft-bracket-machining]] — /aerospace-manufacturing/aircraft-bracket-machining/
+  - [[avionic-housing-machining]] — /aerospace-manufacturing/avionic-housing-machining/
 
 ### Medical
-- [[medical-cnc-machining]] — /medical-cnc-machining/
-  - [[surgical-instrument-machining]] — /medical-cnc-machining/surgical-instrument-machining/
-  - [[implant-machining]] — /medical-cnc-machining/implant-machining/
-  - [[medical-device-housing-machining]] — /medical-cnc-machining/medical-device-housing-machining/
-  - [[bone-screw-machining]] — /medical-cnc-machining/bone-screw-machining/
+- [[medical-manufacturing]] — /medical-manufacturing/
+  - [[surgical-instrument-machining]] — /medical-manufacturing/surgical-instrument-machining/
+  - [[implant-machining]] — /medical-manufacturing/implant-machining/
+  - [[medical-device-housing-machining]] — /medical-manufacturing/medical-device-housing-machining/
+  - [[bone-screw-machining]] — /medical-manufacturing/bone-screw-machining/
 
 ### Automotive
-- [[automotive-cnc-machining]] — /automotive-cnc-machining/
-  - [[engine-component-machining]] — /automotive-cnc-machining/engine-component-machining/
-  - [[transmission-part-machining]] — /automotive-cnc-machining/transmission-part-machining/
-  - [[brake-component-machining]] — /automotive-cnc-machining/brake-component-machining/
-  - [[suspension-part-machining]] — /automotive-cnc-machining/suspension-part-machining/
+- [[automotive-manufacturing]] — /automotive-manufacturing/
+  - [[engine-component-machining]] — /automotive-manufacturing/engine-component-machining/
+  - [[transmission-part-machining]] — /automotive-manufacturing/transmission-part-machining/
+  - [[brake-component-machining]] — /automotive-manufacturing/brake-component-machining/
+  - [[suspension-part-machining]] — /automotive-manufacturing/suspension-part-machining/
 
 ### Electronics
-- [[electronics-cnc-machining]] — /electronics-cnc-machining/
-  - [[heat-sink-machining]] — /electronics-cnc-machining/heat-sink-machining/
-  - [[enclosure-machining]] — /electronics-cnc-machining/enclosure-machining/
-  - [[connector-machining]] — /electronics-cnc-machining/connector-machining/
+- [[electronics-manufacturing]] — /electronics-manufacturing/
+  - [[heat-sink-machining]] — /electronics-manufacturing/heat-sink-machining/
+  - [[enclosure-machining]] — /electronics-manufacturing/enclosure-machining/
+  - [[connector-machining]] — /electronics-manufacturing/connector-machining/
 
 ### Defense
-- [[defense-cnc-machining]] — /defense-cnc-machining/
-  - [[optic-mount-machining]] — /defense-cnc-machining/optic-mount-machining/
-  - [[armour-component-machining]] — /defense-cnc-machining/armour-component-machining/
-  - [[weapon-component-machining]] — /defense-cnc-machining/weapon-component-machining/
+- [[defense-manufacturing]] — /defense-manufacturing/
+  - [[optic-mount-machining]] — /defense-manufacturing/optic-mount-machining/
+  - [[armour-component-machining]] — /defense-manufacturing/armour-component-machining/
+  - [[weapon-component-machining]] — /defense-manufacturing/weapon-component-machining/
 
 ### Mining
-- [[mining-cnc-machining]] — /mining-cnc-machining/
-  - [[drill-bit-machining]] — /mining-cnc-machining/drill-bit-machining/
-  - [[pump-component-machining]] — /mining-cnc-machining/pump-component-machining/
-  - [[bearing-housing-machining]] — /mining-cnc-machining/bearing-housing-machining/
+- [[mining-manufacturing]] — /mining-manufacturing/
+  - [[drill-bit-machining]] — /mining-manufacturing/drill-bit-machining/
+  - [[pump-component-machining]] — /mining-manufacturing/pump-component-machining/
+  - [[bearing-housing-machining]] — /mining-manufacturing/bearing-housing-machining/
 
 ### Robotics & Automation
-- [[robotics-cnc-machining]] — /robotics-cnc-machining/
-  - [[end-effector-machining]] — /robotics-cnc-machining/end-effector-machining/
-  - [[robot-arm-machining]] — /robotics-cnc-machining/robot-arm-machining/
-  - [[robot-joint-machining]] — /robotics-cnc-machining/robot-joint-machining/
+- [[robotics-manufacturing]] — /robotics-manufacturing/
+  - [[end-effector-machining]] — /robotics-manufacturing/end-effector-machining/
+  - [[robot-arm-machining]] — /robotics-manufacturing/robot-arm-machining/
+  - [[robot-joint-machining]] — /robotics-manufacturing/robot-joint-machining/
 
-### Humanoid Robot ( different design)
-- [[humanoid-robot-cnc-machining]] — /humanoid-robot-cnc-machining/
-  - [[humanoid-robot-finger-machining]] — /humanoid-robot-cnc-machining/humanoid-robot-finger-machining/
-  - [[humanoid-robot-hand-machining]] — /humanoid-robot-cnc-machining/humanoid-robot-hand-machining/
-  - [[humanoid-robot-joint-machining]] — /humanoid-robot-cnc-machining/humanoid-robot-joint-machining/
-  - [[humanoid-robot-arm-machining]] — /humanoid-robot-cnc-machining/humanoid-robot-arm-machining/
-  - [[humanoid-robot-spine-machining]] — /humanoid-robot-cnc-machining/humanoid-robot-spine-machining/
-  - [[humanoid-robot-foot-machining]] — /humanoid-robot-cnc-machining/humanoid-robot-foot-machining/
-  - [[humanoid-robot-head-housing-machining]] — /humanoid-robot-cnc-machining/humanoid-robot-head-housing-machining/
+### Humanoid Robotics
+- [[humanoid-robot-manufacturing]] — /humanoid-robot-manufacturing/
+  - [[humanoid-robot-finger-machining]] — /humanoid-robot-manufacturing/humanoid-robot-finger-machining/
+  - [[humanoid-robot-hand-machining]] — /humanoid-robot-manufacturing/humanoid-robot-hand-machining/
+  - [[humanoid-robot-joint-machining]] — /humanoid-robot-manufacturing/humanoid-robot-joint-machining/
+  - [[humanoid-robot-arm-machining]] — /humanoid-robot-manufacturing/humanoid-robot-arm-machining/
+  - [[humanoid-robot-spine-machining]] — /humanoid-robot-manufacturing/humanoid-robot-spine-machining/
+  - [[humanoid-robot-foot-machining]] — /humanoid-robot-manufacturing/humanoid-robot-foot-machining/
+  - [[humanoid-robot-head-housing-machining]] — /humanoid-robot-manufacturing/humanoid-robot-head-housing-machining/
 
 ### Energy & Power
-- [[energy-cnc-machining]] — /energy-cnc-machining/
-  - [[turbine-casing-machining]] — /energy-cnc-machining/turbine-casing-machining/
-  - [[impeller-machining]] — /energy-cnc-machining/impeller-machining/
-  - [[wind-turbine-hub-machining]] — /energy-cnc-machining/wind-turbine-hub-machining/
-  - [[pump-body-machining]] — /energy-cnc-machining/pump-body-machining/
-  - [[valve-body-machining]] — /energy-cnc-machining/valve-body-machining/
+- [[energy-manufacturing]] — /energy-manufacturing/
+  - [[turbine-casing-machining]] — /energy-manufacturing/turbine-casing-machining/
+  - [[impeller-machining]] — /energy-manufacturing/impeller-machining/
+  - [[wind-turbine-hub-machining]] — /energy-manufacturing/wind-turbine-hub-machining/
+  - [[pump-body-machining]] — /energy-manufacturing/pump-body-machining/
+  - [[valve-body-machining]] — /energy-manufacturing/valve-body-machining/
 
 ### Industrial Machinery
-- [[industrial-machinery-cnc-machining]] — /industrial-machinery-cnc-machining/
-  - [[gearbox-housing-machining]] — /industrial-machinery-cnc-machining/gearbox-housing-machining/
-  - [[shaft-machining]] — /industrial-machinery-cnc-machining/shaft-machining/
-  - [[machine-frame-machining]] — /industrial-machinery-cnc-machining/machine-frame-machining/
-  - [[bearing-block-machining]] — /industrial-machinery-cnc-machining/bearing-block-machining/
+- [[industrial-machinery-manufacturing]] — /industrial-machinery-manufacturing/
+  - [[gearbox-housing-machining]] — /industrial-machinery-manufacturing/gearbox-housing-machining/
+  - [[shaft-machining]] — /industrial-machinery-manufacturing/shaft-machining/
+  - [[machine-frame-machining]] — /industrial-machinery-manufacturing/machine-frame-machining/
+  - [[bearing-block-machining]] — /industrial-machinery-manufacturing/bearing-block-machining/
 
 ---
 
-## Blog (merged with Knowledge Base)
+## Blog
+
 **Archive:** [[blog-archive]] — /blog/
-**Post slugs:** Root level — /[slug]/ (not nested under /blog/)
+**Post slugs:** Root level — /[slug]/
 
 ### Category: Guides
 - [[what-is-cnc-machining]] — /what-is-cnc-machining/
@@ -190,7 +267,7 @@
 - [[stainless-steel-machining-guide]] — /stainless-steel-machining-guide/
 - [[titanium-machining-guide]] — /titanium-machining-guide/
 
-### Category: Comparisons 
+### Category: Comparisons
 - [[cnc-vs-3d-printing]] — /cnc-vs-3d-printing/
 - [[5-axis-vs-3-axis-cnc-machining]] — /5-axis-vs-3-axis-cnc-machining/
 - [[cnc-machining-for-prototypes]] — /cnc-machining-for-prototypes/
@@ -218,7 +295,7 @@
 ## Case Studies
 - [[_case-study-template]] — /[part-name]-case-study/
 
-**Examples (add as real projects are available):**
+**Add when real project data is available:**
 - [[aerospace-titanium-bracket-case-study]] — /aerospace-titanium-bracket-case-study/
 - [[medical-316l-implant-housing-case-study]] — /medical-316l-implant-housing-case-study/
 - [[automotive-aluminium-suspension-arm-case-study]] — /automotive-aluminium-suspension-arm-case-study/
@@ -240,48 +317,44 @@
 
 ### USA
 - [[cnc-machining-usa]] — /cnc-machining-usa/
-  **Service + Country:**
-  - [[aluminium-cnc-machining-usa]] — /cnc-machining-usa/aluminium-cnc-machining-usa/
-  - [[stainless-steel-cnc-machining-usa]] — /cnc-machining-usa/stainless-steel-cnc-machining-usa/
-  - [[titanium-cnc-machining-usa]] — /cnc-machining-usa/titanium-cnc-machining-usa/
   - [[cnc-milling-usa]] — /cnc-machining-usa/cnc-milling-usa/
   - [[cnc-turning-usa]] — /cnc-machining-usa/cnc-turning-usa/
   - [[5-axis-cnc-machining-usa]] — /cnc-machining-usa/5-axis-cnc-machining-usa/
-  **Cities:**
-  - [[_location-city-template]] — /cnc-machining-usa/[city]/
+  - [[aluminium-cnc-machining-usa]] — /cnc-machining-usa/aluminium-cnc-machining-usa/
+  - [[stainless-steel-cnc-machining-usa]] — /cnc-machining-usa/stainless-steel-cnc-machining-usa/
+  - [[titanium-cnc-machining-usa]] — /cnc-machining-usa/titanium-cnc-machining-usa/
+  - [[3d-printing-usa]] — /cnc-machining-usa/3d-printing-usa/
+  **Cities:** [[_location-city-template]] — /cnc-machining-usa/[city]/
 
 ### UK
 - [[cnc-machining-uk]] — /cnc-machining-uk/
-  **Service + Country:**
-  - [[aluminium-cnc-machining-uk]] — /cnc-machining-uk/aluminium-cnc-machining-uk/
-  - [[stainless-steel-cnc-machining-uk]] — /cnc-machining-uk/stainless-steel-cnc-machining-uk/
-  - [[titanium-cnc-machining-uk]] — /cnc-machining-uk/titanium-cnc-machining-uk/
   - [[cnc-milling-uk]] — /cnc-machining-uk/cnc-milling-uk/
   - [[cnc-turning-uk]] — /cnc-machining-uk/cnc-turning-uk/
   - [[5-axis-cnc-machining-uk]] — /cnc-machining-uk/5-axis-cnc-machining-uk/
-  **Cities:**
-  - [[_location-city-template]] — /cnc-machining-uk/[city]/
+  - [[aluminium-cnc-machining-uk]] — /cnc-machining-uk/aluminium-cnc-machining-uk/
+  - [[stainless-steel-cnc-machining-uk]] — /cnc-machining-uk/stainless-steel-cnc-machining-uk/
+  - [[titanium-cnc-machining-uk]] — /cnc-machining-uk/titanium-cnc-machining-uk/
+  - [[3d-printing-uk]] — /cnc-machining-uk/3d-printing-uk/
+  **Cities:** [[_location-city-template]] — /cnc-machining-uk/[city]/
 
 ### Germany
 - [[cnc-machining-germany]] — /cnc-machining-germany/
-  **Service + Country:**
-  - [[aluminium-cnc-machining-germany]] — /cnc-machining-germany/aluminium-cnc-machining-germany/
-  - [[stainless-steel-cnc-machining-germany]] — /cnc-machining-germany/stainless-steel-cnc-machining-germany/
-  - [[titanium-cnc-machining-germany]] — /cnc-machining-germany/titanium-cnc-machining-germany/
   - [[cnc-milling-germany]] — /cnc-machining-germany/cnc-milling-germany/
   - [[cnc-turning-germany]] — /cnc-machining-germany/cnc-turning-germany/
   - [[5-axis-cnc-machining-germany]] — /cnc-machining-germany/5-axis-cnc-machining-germany/
-  **Cities:**
-  - [[_location-city-template]] — /cnc-machining-germany/[city]/
+  - [[aluminium-cnc-machining-germany]] — /cnc-machining-germany/aluminium-cnc-machining-germany/
+  - [[stainless-steel-cnc-machining-germany]] — /cnc-machining-germany/stainless-steel-cnc-machining-germany/
+  - [[titanium-cnc-machining-germany]] — /cnc-machining-germany/titanium-cnc-machining-germany/
+  - [[3d-printing-germany]] — /cnc-machining-germany/3d-printing-germany/
+  **Cities:** [[_location-city-template]] — /cnc-machining-germany/[city]/
 
 ### France
 - [[cnc-machining-france]] — /cnc-machining-france/
-  **Service + Country:**
-  - [[aluminium-cnc-machining-france]] — /cnc-machining-france/aluminium-cnc-machining-france/
-  - [[stainless-steel-cnc-machining-france]] — /cnc-machining-france/stainless-steel-cnc-machining-france/
-  - [[titanium-cnc-machining-france]] — /cnc-machining-france/titanium-cnc-machining-france/
   - [[cnc-milling-france]] — /cnc-machining-france/cnc-milling-france/
   - [[cnc-turning-france]] — /cnc-machining-france/cnc-turning-france/
   - [[5-axis-cnc-machining-france]] — /cnc-machining-france/5-axis-cnc-machining-france/
-  **Cities:**
-  - [[_location-city-template]] — /cnc-machining-france/[city]/
+  - [[aluminium-cnc-machining-france]] — /cnc-machining-france/aluminium-cnc-machining-france/
+  - [[stainless-steel-cnc-machining-france]] — /cnc-machining-france/stainless-steel-cnc-machining-france/
+  - [[titanium-cnc-machining-france]] — /cnc-machining-france/titanium-cnc-machining-france/
+  - [[3d-printing-france]] — /cnc-machining-france/3d-printing-france/
+  **Cities:** [[_location-city-template]] — /cnc-machining-france/[city]/

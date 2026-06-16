@@ -1,7 +1,7 @@
 # Wind Turbine Hub Machining Services
 **Status:** Draft
 **Slug:** /energy-cnc-machining/wind-turbine-hub-machining/
-**Meta Title:** Wind Turbine Hub Machining Services | Weldo CNC
+**Meta Title:** Wind Turbine Hub Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Wind Turbine Hub Machining Services
 **Parent:** [[energy-cnc-machining]]

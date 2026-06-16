@@ -1,7 +1,7 @@
 # Aircraft Bracket Machining Services
 **Status:** Draft
 **Slug:** /aerospace-cnc-machining/aircraft-bracket-machining/
-**Meta Title:** Aircraft Bracket Machining Services | Weldo CNC
+**Meta Title:** Aircraft Bracket Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Aircraft Bracket Machining Services
 **Parent:** [[aerospace-cnc-machining]]

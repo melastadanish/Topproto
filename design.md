@@ -3,7 +3,7 @@
 ## Brand
 - Business: CNC Machining focused
 - Reference sites: rapiddirect.com, hubs.com, elimold.com
-- Old site: weldomachining.com
+- Old site: topprotomachining.com
 
 ---
 
@@ -66,7 +66,7 @@ Applied to: custom-cnc-machining-services, cnc-milling-services, cnc-turning-ser
 | # | Section | Layout | Background |
 |---|---|---|---|
 | 1 | Hero | 50/50 split — text left, image right | White |
-| 2 | Why Weldo (Stats Bar) | 4-number row | Light grey |
+| 2 | Why TOP PROTO (Stats Bar) | 4-number row | Light grey |
 | 3 | What is [Service] | 2-column — text left, image right | White |
 | 4 | Our Services (sub-service cards) | 2×3 card grid | Light grey |
 | 5 | Capabilities & Tolerances Table | Full-width table | White |
@@ -77,7 +77,7 @@ Applied to: custom-cnc-machining-services, cnc-milling-services, cnc-turning-ser
 | 10 | Industries Served | 5-column icon grid | White |
 | 11 | Quality & Certifications | RS-01 3-column | Dark (navy/charcoal) |
 | 12 | Gallery | Masonry grid 6–8 images | Light grey |
-| 13 | Why Choose Weldo | 2-column — 6 points left, image right | White |
+| 13 | Why Choose TOP PROTO | 2-column — 6 points left, image right | White |
 | 14 | FAQ | Accordion, first item open | White |
 | 15 | Blog / Resources | 3-card grid | Light grey |
 | 16 | Final CTA + Form | RS-03 2-column split | White or accent |

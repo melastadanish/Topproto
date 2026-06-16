@@ -1,8 +1,8 @@
 # CNC Machining [City] — City Page Template
 **Status:** Draft
 **Slug:** /cnc-machining-[country]/[city]/
-**Meta Title:** CNC Machining [City] | Precision CNC Parts Delivered to [City] | Weldo CNC
-**Meta Description:** Weldo CNC supplies precision CNC machined parts to engineers in [City] — tight tolerances, ISO 9001:2015, DDP delivery. Compare local [City] CNC shops vs Weldo CNC.
+**Meta Title:** CNC Machining [City] | Precision CNC Parts Delivered to [City] | TOP PROTO
+**Meta Description:** TOP PROTO supplies precision CNC machined parts to engineers in [City] — tight tolerances, ISO 9001:2015, DDP delivery. Compare local [City] CNC shops vs TOP PROTO.
 **Target Keyword:** CNC Machining [City]
 **Secondary Keywords:** cnc machining services [city], precision cnc parts [city], cnc machined parts [city], cnc shop [city] alternative
 
@@ -13,7 +13,7 @@
 - [ ] 3. CNC Machining in [City] ← big flexible local content section
 - [ ] 4. Services
 - [ ] 5. Local CNC Machine Shops in [City]
-- [ ] 6. Weldo CNC vs Local [City] Shops — Comparison
+- [ ] 6. TOP PROTO vs Local [City] Shops — Comparison
 - [ ] 7. Shipping to [City]
 - [ ] 8. Industries in [City]
 - [ ] 9. Quality & Certifications (RS-01)
@@ -54,7 +54,7 @@ This is the highest-value section on the city page for both SEO and user relevan
 - Key engineering companies, clusters, or institutions in [City]
 - Specific part types or material requirements common to [City]'s industries
 - Any local market context — what [City] engineers prioritise (speed, cost, compliance, documentation)
-- Why local CNC shop capacity can be a bottleneck and where Weldo CNC fits in
+- Why local CNC shop capacity can be a bottleneck and where TOP PROTO fits in
 
 **Minimum length when written:** 300–400 words.
 **Tone:** Specific, local, factual. Not a list — flowing editorial paragraphs.
@@ -152,11 +152,11 @@ Website: coxmfg.co.uk
 
 ---
 
-## Section 6: Weldo CNC vs Local [City] Shops
+## Section 6: TOP PROTO vs Local [City] Shops
 **Design:** Comparison table + two call-out boxes. Light grey background.
 **Heading:** Choosing the Right Supplier for Your Job
 
-| | Local [City] CNC Shop | Weldo CNC (Dongguan) |
+| | Local [City] CNC Shop | TOP PROTO (Dongguan) |
 |---|---|---|
 | **Lead time** | 2–6 weeks typical | From 3 business days manufacturing |
 | **Delivered to [City]** | Same day or next day | [X–Y] days DDP — duties included |
@@ -174,7 +174,7 @@ Website: coxmfg.co.uk
 - Your programme requires an on-site auditable supplier (AS9100D, ISO 13485 certified locally)
 - You're buying a small number of simple parts where the DDP transit time doesn't justify offshore
 
-**When Weldo CNC is the right call:**
+**When TOP PROTO is the right call:**
 - Tight tolerances — ±0.005–0.025mm on complex geometry
 - Full documentation required — CMM report, material cert, finish record
 - Quantities of 5–500 parts where local precision shop pricing becomes significant
@@ -234,7 +234,7 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 Our facility is in Dongguan, China. We welcome visits from engineers who want to audit the operation — we can arrange this with advance notice. For most [City] customers, the CMM report, material cert, and ISO 9001:2015 certification provide sufficient confidence without a site visit. Video walkthrough available on request.
 
 **Q3: How do you compare to [most prominent local shop]?**
-[Shop name] is a capable local supplier — well suited to urgent jobs and programmes requiring a locally auditable supplier. Weldo CNC is typically the stronger choice for tight-tolerance work, full documentation requirements, specialist materials, and quantities where local pricing becomes significant. Send us the drawing and we'll quote — you can compare directly.
+[Shop name] is a capable local supplier — well suited to urgent jobs and programmes requiring a locally auditable supplier. TOP PROTO is typically the stronger choice for tight-tolerance work, full documentation requirements, specialist materials, and quantities where local pricing becomes significant. Send us the drawing and we'll quote — you can compare directly.
 
 **Q4: What if there's a quality issue?**
 Parts ship with a CMM dimensional report. If a part doesn't conform to the drawing and the report confirms it, we remake or credit — without dispute. Non-conformances are identified at our inspection stage before shipping.

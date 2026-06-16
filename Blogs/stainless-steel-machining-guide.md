@@ -1,7 +1,7 @@
 # Stainless Steel Machining Guide
 **Status:** Draft
 **Slug:** /knowledge-base/materials/stainless-steel-machining-guide/
-**Meta Title:** Stainless Steel Machining Guide | Weldo CNC
+**Meta Title:** Stainless Steel Machining Guide | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Stainless Steel Machining Guide
 **Parent:** [[knowledge-base-materials]]

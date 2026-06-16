@@ -1,7 +1,7 @@
 # End Effector Machining Services
 **Status:** Draft
 **Slug:** /robotics-cnc-machining/end-effector-machining/
-**Meta Title:** End Effector Machining Services | Weldo CNC
+**Meta Title:** End Effector Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** End Effector Machining Services
 **Parent:** [[robotics-cnc-machining]]

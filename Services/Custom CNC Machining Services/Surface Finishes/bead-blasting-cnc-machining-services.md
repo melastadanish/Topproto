@@ -1,7 +1,7 @@
 # Bead Blasting CNC Machining Services
 **Status:** Draft
 **Slug:** /custom-cnc-machining-services/bead-blasting-cnc-machining-services/
-**Meta Title:** Bead Blasting CNC Machining Services | Weldo CNC
+**Meta Title:** Bead Blasting CNC Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Bead Blasting CNC Machining Services
 **Parent:** [[custom-cnc-machining-services]]

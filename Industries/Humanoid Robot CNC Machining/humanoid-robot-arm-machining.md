@@ -1,7 +1,7 @@
 # Humanoid Robot Arm Machining Services
 **Status:** Draft
 **Slug:** /humanoid-robot-cnc-machining/humanoid-robot-arm-machining/
-**Meta Title:** Humanoid Robot Arm Machining Services | Weldo CNC
+**Meta Title:** Humanoid Robot Arm Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Humanoid Robot Arm Machining Services
 **Parent:** [[humanoid-robot-cnc-machining]]

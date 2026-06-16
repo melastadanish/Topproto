@@ -1,7 +1,7 @@
 # Humanoid Robot Head Housing Machining Services
 **Status:** Draft
 **Slug:** /humanoid-robot-cnc-machining/humanoid-robot-head-housing-machining/
-**Meta Title:** Humanoid Robot Head Housing Machining Services | Weldo CNC
+**Meta Title:** Humanoid Robot Head Housing Machining Services | TOP PROTO
 **Meta Description:** TBD
 **Target Keyword:** Humanoid Robot Head Housing Machining Services
 **Parent:** [[humanoid-robot-cnc-machining]]
