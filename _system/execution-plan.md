@@ -313,14 +313,62 @@ Blocked — requires real project data from client.
 
 ---
 
+## Phase 10 — New Service & Industry Pages (First-Level Slugs)
+
+> Pages matching current live URLs. Write one per commit. All stubs created 2026-06-16.
+
+### 10A — 3D Printing Sub-pages
+| Page | File | Slug | Status |
+|---|---|---|---|
+| SLA 3D Printing | `Services/3D Printing Services/stereolithography-sla-3d-printing-services.md` | /stereolithography/ | ❌ Stub |
+| SLS 3D Printing | `Services/3D Printing Services/selective-laser-sintering-sls-3d-printing-services.md` | /selective-laser-sintering/ | ❌ Stub |
+| MJF 3D Printing | `Services/3D Printing Services/hp-multi-jet-fusion-mjf-3d-printing-services.md` | /hp-multi-jet-fusion/ | ❌ Stub |
+| FDM 3D Printing | `Services/3D Printing Services/fdm-3d-printing-services.md` | /fused-deposition-moldeling/ | ❌ Stub |
+
+### 10B — Sheet Metal Services
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Sheet Metal Hub | `Services/Sheet Metal Services/sheet-metal-fabrication-services.md` | /sheet-metal/ | ❌ Stub |
+| Laser Cutting | `Services/Sheet Metal Services/laser-cutting-services.md` | /sheet-metal/laser-cutting/ | ❌ Stub |
+| Sheet Metal Bending | `Services/Sheet Metal Services/sheet-metal-bending-services.md` | /sheet-metal/bending/ | ❌ Stub |
+
+### 10C — Other Services
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Vacuum Casting | `Services/Vacuum Casting Services/vacuum-casting-services.md` | /vacuum-casting/ | ❌ Stub |
+| Injection Molding | `Services/Injection Molding Services/injection-molding-services.md` | /injection-molding/ | ❌ Stub |
+| Wire EDM | `Services/Wire EDM Services/wire-edm-services.md` | /wire-edm/ | ❌ Stub |
+| Rapid Prototyping | `Services/Rapid Prototyping Services/rapid-prototyping-services.md` | /rapid-prototyping/ | ❌ Stub |
+
+### 10D — Industry Hub Pages (Cross-Service)
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Aerospace | `Industries/Aerospace/aerospace.md` | /aerospace/ | ❌ Stub |
+| Automotive | `Industries/Automotive/automotive.md` | /automotive/ | ❌ Stub |
+| Communication | `Industries/Communication/communication.md` | /communication/ | ❌ Stub |
+| Electronics | `Industries/Electronics/electronics.md` | /electronics/ | ❌ Stub |
+| Medical Devices | `Industries/Medical Devices/medical-devices.md` | /medical-devices/ | ❌ Stub |
+| Robotics | `Industries/Robotics/robotics.md` | /robotics/ | ❌ Stub |
+| Consumer Products | `Industries/Consumer Products/consumer-products.md` | /consumer-products/ | ❌ Stub |
+| New Energy | `Industries/New Energy/new-energy.md` | /new-energy/ | ❌ Stub |
+| Semiconductor | `Industries/Semiconductor/semiconductor.md` | /semiconductor/ | ❌ Stub |
+
+### 10E — Materials
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Materials Guide | `Materials/materials.md` | /materials/ | ❌ Stub |
+
+---
+
 ## Priority Queue (Next Pages to Write)
 
 When picking the next page, use this priority order:
 
 1. Fill CLIENT-DATA-MAP.md with verified client data
 2. Alternatives pages (high conversion value, relatively fast to write)
-3. Non-CNC service hub pages (3D printing, sheet metal — prototyping positioning)
-4. Remaining CNC material sub-pages (Custom CNC metals/plastics still unconfirmed)
-5. Location pages (USA first)
-6. Industry sub-pages (audit which ones need v2 rewrite)
-7. Case studies (unblock with client data)
+3. Phase 10 — new service & industry pages (match live site)
+4. Non-CNC service hub pages (3D printing, sheet metal — prototyping positioning)
+5. Remaining CNC material sub-pages (Custom CNC metals/plastics still unconfirmed)
+6. Location pages (USA first)
+7. Industry sub-pages (audit which ones need v2 rewrite)
+8. Case studies (unblock with client data)

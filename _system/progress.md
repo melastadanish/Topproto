@@ -21,6 +21,7 @@
 | Phase 7 — Alternatives | 🔄 Partial (1/5) | Xometry done; 4 remaining |
 | Phase 8 — Locations | ❌ Not started | Templates only |
 | Phase 9 — Case Studies | ❌ Blocked | Needs real client project data |
+| Phase 10 — New Service & Industry Pages | ❌ Not started | 21 stubs created, ready to write |
 
 ---
 
@@ -190,3 +191,4 @@ All 5 are stubs (23 lines each) — service not in sitemap.md, confirm with clie
 | 2026-06-07 | 0 (governance setup) | Created _system/ folder: CLAUDE.md, CLIENT-DATA-MAP.md, WritingSystem.md, execution-plan.md, progress.md |
 | 2026-06-08 | 0 (audit + system expansion) | Audited Services. Deleted CNC Turn-Mill. Added 56 non-CNC service pages to sitemap + execution-plan. Filled CLIENT-DATA-MAP with RapidDirect reference specs. Updated sitemap to v2 (industry slugs + new services). |
 | 2026-06-08 | 1 (3D printing hub) | Written: `3d-printing-services.md` — full hub covering SLA/SLS/MJF/FDM, comparison table, materials, FAQ, QA checklist. All specs 📊 pending client verification. |
+| 2026-06-16 | 0 (Phase 10 stubs) | Created 21 stub files: 4 × 3D printing sub-pages, 3 × sheet metal, vacuum casting, injection molding, wire EDM, rapid prototyping, 9 × industry hubs, materials. All added to execution-plan Phase 10. |
