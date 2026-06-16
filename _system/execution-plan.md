@@ -317,6 +317,79 @@ Blocked — requires real project data from client.
 
 > Pages matching current live URLs. Write one per commit. All stubs created 2026-06-16.
 
+---
+
+### Phase 10 Writing Plan — Mandatory for Every Page
+
+Before writing any Phase 10 page, read:
+- `_system/WritingSystem.md` — full copy standards, passes, FAQ rules
+- `_system/CLIENT-DATA-MAP.md` — every number must trace here
+- The relevant template for the page type (see CLAUDE.md for which template applies)
+
+#### Page Structure — Required Sections (in this order)
+
+1. **Meta block** (not visible on page)
+   - Title tag: `[Primary Keyword] | TOP PROTO` — max 60 characters
+   - Meta description: benefit-led, primary keyword in first 10 words — max 155 characters
+
+2. **H1** — exact match primary keyword, no decoration
+
+3. **Entity Clarity Block** (first 100 words)
+   - Must name: TOP PROTO · service/material category · primary use case · key differentiator
+   - Must include the AI-quotable paragraph (self-contained, spec-anchored, citable verbatim)
+
+4. **What Is [Service/Material]** — process explanation, technical terms defined inline on first use
+
+5. **Capabilities / Specifications Table** — tolerances, lead times, materials, order size — all from CLIENT-DATA-MAP
+
+6. **Materials / Process Options** (where applicable) — link to sub-pages
+
+7. **Why Choose TOP PROTO for [Service]** — FAB framework, 2+ differentiators from the Pass C checklist
+
+8. **Industries Served** — link to relevant industry pages
+
+9. **FAQ Section** — all 8 required topics, every answer 3–5 sentences, spec-anchored, PAS structure
+   - Tolerance / precision
+   - Lead time
+   - Quality verification
+   - Order volume (MOQ)
+   - File formats
+   - Material options
+   - Cost / pricing
+   - Comparison (vs. competitor or alternative method — spec-to-spec)
+
+10. **CTA Section** — specific, value-exchange format: [Action verb] + [what reader receives]
+
+11. **Internal Links** — minimum 3 links to related pages using exact keyword anchor text
+
+#### Quality Gates — Run in This Sequence
+
+After writing each section → run Tier 1 checks (banned phrases · claims · readability · benefit-first · CTA specificity)
+
+After full page is compiled → run all 5 passes in order:
+- **Pass A** — full-page quality audit (score 6 dimensions)
+- **Pass B** — surgical rewrite of every A failure
+- **Pass N** — NLP/semantic coverage + required terms for the page type
+- **Pass D** — GEO/E-E-A-T check (AI-quotable para · FAQ coverage · comparison FAQ · entity clarity · expertise · authority)
+- **Pass C** — buyer conversion review (3-sec headline · first-10-words · objection coverage · CTA journey · differentiation · read-aloud · AI-written score ≤15%)
+
+Do not show content until all 5 passes are complete.
+
+#### Definition of Done (per page)
+- [ ] All 5 passes complete with no outstanding failures
+- [ ] Zero banned words/phrases
+- [ ] Every number traces to CLIENT-DATA-MAP.md
+- [ ] 8 FAQ topics covered, each answer 3–5 sentences and spec-anchored
+- [ ] Minimum 3 internal links with exact keyword anchor text
+- [ ] "TOP PROTO" spelling correct throughout (not "Top Proto" or "Topproto")
+- [ ] AI-written score ≤15%
+- [ ] Pass log added as comment at bottom of file
+- [ ] Status in this execution-plan updated to ✅ Done
+- [ ] progress.md session log updated
+- [ ] Committed and pushed — one page per commit
+
+---
+
 ### 10A — 3D Printing Sub-pages
 | Page | File | Slug | Status |
 |---|---|---|---|
