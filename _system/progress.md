@@ -1,194 +1,237 @@
-# TOP PROTO — Progress Tracker
+# TOP PROTO Progress Tracker
 
-> Update this file after every completed page.
-> This is the first thing to read at the start of a new session.
-
-**Last updated:** 2026-06-08
-**Current phase:** Services confirmed. Phase 2 partial (7 real pages, 55 stubs). Phase 3 ready to write — 40 pages across 5 confirmed service categories. Next page: 3D Printing hub.
+**Last updated:** 2026-06-16
 
 ---
 
 ## Quick Status
 
-| Phase | Status | Notes |
-|---|---|---|
-| Phase 1 — General Pages | ✅ Complete (6/6) | All pages written |
-| Phase 2 — CNC Services | 🔄 Partial (7/38) | 5 hubs + aluminium + ABS done. 62 stubs confirmed empty. |
-| Phase 3 — Non-CNC Services | ❌ Not started | Templates exist, no content |
-| Phase 4 — Industry Hubs | 🔄 Partial (~10/10) | CNC-specific versions exist; v2 rewrite needed |
-| Phase 5 — Industry Sub-pages | 🔄 Partial (~35/41) | Most written; check v2 compliance |
-| Phase 6 — Blogs | ✅ Complete (13/13) | All written; QA review pending |
-| Phase 7 — Alternatives | 🔄 Partial (1/5) | Xometry done; 4 remaining |
-| Phase 8 — Locations | ❌ Not started | Templates only |
-| Phase 9 — Case Studies | ❌ Blocked | Needs real client project data |
-| Phase 10 — New Service & Industry Pages | ❌ Not started | 53 stubs created (21 hub + 32 material sub-pages), ready to write |
-
----
-
-## Phase 1 — General Pages
-
-| Page | File | Status | QA |
+| Phase | Focus | Pages | Status |
 |---|---|---|---|
-| Home | `General Pages/home.md` | ✅ Done | [REVIEW] |
-| About Us | `General Pages/about-us.md` | ✅ Done | [REVIEW] |
-| Contact | `General Pages/contact.md` | ✅ Done | [REVIEW] |
-| Get a Quote | `General Pages/get-a-quote.md` | ✅ Done | [REVIEW] |
-| FAQ | `General Pages/faq.md` | ✅ Done | [REVIEW] |
-| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Done | [REVIEW] |
+| Phase 1 | General Pages | 6 | ✅ Complete 6/6 |
+| Phase 2 | CNC Service Hubs | 6 | ❌ Not started |
+| Phase 3 | CNC Material Sub-Pages | ~30 | ❌ Not started |
+| Phase 4 | Non-CNC Service Hubs | 13 | ❌ Not started |
+| Phase 5 | Non-CNC Material Sub-Pages | ~19 | ❌ Not started |
+| Phase 6 | Industry Hub Pages | 9 | ❌ Not started |
+| Phase 7 | Industry Part Sub-Pages | 27 | ❌ Not started |
+| Phase 8 | Location Pages | 22 | ❌ Not started |
+| Phase 9 | Alternatives Pages | 5 | ❌ Not started |
+| Phase 10 | Case Studies | TBD | Blocked |
 
 ---
 
-## Phase 2 — CNC Services
+## Phase 1: General Pages ✅ Complete
 
-### Service Hubs
-| Page | File | Status |
-|---|---|---|
-| Precision Machining (hub) | `Services/precision-machining-services.md` | ✅ Done |
-| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ✅ Done |
-| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ✅ Done |
-| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ✅ Done |
-| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ✅ Done |
-| Surface Finishing | `Services/surface-finishing-services.md` | ✅ Done |
-
-### Service Hubs (audited 2026-06-08)
-| Page | File | Lines | Status |
-|---|---|---|---|
-| Precision Machining (hub) | `Services/precision-machining-services.md` | 19 | ❌ Stub — needs full rewrite |
-| Custom CNC Machining | `Services/Custom CNC.../custom-cnc-machining-services.md` | 239 | ✅ Done |
-| CNC Milling | `Services/CNC Milling.../cnc-milling-services.md` | 297 | ✅ Done |
-| CNC Turning | `Services/CNC Turning.../cnc-turning-services.md` | 305 | ✅ Done |
-| 5-Axis CNC | `Services/5-Axis.../5-axis-cnc-machining-services.md` | 298 | ✅ Done |
-| Surface Finishing | `Services/surface-finishing-services.md` | 235 | ✅ Done |
-| CNC Turn-Mill | `Services/CNC Turn-Mill.../cnc-turn-mill-services.md` | 18 | ❌ Stub — not in sitemap, confirm if needed |
-
-### Custom CNC — Metals (audited 2026-06-08)
-| Page | Lines | Status |
-|---|---|---|
-| aluminium-cnc-machining-services | 294 | ✅ Done |
-| aluminium-6061-cnc-machining-services | 25 | ❌ Stub |
-| aluminium-7075-cnc-machining-services | 25 | ❌ Stub |
-| stainless-steel-cnc-machining-services | 25 | ❌ Stub |
-| 316l-cnc-machining-services | 25 | ❌ Stub |
-| 303-cnc-machining-services | 25 | ❌ Stub |
-| titanium-cnc-machining-services | 25 | ❌ Stub |
-| titanium-grade-2-cnc-machining-services | 25 | ❌ Stub |
-| titanium-grade-5-cnc-machining-services | 25 | ❌ Stub |
-| brass-cnc-machining-services | 25 | ❌ Stub |
-| copper-cnc-machining-services | 25 | ❌ Stub |
-| tool-steel-cnc-machining-services | 25 | ❌ Stub |
-| steel-alloy-cnc-machining-services | 25 | ❌ Stub |
-| bronze-cnc-machining-services | 25 | ❌ Stub |
-
-### Custom CNC — Plastics (audited 2026-06-08)
-| Page | Lines | Status |
-|---|---|---|
-| abs-cnc-machining-services | 282 | ✅ Done |
-| peek-cnc-machining-services | 24 | ❌ Stub |
-| delrin-cnc-machining-services | 24 | ❌ Stub |
-| nylon-cnc-machining-services | 24 | ❌ Stub |
-| polycarbonate-cnc-machining-services | 24 | ❌ Stub |
-| ptfe-cnc-machining-services | 24 | ❌ Stub |
-| acrylic-cnc-machining-services | 24 | ❌ Stub |
-| ultem-cnc-machining-services | 24 | ❌ Stub |
-| hdpe-cnc-machining-services | 24 | ❌ Stub |
-| polypropylene-cnc-machining-services | 24 | ❌ Stub |
-
-### Custom CNC — Surface Finishes (audited 2026-06-08)
-All 7 are stubs (23 lines each): anodizing, powder-coating, passivation, nickel-plating, bead-blasting, black-oxide, electropolishing ❌
-
-### CNC Milling — Materials (audited 2026-06-08)
-All 11 are stubs (23 lines each): aluminium, stainless-steel, titanium, brass, copper, tool-steel, peek, delrin, nylon, abs, polycarbonate ❌
-
-### CNC Turning — Materials (audited 2026-06-08)
-All 8 are stubs (23 lines each): aluminium, stainless-steel, titanium, brass, copper, peek, delrin, nylon ❌
-
-### 5-Axis — Materials (audited 2026-06-08)
-All 6 are stubs (23 lines each): aluminium, stainless-steel, titanium, brass, peek, tool-steel ❌
-
-### CNC Turn-Mill — Materials (audited 2026-06-08)
-All 5 are stubs (23 lines each) — service not in sitemap.md, confirm with client if needed ❌
+| Page | Status |
+|---|---|
+| Homepage | ❌ Not started |
+| About TOP PROTO | ❌ Not started |
+| Contact Us | ❌ Not started |
+| Quality Assurance | ❌ Not started |
+| Why TOP PROTO | ❌ Not started |
+| FAQ | ❌ Not started |
 
 ---
 
-## Phase 3 — Non-CNC Services
+## Phase 2: CNC Service Hubs
 
-### 3D Printing
-| Page | File | Status |
-|---|---|---|
-| 3D Printing hub | `Services/3D Printing Services/3d-printing-services.md` | ✅ Draft written — pending CLIENT-DATA-MAP verification |
-| SLA | `Services/3D Printing Services/stereolithography-sla-3d-printing-services.md` | ❌ Not started |
-| SLS | `Services/3D Printing Services/selective-laser-sintering-sls-3d-printing-services.md` | ❌ Not started |
-| MJF | `Services/3D Printing Services/hp-multi-jet-fusion-mjf-3d-printing-services.md` | ❌ Not started |
-| FDM | `Services/3D Printing Services/fdm-3d-printing-services.md` | ❌ Not started |
-
-### Sheet Metal
-| Page | File | Status |
-|---|---|---|
-| Sheet Metal hub | — | ❌ Not started |
-| Laser Cutting | — | ❌ Not started |
-| Metal Bending | — | ❌ Not started |
-
-### Formative Manufacturing
-| Page | File | Status |
-|---|---|---|
-| Vacuum Casting hub | — | ❌ Not started |
-| Injection Molding hub | — | ❌ Not started |
-
-### Other Services
-| Page | File | Status |
-|---|---|---|
-| Wire EDM | — | ❌ Not started |
+| Page | Status |
+|---|---|
+| Custom CNC Machining Services | ❌ Not started |
+| CNC Milling Services | ❌ Not started |
+| CNC Turning Services | ❌ Not started |
+| 5-Axis CNC Machining Services | ❌ Not started |
+| CNC Drilling Services | ❌ Not started |
+| CNC Grinding Services | ❌ Not started |
 
 ---
 
-## Phase 6 — Blogs
+## Phase 3: CNC Material Sub-Pages
 
-| Post | File | Status |
-|---|---|---|
-| What is CNC Machining | `Blogs/what-is-cnc-machining.md` | ✅ Done |
-| CNC Tolerances and Standards | `Blogs/cnc-tolerances-and-standards.md` | ✅ Done |
-| Design for Manufacturability | `Blogs/design-for-manufacturability.md` | ✅ Done |
-| CNC Surface Finish Guide | `Blogs/cnc-surface-finish-guide.md` | ✅ Done |
-| How to Prepare CNC Drawing | `Blogs/how-to-prepare-cnc-drawing.md` | ✅ Done |
-| Materials Guide | `Blogs/materials-guide.md` | ✅ Done |
-| Aluminium Machining Guide | `Blogs/aluminium-machining-guide.md` | ✅ Done |
-| Stainless Steel Machining Guide | `Blogs/stainless-steel-machining-guide.md` | ✅ Done |
-| Titanium Machining Guide | `Blogs/titanium-machining-guide.md` | ✅ Done |
-| CNC vs 3D Printing | `Blogs/cnc-vs-3d-printing.md` | ✅ Done |
-| 5-Axis vs 3-Axis | `Blogs/5-axis-vs-3-axis-cnc-machining.md` | ✅ Done |
-| CNC Machining for Prototypes | `Blogs/cnc-machining-for-prototypes.md` | ✅ Done |
-| Blog Archive | `Blogs/blog-archive.md` | ✅ Done |
+| Page | Status |
+|---|---|
+| Aluminium CNC Machining | ❌ Not started |
+| Steel CNC Machining | ❌ Not started |
+| Stainless Steel CNC Machining | ❌ Not started |
+| Titanium CNC Machining | ❌ Not started |
+| Brass CNC Machining | ❌ Not started |
+| Copper CNC Machining | ❌ Not started |
+| ABS CNC Machining | ❌ Not started |
+| Nylon CNC Machining | ❌ Not started |
+| PEEK CNC Machining | ❌ Not started |
+| Aluminium CNC Milling | ❌ Not started |
+| Steel CNC Milling | ❌ Not started |
+| Stainless Steel CNC Milling | ❌ Not started |
+| Titanium CNC Milling | ❌ Not started |
+| Brass CNC Milling | ❌ Not started |
+| Copper CNC Milling | ❌ Not started |
+| ABS CNC Milling | ❌ Not started |
+| Nylon CNC Milling | ❌ Not started |
+| PEEK CNC Milling | ❌ Not started |
+| Aluminium CNC Turning | ❌ Not started |
+| Steel CNC Turning | ❌ Not started |
+| Stainless Steel CNC Turning | ❌ Not started |
+| Titanium CNC Turning | ❌ Not started |
+| Brass CNC Turning | ❌ Not started |
+| Copper CNC Turning | ❌ Not started |
+| ABS CNC Turning | ❌ Not started |
+| Nylon CNC Turning | ❌ Not started |
+| PEEK CNC Turning | ❌ Not started |
+| Aluminium 5-Axis CNC Machining | ❌ Not started |
+| Steel 5-Axis CNC Machining | ❌ Not started |
+| Titanium 5-Axis CNC Machining | ❌ Not started |
 
 ---
 
-## Phase 7 — Alternatives
+## Phase 4: Non-CNC Service Hubs
 
-| Page | File | Status |
-|---|---|---|
-| Xometry Alternative | `xometry-alternative.md` | ✅ Done |
-| Protolabs Alternative | — | ❌ Not started |
-| Hubs Alternative | — | ❌ Not started |
-| RapidDirect Alternative | — | ❌ Not started |
-| Fictiv Alternative | — | ❌ Not started |
+| Page | Status |
+|---|---|
+| 3D Printing Services | ❌ Not started |
+| SLA 3D Printing | ❌ Not started |
+| SLS 3D Printing | ❌ Not started |
+| MJF 3D Printing | ❌ Not started |
+| FDM 3D Printing | ❌ Not started |
+| Sheet Metal Fabrication | ❌ Not started |
+| Laser Cutting Services | ❌ Not started |
+| Sheet Metal Bending | ❌ Not started |
+| Vacuum Casting Services | ❌ Not started |
+| Injection Molding Services | ❌ Not started |
+| Wire EDM Services | ❌ Not started |
+| Rapid Prototyping Services | ❌ Not started |
+| Surface Finishing Services | ❌ Not started |
 
 ---
 
-## Immediate Next Actions
+## Phase 5: Non-CNC Material Sub-Pages
 
-1. **⚠️ Fill `_system/CLIENT-DATA-MAP.md`** — BLOCKER. Client must supply: certifications, tolerances, lead times, machine count, founding year. Nothing new should be written until this is done.
-2. **Rewrite `precision-machining-services.md`** — hub page is only 19 lines, needs full content (Phase 2)
-3. **Write Alternatives pages** — Protolabs, Hubs, RapidDirect, Fictiv — 4 pages remaining (Phase 7)
-4. **Write 3D Printing technology pages** — SLA first (most visual, highest-value), then MJF, SLS, FDM (Phase 3)
-5. **Write Custom CNC metal sub-pages** — 13 stubs, start with: stainless-steel, titanium, brass (Phase 2)
-6. **Industry hub pages v2 audit** — check if existing industry pages use v2 template (cross-service) or old v1 (CNC only)
+| Page | Status |
+|---|---|
+| Aluminium Sheet Metal Fabrication | ❌ Not started |
+| Steel Sheet Metal Fabrication | ❌ Not started |
+| Stainless Steel Sheet Metal Fabrication | ❌ Not started |
+| Copper Sheet Metal Fabrication | ❌ Not started |
+| Brass Sheet Metal Fabrication | ❌ Not started |
+| Polyurethane Vacuum Casting | ❌ Not started |
+| ABS-Like Vacuum Casting | ❌ Not started |
+| Rubber-Like Vacuum Casting | ❌ Not started |
+| ABS Injection Molding | ❌ Not started |
+| PP Injection Molding | ❌ Not started |
+| Nylon Injection Molding | ❌ Not started |
+| PC Injection Molding | ❌ Not started |
+| PEEK Injection Molding | ❌ Not started |
+| Steel Wire EDM | ❌ Not started |
+| Titanium Wire EDM | ❌ Not started |
+| Carbide Wire EDM | ❌ Not started |
+| ABS 3D Printing | ❌ Not started |
+| Nylon 3D Printing | ❌ Not started |
+| Resin 3D Printing | ❌ Not started |
+| Aluminium Rapid Prototyping Services | ❌ Not started |
+| ABS Rapid Prototyping Services | ❌ Not started |
+| Nylon Rapid Prototyping Services | ❌ Not started |
+
+---
+
+## Phase 6: Industry Hub Pages
+
+| Page | Status |
+|---|---|
+| Aerospace Prototyping Services | ❌ Not started |
+| Automotive Prototyping Services | ❌ Not started |
+| Medical Device Prototyping Services | ❌ Not started |
+| Robotics Prototyping Services | ❌ Not started |
+| Electronics Prototyping Services | ❌ Not started |
+| New Energy Prototyping Services | ❌ Not started |
+| Communication Industry Prototyping | ❌ Not started |
+| Semiconductor Prototyping Services | ❌ Not started |
+| Consumer Product Prototyping | ❌ Not started |
+
+---
+
+## Phase 7: Industry Part Sub-Pages
+
+| Page | Status |
+|---|---|
+| Aerospace Bracket Prototyping | ❌ Not started |
+| Aerospace Housing Prototyping | ❌ Not started |
+| Aerospace Structural Part Prototyping | ❌ Not started |
+| Automotive Powertrain Prototyping | ❌ Not started |
+| Automotive Suspension Prototyping | ❌ Not started |
+| Automotive Body Panel Prototyping | ❌ Not started |
+| Medical Device Housing Prototyping | ❌ Not started |
+| Surgical Instrument Prototyping | ❌ Not started |
+| Implant Prototyping Services | ❌ Not started |
+| Robot Arm Prototyping | ❌ Not started |
+| Robot Joint Prototyping | ❌ Not started |
+| Robot End Effector Prototyping | ❌ Not started |
+| Electronics Enclosure Prototyping | ❌ Not started |
+| Heat Sink Prototyping | ❌ Not started |
+| Connector Prototyping | ❌ Not started |
+| Battery Housing Prototyping | ❌ Not started |
+| EV Drivetrain Component Prototyping | ❌ Not started |
+| Solar Component Prototyping | ❌ Not started |
+| RF Housing Prototyping | ❌ Not started |
+| Antenna Component Prototyping | ❌ Not started |
+| Telecoms Enclosure Prototyping | ❌ Not started |
+| Semiconductor Fixture Prototyping | ❌ Not started |
+| Vacuum Chamber Prototyping | ❌ Not started |
+| Process Equipment Prototyping | ❌ Not started |
+| Consumer Product Enclosure Prototyping | ❌ Not started |
+| Wearable Device Prototyping | ❌ Not started |
+| Appliance Component Prototyping | ❌ Not started |
+
+---
+
+## Phase 8: Location Pages
+
+| Page | Status |
+|---|---|
+| CNC Machining Services USA | ❌ Not started |
+| CNC Machining Services UK | ❌ Not started |
+| CNC Milling Services USA | ❌ Not started |
+| CNC Milling Services UK | ❌ Not started |
+| CNC Turning Services USA | ❌ Not started |
+| CNC Turning Services UK | ❌ Not started |
+| 5-Axis CNC Machining USA | ❌ Not started |
+| 5-Axis CNC Machining UK | ❌ Not started |
+| 3D Printing Services USA | ❌ Not started |
+| 3D Printing Services UK | ❌ Not started |
+| Sheet Metal Fabrication USA | ❌ Not started |
+| Sheet Metal Fabrication UK | ❌ Not started |
+| Vacuum Casting Services USA | ❌ Not started |
+| Vacuum Casting Services UK | ❌ Not started |
+| Injection Molding Services USA | ❌ Not started |
+| Injection Molding Services UK | ❌ Not started |
+| Wire EDM Services USA | ❌ Not started |
+| Wire EDM Services UK | ❌ Not started |
+| Surface Finishing Services USA | ❌ Not started |
+| Surface Finishing Services UK | ❌ Not started |
+| Rapid Prototyping Services USA | ❌ Not started |
+| Rapid Prototyping Services UK | ❌ Not started |
+
+---
+
+## Phase 9: Alternatives Pages
+
+| Page | Status |
+|---|---|
+| CNC Machining vs 3D Printing | ❌ Not started |
+| CNC Machining vs Injection Molding | ❌ Not started |
+| CNC Machining vs Sheet Metal | ❌ Not started |
+| SLA vs SLS 3D Printing | ❌ Not started |
+| Vacuum Casting vs Injection Molding | ❌ Not started |
+
+---
+
+## Phase 10: Case Studies
+
+Blocked — pending client approval.
 
 ---
 
 ## Session Log
 
-| Date | Pages Written | Notes |
-|---|---|---|
-| 2026-06-07 | 0 (governance setup) | Created _system/ folder: CLAUDE.md, CLIENT-DATA-MAP.md, WritingSystem.md, execution-plan.md, progress.md |
-| 2026-06-08 | 0 (audit + system expansion) | Audited Services. Deleted CNC Turn-Mill. Added 56 non-CNC service pages to sitemap + execution-plan. Filled CLIENT-DATA-MAP with RapidDirect reference specs. Updated sitemap to v2 (industry slugs + new services). |
-| 2026-06-08 | 1 (3D printing hub) | Written: `3d-printing-services.md` — full hub covering SLA/SLS/MJF/FDM, comparison table, materials, FAQ, QA checklist. All specs 📊 pending client verification. |
-| 2026-06-16 | 0 (Phase 10 stubs) | Created 21 stub files: 4 × 3D printing sub-pages, 3 × sheet metal, vacuum casting, injection molding, wire EDM, rapid prototyping, 9 × industry hubs, materials. All added to execution-plan Phase 10. |
+| Date | Notes |
+|---|---|
+| 2026-06-16 | Restructured repo: created 51 new stubs (21 locations, 3 rapid prototyping materials, 27 industry part pages). Reset all pages to Not started for full re-review. Rewrote execution-plan.md. |
