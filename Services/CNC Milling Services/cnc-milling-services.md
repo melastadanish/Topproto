@@ -35,15 +35,15 @@
 - H1: CNC Milling Services
 - Subheading: Precision CNC milling machine services for complex prismatic parts — 3-axis to 5-axis, tolerances to ±0.005mm, CMM-inspected, quote in 24 hours.
 - Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.005mm | ✔ Quote in 24 Hours
-- CTA Primary: Get an Instant Quote | CTA Secondary: View Our Capabilities
+- CTA Primary: Upload Your File — Get Pricing in 24 Hours | CTA Secondary: See tolerance table and material grades →
 
 ---
 
 ## Section 2: Why TOP PROTO (Stats Bar)
 **Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Experience
-- ±0.005mm Tolerance Capability
-- 24 Hours Quote Turnaround
+- 3-Axis to 5-Axis Milling
+- ±0.005mm on Critical Features
+- 24-Hour Quote with DFM Review
 - From 3 Days Lead Time
 
 ---
@@ -266,6 +266,9 @@ STEP is preferred — it carries full 3D geometry and is what we generate toolpa
 
 **Q6: How do you handle tight tolerances on aluminium vs. titanium?**
 Material behaviour during cutting changes what's achievable and how you get there. Aluminium machines fast with low cutting forces — tight tolerances are straightforward on most feature types. Titanium generates high cutting forces, work-hardens at the surface, and retains heat in the cut — all of which affect tolerance holding. We use appropriate tooling, feeds, speeds, and cutting fluid strategies per material. The ±0.005mm capability applies to both, but the process to achieve it differs. If you're moving a design from aluminium to titanium and keeping the same tolerance callouts, tell us — we'll review the DFM for that material specifically.
+
+**Q7: How does TOP PROTO CNC milling compare to Protolabs or Xometry?**
+Protolabs charges a premium for speed and targets the US market — their pricing reflects that model. TOP PROTO operates from Dongguan, China with comparable tolerances (±0.005mm, CMM-verified) and lead times (from 3 business days), at direct-manufacturer pricing without a broker margin. Xometry routes work to a network of shops — quality varies by shop, not by platform standard. Every part machined at TOP PROTO goes through the same facility, the same quality process, and ships with a dimensional inspection report and material certificate. For engineers sourcing outside their local market, the combination of verified tolerances, documented quality, and direct communication is what matters — not which country the machine is in.
 
 ---
 

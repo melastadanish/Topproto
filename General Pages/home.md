@@ -47,8 +47,8 @@ Anodizing, hard anodizing, powder coating, passivation, bead blasting, DLC, and 
 **Inspection Report on Every Order**
 Every shipment includes a dimensional inspection report. ISO 9001:2015 certified — quality documented, not assumed.
 
-**CTA Primary:** Get Instant Quote
-**CTA Secondary:** Watch Our Services
+**CTA Primary:** Upload Your File — Get Pricing and DFM Feedback in 24 Hours
+**CTA Secondary:** See all eight manufacturing services →
 
 ---
 
@@ -72,7 +72,7 @@ Every shipment includes a dimensional inspection report. ISO 9001:2015 certified
 
 **Design:** 4×2 card grid. Light grey background. Each card: service name + description + CTA link.
 
-**Heading:** Our Manufacturing Services
+**Heading:** Eight Processes. One Facility. All In-House.
 
 **Intro:** One facility. Eight processes. CNC machined prototypes, injection molded parts, sheet metal assemblies, and additively manufactured components — handled in-house from first file to final shipment.
 
@@ -237,7 +237,7 @@ Standard CNC aluminium parts from 24 hours. Most services in 3–5 business days
 - Express shipping to North America, Europe, Asia, and Middle East with tracking
 - Lead times from 24 hours for standard aluminium CNC parts — 3 to 5 days for most services
 
-**CTA:** Get Instant Quote
+**CTA:** See tolerance capabilities and material specs →
 
 ---
 
@@ -289,15 +289,47 @@ Design rules, material selection, regulatory documentation, and tooling options 
 
 ---
 
-## Section 12: Final CTA
+## Section 12: FAQ
+
+**Design:** Accordion. White background. First item open.
+
+**Heading:** Frequently Asked Questions
+
+**Q1: What manufacturing services does TOP PROTO offer?**
+TOP PROTO operates CNC machining, 3D printing, sheet metal fabrication, vacuum casting, injection molding, wire EDM, and surface finishing — all from one facility in Dongguan, China. That means one DFM review, one quality system, and one shipment regardless of which process your project requires. No subcontracting on standard orders. The full service range covers prototypes and low-volume parts from a single piece upward.
+
+**Q2: What tolerances can TOP PROTO hold on CNC machined parts?**
+Standard CNC work follows ISO 2768-m — ±0.1mm on linear dimensions, sufficient for most structural and non-critical geometry. Functional interfaces hold to ±0.02mm. For critical features — bearing seats, sealing surfaces, precision bores — we hold ±0.005mm, measured by CMM and reported per feature against your drawing callout. Wire EDM reaches ±0.002–0.005mm on 2D profiles. Every tight-tolerance order ships with a dimensional inspection report confirming actual measured values against nominal.
+
+**Q3: How long does it take to get parts from TOP PROTO?**
+Prototype CNC parts ship in as few as 1–3 business days on rush orders; standard lead time is 5 business days. 3D printing ranges from 2 days (FDM) to 5–6 days (SLS). Sheet metal prototypes from 3 business days. Vacuum casting and injection molding have longer lead times due to tooling. Quote turnaround is 24 hours from file upload — including a DFM review. International shipping adds 3–7 days depending on destination and freight service.
+
+**Q4: What is the minimum order quantity at TOP PROTO?**
+No minimum on CNC machining, 3D printing, or sheet metal fabrication. A single part is a valid order. Per-unit cost is higher on single pieces — setup time is the same whether you run one or a hundred — but there is no order floor. For vacuum casting the practical minimum is 5–10 units to justify mould preparation. Injection molding has no formal MOQ but tooling cost makes very small quantities uneconomical; ask at quote stage.
+
+**Q5: What file formats does TOP PROTO accept for quotes?**
+STEP (.step / .stp) is the preferred format for all 3D parts — it carries full geometry and is what we generate toolpaths and build files from. We also accept STL, IGES, OBJ, DXF, DWG, and PDF. SolidWorks (.sldprt), CATIA (.CATPart), and Parasolid (.x_t) are accepted for CNC machining. For sheet metal, DXF with bend table is ideal. If you only have a 2D drawing, send it — we can work from fully dimensioned PDFs for simpler geometry.
+
+**Q6: What materials can TOP PROTO machine and manufacture?**
+CNC machining covers aluminium (6061, 7075, 2024), stainless steel (303, 304, 316L, 17-4PH), titanium (Grade 2 and Grade 5), brass, copper, tool steel, steel alloy (4140, 4340), bronze, and engineering plastics including PEEK, Delrin, nylon, ABS, polycarbonate, PTFE, HDPE, acrylic, and Ultem. 3D printing covers SLA resins, SLS and MJF nylon (PA12), and FDM thermoplastics (ABS, PETG, TPU, ASA). Sheet metal uses aluminium, stainless steel, mild steel, brass, and copper. Confirm your specific grade and condition at quote stage.
+
+**Q7: How much does custom prototyping cost at TOP PROTO?**
+Cost depends on the process, material, geometry, tolerance, and quantity. CNC machining is priced by material cost plus machine time — a simple aluminium bracket typically costs less than a complex titanium implant component. 3D printing is priced by volume and process. Upload your STEP file for an exact quote within 24 hours — including DFM feedback. There are no hidden fees for DFM review or inspection documentation. What you see in the quote is what you pay.
+
+**Q8: How does TOP PROTO compare to Xometry or Protolabs?**
+Xometry is a marketplace — it routes your order to one of thousands of shops. TOP PROTO is a direct manufacturer. Your part is quoted, planned, machined, and inspected by one team in one facility. That means consistent quality, clear accountability, and direct engineer-to-engineer communication when questions arise. Protolabs charges a premium for speed and targets the US and European market. TOP PROTO operates from Dongguan — competitive pricing, same tolerances (±0.005mm), same documentation standard (ISO 9001:2015 certified), with shipping to 100+ countries.
+
+---
+
+## Section 13: Final CTA
 
 **Design:** Full-width. Dark navy background. White text. Centred.
 
-**Heading:** Ready to Get Started?
+**Heading:** Your Part. Quoted in 24 Hours. Shipped from Dongguan.
 
 **Subtext:** TOP PROTO brings your design to manufacturable parts. Send us your files — our engineers review the geometry, confirm feasibility, and return a detailed quote within 24 hours. DFM notes included.
 
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — get pricing, lead time, and DFM feedback within 24 hours
 
 ---
 

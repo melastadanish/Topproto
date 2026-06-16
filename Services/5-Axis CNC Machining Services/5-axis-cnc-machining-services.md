@@ -35,15 +35,15 @@
 - H1: 5-Axis CNC Machining Services
 - Subheading: Complex geometry. Fewer setups. Tighter datums. Our 5 axis cnc machining handles aerospace structures, medical components, and precision industrial parts that 3-axis simply can't reach — tolerances to ±0.005mm, CMM-verified.
 - Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.005mm | ✔ Quote in 24 Hours
-- CTA Primary: Get an Instant Quote | CTA Secondary: View Our Capabilities
+- CTA Primary: Upload Your File — Get Pricing in 24 Hours | CTA Secondary: See 3+2 vs. simultaneous 5-axis breakdown →
 
 ---
 
 ## Section 2: Why TOP PROTO (Stats Bar)
 **Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Experience
-- ±0.005mm Tolerance Capability
-- 24 Hours Quote Turnaround
+- 3+2 Positional + Full Simultaneous
+- ±0.005mm on Complex Geometry
+- Single-Setup Machining
 - From 4 Days Lead Time
 
 ---
@@ -267,6 +267,9 @@ Aerospace is the biggest driver — structural components with multiple mounting
 
 **Q6: How do I know if my part needs 5-axis machining?**
 Three questions: (1) Does the part have features on more than two faces requiring separate setups? (2) Are there undercuts or compound angles a vertical tool path can't reach? (3) Are there true freeform curved surfaces? If any answer is yes, 5-axis is likely the right process. If none apply, 3-axis will do it. Send the STEP file — we'll assess during DFM review and recommend the right machine allocation before quoting.
+
+**Q7: How does TOP PROTO 5-axis machining compare to Xometry or local CNC shops?**
+5-axis work sent through a marketplace platform is only as good as the specific shop that takes the job. Programming quality, fixturing, and CMM verification vary. At TOP PROTO, every 5-axis part is programmed, set up, and inspected in-house at our Dongguan facility. We specify 3+2 or simultaneous in the quote — and explain why — so you understand the process before committing. Tolerances to ±0.005mm on critical features, surface profile measured against nominal CAD data on freeform surfaces. Full CMM output ships with every aerospace and medical order as standard. Local shops in the US or Europe typically charge 2–4× more for equivalent 5-axis capability; TOP PROTO delivers the same tolerance and documentation standard at direct-manufacturer pricing.
 
 ---
 

@@ -35,15 +35,15 @@
 - H1: CNC Turning Services
 - Subheading: Precision CNC turning parts in metal and engineering plastics — 2-axis to live tooling, Swiss turning for slender components, tolerances to ±0.005mm, quote in 24 hours.
 - Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.005mm | ✔ Quote in 24 Hours
-- CTA Primary: Get an Instant Quote | CTA Secondary: View Our Capabilities
+- CTA Primary: Upload Your File — Get Pricing in 24 Hours | CTA Secondary: Compare standard, live tooling, and Swiss turning →
 
 ---
 
 ## Section 2: Why TOP PROTO (Stats Bar)
 **Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Experience
-- ±0.005mm Tolerance Capability
-- 24 Hours Quote Turnaround
+- 2-Axis to Swiss CNC Turning
+- ±0.005mm Diametral Tolerance
+- 24-Hour Quote with DFM Review
 - From 3 Days Lead Time
 
 ---
@@ -274,6 +274,9 @@ Yes — with live tooling. Our turning centres with live tooling capability can 
 
 **Q6: Do you offer CNC turning services for prototype quantities?**
 Yes, no minimum order quantity. Single pieces quoted and produced to the same standard as production runs — same material verification, same inspection process, same documentation. The per-unit cost is higher on singles due to setup time, but the process and the output are identical. Engineers who need one shaft to validate a design before committing to production get the same quality output as a 500-piece batch.
+
+**Q7: How does TOP PROTO CNC turning compare to other suppliers or online platforms?**
+Online CNC platforms typically route turned parts to a network of sub-contracted shops. Lead times and quality vary by shop. TOP PROTO turns every part in-house at our Dongguan facility — 2-axis, live tooling, and Swiss turning all under one roof, one quality system. Standard diametral tolerance: ±0.005mm, CMM-verified. Swiss turning for L:D ratios up to 20:1 — a capability most platforms can't guarantee because they don't control which shop takes the job. Documentation ships with every order: dimensional report, thread gauge records, material certificate. No chasing, no variables between orders.
 
 ---
 

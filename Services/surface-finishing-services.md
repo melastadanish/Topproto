@@ -37,9 +37,9 @@
 
 ## Section 2: Stats Bar
 **Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Experience
-- 12+ Surface Finishes
-- 30+ Materials Finished
+- 12+ Surface Finishes Available
+- In-House + Qualified Partner Processing
+- Dimension-Critical Features Masked
 - From 3 Days Lead Time
 
 ---
@@ -205,6 +205,9 @@ At minimum: finish type, applicable standard, and the surfaces it applies to. Ex
 
 **Q6: What's the lead time for surface finished parts?**
 Machining lead time plus finishing. For in-house processes — bead blast, brushed, black oxide — typically adds 1 business day. For external finishing — anodizing, powder coat, nickel plating, electropolishing — typically adds 2–4 business days. We include finishing lead time in the quote so the total delivery date is clear before you confirm. Rush finishing is available on some processes — flag it in the RFQ if timeline is critical.
+
+**Q7: How does TOP PROTO surface finishing compare to using a separate finishing house?**
+Sending CNC parts to an external finishing house after machining introduces a second supplier, a second PO, and a handoff where parts can be lost, delayed, or returned with finishing defects you didn't anticipate. TOP PROTO handles finishing as part of the manufacturing sequence — planned at quote stage, not bolted on at the end. Coating thickness is accounted for in pre-coat dimensions. Masking is specified before the part enters finishing, not discovered after. Documentation — process record, coating thickness measurement, visual inspection sign-off — ships with the machined part in the same box. One order, one point of contact, one shipment.
 
 ---
 

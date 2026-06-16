@@ -1,5 +1,5 @@
 # 3D Printing Services
-**Status:** Draft — pending CLIENT-DATA-MAP.md verification (📊 specs used)
+**Status:** Complete — 📊 specs used throughout, client verification required before publishing
 **Slug:** /3d-printing-services/
 **Meta Title:** 3D Printing Services | SLA, SLS, MJF & FDM | TOP PROTO
 **Meta Description:** Professional 3D printing services in Dongguan, China. SLA, SLS, MJF, and FDM. Tolerances from ±0.1mm. Single parts accepted. Quote in 24 hours.
@@ -42,7 +42,7 @@
 - ✔ 24-Hour Quote Turnaround
 
 **CTA Primary:** Upload Your STL — Get a Quote in 24 Hours
-**CTA Secondary:** Compare 3D Printing Technologies ↓
+**CTA Secondary:** Compare SLA, SLS, MJF, and FDM side by side →
 
 ---
 
@@ -326,6 +326,9 @@ Every order includes a dimensional inspection check against your STEP file. A di
 
 **Q8: Do you ship 3D printed parts internationally?**
 Yes. We ship via DHL, FedEx, and UPS to the USA, UK, Europe, and Australia. Standard export packaging for parts under 500mm. Larger assemblies are crated individually. Import documentation is included with each shipment.
+
+**Q9: How does TOP PROTO 3D printing compare to Protolabs, Shapeways, or Xometry?**
+Protolabs and Xometry offer 3D printing but primarily serve the US market at US pricing. Shapeways is a consumer-facing platform not optimised for engineering applications. TOP PROTO provides industrial-grade SLA, SLS, MJF, and FDM from a direct-manufacturer facility in Dongguan, China — at competitive pricing with full engineering review, not an automated quoting algorithm. Every order gets a DFM check: wall thickness, orientation, feature resolution reviewed before printing. Tolerances are stated honestly per process — SLA at ±0.1–0.2mm, MJF at ±0.2mm, SLS at ±0.3mm. Single parts accepted. Quote in 24 hours. Ships to US, UK, Europe, and Australia with full export documentation.
 
 ---
 

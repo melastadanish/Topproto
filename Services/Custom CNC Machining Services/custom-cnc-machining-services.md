@@ -32,7 +32,7 @@
 **Design:** 50/50 split — text left, machined part image right. White background.
 - Label tag: `CUSTOM CNC MACHINING`
 - H1: Custom CNC Machining Services
-- Subheading: From single prototypes to production runs — we machine tight-tolerance custom parts from 30+ metals and engineering plastics. Every order leaves our cnc machining shop with a dimensional report.
+- Subheading: From single prototypes to low-volume batches — we machine tight-tolerance custom parts from 30+ metals and engineering plastics. Every order leaves our cnc machining shop with a dimensional report.
 - Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.005mm | ✔ Quote in 24 Hours
 - CTA Primary: Get an Instant Quote | CTA Secondary: View Our Capabilities
 
@@ -40,9 +40,9 @@
 
 ## Section 2: Why TOP PROTO
 **Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Experience
+- 30+ Machinable Materials
 - ±0.005mm Tolerance Capability
-- 24 Hours Quote Turnaround
+- 24 Hours Quote + DFM Review
 - From 3 Days Lead Time
 
 ---
@@ -183,8 +183,8 @@ Not 20 years of being in business. 20 years of machining difficult custom parts 
 **Full documentation ships with every order.**
 Dimensional inspection report. Material certificate. Packing list. Everything you need to receive and approve the parts is in the box. No chasing, no additional requests.
 
-**From prototype to production — same facility.**
-Development quantities machined to the same standard as production runs. When your design is confirmed and volumes increase, the transition is straightforward. You don't change suppliers and restart the approval process.
+**One part or fifty — same documented standard.**
+Development quantities machined to the same standard as any repeat order — same material verification, same CMM inspection, same documentation. One part to validate a design. Fifty to fill a pilot batch. The process doesn't change with quantity.
 
 ---
 
@@ -209,6 +209,9 @@ Directness, mainly. You deal with the facility that's cutting your parts, not a 
 
 **Q6: Do you offer precision CNC machining for medical and aerospace applications?**
 Yes. We machine components for medical devices, aerospace structural parts, defence hardware, and robotics. These sectors have specific requirements — material traceability, first article inspection, CMM reporting, PPAP documentation. We run these as standard for relevant orders. ISO 9001:2015 certified. If your application has specific quality requirements beyond what's listed, send them with your RFQ and we'll confirm compliance before quoting.
+
+**Q7: How does TOP PROTO compare to Xometry or other CNC machining platforms?**
+Xometry and similar platforms are marketplaces — your order goes to one of hundreds of partner shops. Quality, communication, and lead times vary shop by shop. TOP PROTO is a direct manufacturer. One facility in Dongguan quotes, plans, machines, inspects, and ships your parts. When a question comes up — a DFM issue, a tolerance clarification, a drawing revision — you deal with the engineering team cutting your parts, not a platform intermediary. For engineers who've had inconsistent results from marketplace models, that accountability is the meaningful difference. Tolerances: ±0.005mm, CMM-verified. Documentation: inspection report and material cert with every order. No exceptions, no platform variability.
 
 ---
 
