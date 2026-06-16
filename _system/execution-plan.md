@@ -358,6 +358,62 @@ Blocked — requires real project data from client.
 |---|---|---|---|
 | Materials Guide | `Materials/materials.md` | /materials/ | ❌ Stub |
 
+### 10F — 3D Printing Material Sub-Pages
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Resin SLA | `Services/3D Printing Services/SLA Materials/resin-sla-3d-printing-services.md` | /stereolithography/resin-sla-3d-printing/ | ❌ Stub |
+| Nylon SLS | `Services/3D Printing Services/SLS Materials/nylon-sls-3d-printing-services.md` | /selective-laser-sintering/nylon-sls-3d-printing/ | ❌ Stub |
+| PA12 MJF | `Services/3D Printing Services/MJF Materials/pa12-mjf-3d-printing-services.md` | /hp-multi-jet-fusion/pa12-mjf-3d-printing/ | ❌ Stub |
+| ABS FDM | `Services/3D Printing Services/FDM Materials/abs-fdm-3d-printing-services.md` | /fused-deposition-moldeling/abs-fdm-3d-printing/ | ❌ Stub |
+| TPU FDM | `Services/3D Printing Services/FDM Materials/tpu-fdm-3d-printing-services.md` | /fused-deposition-moldeling/tpu-fdm-3d-printing/ | ❌ Stub |
+
+### 10G — Sheet Metal Material Sub-Pages
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Aluminium Sheet Metal | `Services/Sheet Metal Services/Materials/aluminium-sheet-metal-services.md` | /sheet-metal/aluminium-sheet-metal-services/ | ❌ Stub |
+| Stainless Steel Sheet Metal | `Services/Sheet Metal Services/Materials/stainless-steel-sheet-metal-services.md` | /sheet-metal/stainless-steel-sheet-metal-services/ | ❌ Stub |
+| Mild Steel Sheet Metal | `Services/Sheet Metal Services/Materials/mild-steel-sheet-metal-services.md` | /sheet-metal/mild-steel-sheet-metal-services/ | ❌ Stub |
+
+### 10H — Vacuum Casting Sub-Pages
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Rigid PU | `Services/Vacuum Casting Services/Materials/rigid-pu-vacuum-casting-services.md` | /vacuum-casting/rigid-pu-vacuum-casting-services/ | ❌ Stub |
+| Flexible PU | `Services/Vacuum Casting Services/Materials/flexible-pu-vacuum-casting-services.md` | /vacuum-casting/flexible-pu-vacuum-casting-services/ | ❌ Stub |
+| ABS-Like | `Services/Vacuum Casting Services/Materials/abs-like-vacuum-casting-services.md` | /vacuum-casting/abs-like-vacuum-casting-services/ | ❌ Stub |
+| Transparent | `Services/Vacuum Casting Services/Materials/transparent-casting-services.md` | /vacuum-casting/transparent-casting-services/ | ❌ Stub |
+
+### 10I — Injection Molding Sub-Pages
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Low Volume | `Services/Injection Molding Services/Materials/low-volume-injection-molding-services.md` | /injection-molding/low-volume-injection-molding-services/ | ❌ Stub |
+| Overmolding | `Services/Injection Molding Services/Materials/overmolding-services.md` | /injection-molding/overmolding-services/ | ❌ Stub |
+| Insert Molding | `Services/Injection Molding Services/Materials/insert-molding-services.md` | /injection-molding/insert-molding-services/ | ❌ Stub |
+| ABS | `Services/Injection Molding Services/Materials/abs-injection-molding-services.md` | /injection-molding/abs-injection-molding-services/ | ❌ Stub |
+| Polycarbonate | `Services/Injection Molding Services/Materials/polycarbonate-injection-molding-services.md` | /injection-molding/polycarbonate-injection-molding-services/ | ❌ Stub |
+| Nylon | `Services/Injection Molding Services/Materials/nylon-injection-molding-services.md` | /injection-molding/nylon-injection-molding-services/ | ❌ Stub |
+| Polypropylene | `Services/Injection Molding Services/Materials/polypropylene-injection-molding-services.md` | /injection-molding/polypropylene-injection-molding-services/ | ❌ Stub |
+
+### 10J — Wire EDM Material Sub-Pages
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Tool Steel Wire EDM | `Services/Wire EDM Services/Materials/tool-steel-wire-edm-services.md` | /wire-edm/tool-steel-wire-edm-services/ | ❌ Stub |
+| Titanium Wire EDM | `Services/Wire EDM Services/Materials/titanium-wire-edm-services.md` | /wire-edm/titanium-wire-edm-services/ | ❌ Stub |
+| Stainless Steel Wire EDM | `Services/Wire EDM Services/Materials/stainless-steel-wire-edm-services.md` | /wire-edm/stainless-steel-wire-edm-services/ | ❌ Stub |
+
+### 10K — Surface Finishing Sub-Pages
+| Page | File | Slug | Status |
+|---|---|---|---|
+| Anodizing | `Services/Surface Finishing Services/anodizing-services.md` | /surface-finish/anodizing-services/ | ❌ Stub |
+| Powder Coating | `Services/Surface Finishing Services/powder-coating-services.md` | /surface-finish/powder-coating-services/ | ❌ Stub |
+| Passivation | `Services/Surface Finishing Services/passivation-services.md` | /surface-finish/passivation-services/ | ❌ Stub |
+| Nickel Plating | `Services/Surface Finishing Services/nickel-plating-services.md` | /surface-finish/nickel-plating-services/ | ❌ Stub |
+| Electroplating | `Services/Surface Finishing Services/electroplating-services.md` | /surface-finish/electroplating-services/ | ❌ Stub |
+| Bead Blasting | `Services/Surface Finishing Services/bead-blasting-services.md` | /surface-finish/bead-blasting-services/ | ❌ Stub |
+| Black Oxide | `Services/Surface Finishing Services/black-oxide-services.md` | /surface-finish/black-oxide-services/ | ❌ Stub |
+| Electropolishing | `Services/Surface Finishing Services/electropolishing-services.md` | /surface-finish/electropolishing-services/ | ❌ Stub |
+| Brushed Finish | `Services/Surface Finishing Services/brushed-finish-services.md` | /surface-finish/brushed-finish-services/ | ❌ Stub |
+| Painting | `Services/Surface Finishing Services/painting-services.md` | /surface-finish/painting-services/ | ❌ Stub |
+
 ---
 
 ## Priority Queue (Next Pages to Write)

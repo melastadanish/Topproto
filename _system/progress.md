@@ -21,7 +21,7 @@
 | Phase 7 — Alternatives | 🔄 Partial (1/5) | Xometry done; 4 remaining |
 | Phase 8 — Locations | ❌ Not started | Templates only |
 | Phase 9 — Case Studies | ❌ Blocked | Needs real client project data |
-| Phase 10 — New Service & Industry Pages | ❌ Not started | 21 stubs created, ready to write |
+| Phase 10 — New Service & Industry Pages | ❌ Not started | 53 stubs created (21 hub + 32 material sub-pages), ready to write |
 
 ---
 
