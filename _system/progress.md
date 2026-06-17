@@ -4,7 +4,7 @@
 > Read this file at the start of every session.
 
 **Last updated:** 2026-06-17
-**Current phase:** Phase 1 — General Pages (4/6 complete).
+**Current phase:** Phase 1 — General Pages (5/6 complete).
 
 ---
 
@@ -33,7 +33,7 @@
 | About Us | `General Pages/about-us.md` | ✅ Complete |
 | Contact | `General Pages/contact.md` | ✅ Complete |
 | Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
-| FAQ | `General Pages/faq.md` | ❌ Not started |
+| FAQ | `General Pages/faq.md` | ✅ Complete |
 | Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
 
 ---
