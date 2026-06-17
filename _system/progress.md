@@ -4,7 +4,7 @@
 > Read this file at the start of every session.
 
 **Last updated:** 2026-06-17
-**Current phase:** Phase 1 — General Pages (5/6 complete).
+**Current phase:** Phase 1 — General Pages (6/6 complete). ✅ Phase 1 DONE.
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Phase | Pages | Status |
 |---|---|---|
-| Phase 1 — General Pages | 6 | ❌ Not started |
+| Phase 1 — General Pages | 6 | ✅ Complete |
 | Phase 2 — CNC Service Hubs | 6 | ❌ Not started |
 | Phase 3 — CNC Material Sub-Pages | 55 | ❌ Not started |
 | Phase 4 — Non-CNC Service Hubs | 13 | ❌ Not started |
@@ -34,7 +34,7 @@
 | Contact | `General Pages/contact.md` | ✅ Complete |
 | Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
 | FAQ | `General Pages/faq.md` | ✅ Complete |
-| Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
+| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Complete |
 
 ---
 
@@ -251,3 +251,7 @@ Needs real client project data. Do not write until client supplies project detai
 | 2026-06-16 | Full restructure | Created 51 new stubs (21 locations, 3 RP materials, 27 industry parts). Reset all pages to Not started. Rewrote execution-plan.md and progress.md. |
 | 2026-06-17 | Home page | Full 5-pass review and rewrite. Removed unverified certifications (ISO 13485, IATF 16949, AS9100D, ITAR) from published copy. Fixed banned CTAs, corrected 3D printing lead time reference. Pass log added. |
 | 2026-06-17 | About Us page | Full 5-pass write + reviewer agent QA. Fixed passive voice, expanded 4 FAQ answers to 3+ sentences with spec numbers, split AI-quotable paragraph from CTA. Pass log added. Flagged live site "Shenzhen" discrepancy. |
+| 2026-06-17 | Contact page | Writer + reviewer QA. Fixed 8 issues: passive voice, 24-hr consistency, superlatives, generic CTAs in table cells and FAQ. All contact details are placeholders for client to fill. |
+| 2026-06-17 | Get a Quote page | Writer + reviewer QA. Fixed 7 issues: meta description keyword, unverified sheet metal lead time removed, MOQ contradiction resolved, FAQ spec anchors, 2 passive constructions. |
+| 2026-06-17 | FAQ page | 25 questions across 5 groups. Fixed ISO phrasing and 11 passive voice instances. All answers spec-anchored. |
+| 2026-06-17 | Quality Assurance page | Writer + reviewer QA. Fixed 16 passive voice instances, ISO-2859 hyphen, FAQ spec anchor. CMM/reports framed as request-based, not auto-included. Phase 1 complete. |

@@ -44,7 +44,7 @@
 | Contact | `General Pages/contact.md` | ✅ Complete |
 | Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
 | FAQ | `General Pages/faq.md` | ✅ Complete |
-| Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
+| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Complete |
 
 ---
 
