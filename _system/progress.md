@@ -4,7 +4,7 @@
 > Read this file at the start of every session.
 
 **Last updated:** 2026-06-17
-**Current phase:** Phase 1 — General Pages (6/6 complete). ✅ Phase 1 DONE.
+**Current phase:** Phase 2 — CNC Service Hubs (6/6 complete). ✅ Phase 2 DONE.
 
 ---
 
@@ -13,7 +13,7 @@
 | Phase | Pages | Status |
 |---|---|---|
 | Phase 1 — General Pages | 6 | ✅ Complete |
-| Phase 2 — CNC Service Hubs | 6 | ❌ Not started |
+| Phase 2 — CNC Service Hubs | 6 | ✅ Complete |
 | Phase 3 — CNC Material Sub-Pages | 55 | ❌ Not started |
 | Phase 4 — Non-CNC Service Hubs | 13 | ❌ Not started |
 | Phase 5 — Non-CNC Material Sub-Pages | 27 | ❌ Not started |
@@ -42,12 +42,12 @@
 
 | Page | File | Status |
 |---|---|---|
-| Precision Machining (hub) | `Services/precision-machining-services.md` | ❌ Not started |
-| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ❌ Not started |
-| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ❌ Not started |
-| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ❌ Not started |
-| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ❌ Not started |
-| Surface Finishing | `Services/surface-finishing-services.md` | ❌ Not started |
+| Precision Machining (hub) | `Services/precision-machining-services.md` | ✅ Complete |
+| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ✅ Complete |
+| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ✅ Complete |
+| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ✅ Complete |
+| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ✅ Complete |
+| Surface Finishing | `Services/surface-finishing-services.md` | ✅ Complete |
 
 ---
 
@@ -255,3 +255,4 @@ Needs real client project data. Do not write until client supplies project detai
 | 2026-06-17 | Get a Quote page | Writer + reviewer QA. Fixed 7 issues: meta description keyword, unverified sheet metal lead time removed, MOQ contradiction resolved, FAQ spec anchors, 2 passive constructions. |
 | 2026-06-17 | FAQ page | 25 questions across 5 groups. Fixed ISO phrasing and 11 passive voice instances. All answers spec-anchored. |
 | 2026-06-17 | Quality Assurance page | Writer + reviewer QA. Fixed 16 passive voice instances, ISO-2859 hyphen, FAQ spec anchor. CMM/reports framed as request-based, not auto-included. Phase 1 complete. |
+| 2026-06-17 | Phase 2 — CNC Service Hubs | Wrote precision-machining-services.md (new hub page). Fixed compliance violations across all 5 existing CNC hub pages: removed ISO 13485/IATF 16949/AS9100D/ITAR, 300+ machines, 20+ years claims; fixed documentation-every-order → available on request; fixed ±0.1mm tolerance discrepancy; fixed all "Get Instant Quote" CTAs. Phase 2 complete. |

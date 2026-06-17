@@ -9,8 +9,8 @@
 
 | Phase | Category | Total Pages | Status |
 |---|---|---|---|
-| 1 | General Pages | 6 | ❌ Not started |
-| 2 | CNC Service Hubs | 6 | ❌ Not started |
+| 1 | General Pages | 6 | ✅ Complete |
+| 2 | CNC Service Hubs | 6 | ✅ Complete |
 | 3 | CNC Material Sub-Pages | 55 | ❌ Not started |
 | 4 | Non-CNC Service Hubs | 13 | ❌ Not started |
 | 5 | Non-CNC Material Sub-Pages | 27 | ❌ Not started |
@@ -54,12 +54,12 @@ Read `_system/material-cnc-template.md` before writing any page in this phase.
 
 | Page | File | Status |
 |---|---|---|
-| Precision Machining Services (hub) | `Services/precision-machining-services.md` | ❌ Not started |
-| Custom CNC Machining Services | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ❌ Not started |
-| CNC Milling Services | `Services/CNC Milling Services/cnc-milling-services.md` | ❌ Not started |
-| CNC Turning Services | `Services/CNC Turning Services/cnc-turning-services.md` | ❌ Not started |
-| 5-Axis CNC Machining Services | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ❌ Not started |
-| Surface Finishing Services | `Services/surface-finishing-services.md` | ❌ Not started |
+| Precision Machining Services (hub) | `Services/precision-machining-services.md` | ✅ Complete |
+| Custom CNC Machining Services | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ✅ Complete |
+| CNC Milling Services | `Services/CNC Milling Services/cnc-milling-services.md` | ✅ Complete |
+| CNC Turning Services | `Services/CNC Turning Services/cnc-turning-services.md` | ✅ Complete |
+| 5-Axis CNC Machining Services | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ✅ Complete |
+| Surface Finishing Services | `Services/surface-finishing-services.md` | ✅ Complete |
 
 ---
 
