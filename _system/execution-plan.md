@@ -41,7 +41,7 @@
 |---|---|---|
 | Home | `General Pages/home.md` | ✅ Complete |
 | About Us | `General Pages/about-us.md` | ✅ Complete |
-| Contact | `General Pages/contact.md` | ❌ Not started |
+| Contact | `General Pages/contact.md` | ✅ Complete |
 | Get a Quote | `General Pages/get-a-quote.md` | ❌ Not started |
 | FAQ | `General Pages/faq.md` | ❌ Not started |
 | Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
