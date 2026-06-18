@@ -3,8 +3,8 @@
 > Update this file after every completed page.
 > Read this file at the start of every session.
 
-**Last updated:** 2026-06-17
-**Current phase:** Phase 2 — CNC Service Hubs (6/6 complete). ✅ Phase 2 DONE.
+**Last updated:** 2026-06-18
+**Current phase:** Phase 6 — Industry Hub Pages (0/9 complete). Phase 4 ✅ DONE.
 
 ---
 
@@ -15,9 +15,9 @@
 | Phase 1 — General Pages | 6 | ✅ Complete |
 | Phase 2 — CNC Service Hubs | 6 | ✅ Complete |
 | Phase 3 — CNC Material Sub-Pages | 55 | ⏳ Deferred |
-| Phase 4 — Non-CNC Service Hubs | 13 | 🔄 In progress (11/13 committed, 10 surface finishing stubs pending) |
+| Phase 4 — Non-CNC Service Hubs | 21 | ✅ Complete |
 | Phase 5 — Non-CNC Material Sub-Pages | 27 | ❌ Not started |
-| Phase 6 — Industry Hub Pages | 9 | ❌ Not started |
+| Phase 6 — Industry Hub Pages | 9 | 🔄 In progress |
 | Phase 7 — Industry Part Sub-Pages | 27 | ❌ Not started |
 | Phase 8 — Location Pages | 22 | ❌ Not started |
 | Phase 9 — Alternatives Pages | 5 | ❌ Not started |
@@ -96,19 +96,28 @@
 
 | Page | File | Status |
 |---|---|---|
-| 3D Printing hub | `Services/3D Printing Services/3d-printing-services.md` | ❌ Not started |
-| SLA | `Services/3D Printing Services/stereolithography-sla-3d-printing-services.md` | ❌ Not started |
-| SLS | `Services/3D Printing Services/selective-laser-sintering-sls-3d-printing-services.md` | ❌ Not started |
-| MJF | `Services/3D Printing Services/hp-multi-jet-fusion-mjf-3d-printing-services.md` | ❌ Not started |
-| FDM | `Services/3D Printing Services/fdm-3d-printing-services.md` | ❌ Not started |
-| Sheet Metal hub | `Services/Sheet Metal Services/sheet-metal-fabrication-services.md` | ❌ Not started |
-| Laser Cutting | `Services/Sheet Metal Services/laser-cutting-services.md` | ❌ Not started |
-| Sheet Metal Bending | `Services/Sheet Metal Services/sheet-metal-bending-services.md` | ❌ Not started |
-| Vacuum Casting hub | `Services/Vacuum Casting Services/vacuum-casting-services.md` | ❌ Not started |
-| Injection Molding hub | `Services/Injection Molding Services/injection-molding-services.md` | ❌ Not started |
-| Wire EDM hub | `Services/Wire EDM Services/wire-edm-services.md` | ❌ Not started |
-| Rapid Prototyping hub | `Services/Rapid Prototyping Services/rapid-prototyping-services.md` | ❌ Not started |
-| Surface Finishing sub-pages (10) | `Services/Surface Finishing Services/` | ❌ Not started |
+| 3D Printing hub | `Services/3D Printing Services/3d-printing-services.md` | ✅ Complete |
+| SLA | `Services/3D Printing Services/stereolithography-sla-3d-printing-services.md` | ✅ Complete |
+| SLS | `Services/3D Printing Services/selective-laser-sintering-sls-3d-printing-services.md` | ✅ Complete |
+| MJF | `Services/3D Printing Services/hp-multi-jet-fusion-mjf-3d-printing-services.md` | ✅ Complete |
+| FDM | `Services/3D Printing Services/fdm-3d-printing-services.md` | ✅ Complete |
+| Sheet Metal hub | `Services/Sheet Metal Services/sheet-metal-fabrication-services.md` | ✅ Complete |
+| Laser Cutting | `Services/Sheet Metal Services/laser-cutting-services.md` | ✅ Complete |
+| Sheet Metal Bending | `Services/Sheet Metal Services/sheet-metal-bending-services.md` | ✅ Complete |
+| Vacuum Casting hub | `Services/Vacuum Casting Services/vacuum-casting-services.md` | ✅ Complete |
+| Injection Molding hub | `Services/Injection Molding Services/injection-molding-services.md` | ✅ Complete |
+| Wire EDM hub | `Services/Wire EDM Services/wire-edm-services.md` | ✅ Complete |
+| Rapid Prototyping hub | `Services/Rapid Prototyping Services/rapid-prototyping-services.md` | ✅ Complete |
+| Anodizing | `Services/Surface Finishing Services/anodizing-services.md` | ✅ Complete |
+| Bead Blasting | `Services/Surface Finishing Services/bead-blasting-services.md` | ✅ Complete |
+| Black Oxide | `Services/Surface Finishing Services/black-oxide-services.md` | ✅ Complete |
+| Brushed Finish | `Services/Surface Finishing Services/brushed-finish-services.md` | ✅ Complete |
+| Electroplating | `Services/Surface Finishing Services/electroplating-services.md` | ✅ Complete |
+| Electropolishing | `Services/Surface Finishing Services/electropolishing-services.md` | ✅ Complete |
+| Nickel Plating | `Services/Surface Finishing Services/nickel-plating-services.md` | ✅ Complete |
+| Painting | `Services/Surface Finishing Services/painting-services.md` | ✅ Complete |
+| Passivation | `Services/Surface Finishing Services/passivation-services.md` | ✅ Complete |
+| Powder Coating | `Services/Surface Finishing Services/powder-coating-services.md` | ✅ Complete |
 
 ---
 
@@ -256,3 +265,4 @@ Needs real client project data. Do not write until client supplies project detai
 | 2026-06-17 | FAQ page | 25 questions across 5 groups. Fixed ISO phrasing and 11 passive voice instances. All answers spec-anchored. |
 | 2026-06-17 | Quality Assurance page | Writer + reviewer QA. Fixed 16 passive voice instances, ISO-2859 hyphen, FAQ spec anchor. CMM/reports framed as request-based, not auto-included. Phase 1 complete. |
 | 2026-06-17 | Phase 2 — CNC Service Hubs | Wrote precision-machining-services.md (new hub page). Fixed compliance violations across all 5 existing CNC hub pages: removed ISO 13485/IATF 16949/AS9100D/ITAR, 300+ machines, 20+ years claims; fixed documentation-every-order → available on request; fixed ±0.1mm tolerance discrepancy; fixed all "Get Instant Quote" CTAs. Phase 2 complete. |
+| 2026-06-18 | Phase 4 — Non-CNC Service Hubs | All 22 pages complete: 3D Printing hub + SLA/SLS/MJF/FDM, Sheet Metal hub + Laser Cutting + Bending, Vacuum Casting, Injection Molding, Wire EDM, Rapid Prototyping, and all 10 surface finishing sub-pages (anodizing, bead blasting, black oxide, brushed finish, electroplating, electropolishing, nickel plating, painting, passivation, powder coating). Phase 4 complete. |
