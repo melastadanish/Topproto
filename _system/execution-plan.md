@@ -5,21 +5,22 @@
 
 ---
 
-## Summary
+## Delivery Order
 
-| Phase | Category | Total Pages | Status |
-|---|---|---|---|
-| 1 | General Pages | 6 | ❌ Not started |
-| 2 | CNC Service Hubs | 6 | ❌ Not started |
-| 3 | CNC Material Sub-Pages | 55 | ❌ Not started |
-| 4 | Non-CNC Service Hubs | 13 | ❌ Not started |
-| 5 | Non-CNC Material Sub-Pages | 27 | ❌ Not started |
-| 6 | Industry Hub Pages | 9 | ❌ Not started |
-| 7 | Industry Part Sub-Pages | 27 | ❌ Not started |
-| 8 | Location Pages | 22 | ❌ Not started |
-| 9 | Alternatives Pages | 5 | ❌ Not started |
-| 10 | Case Studies | 5 | ❌ Blocked (needs client data) |
-| **Total** | | **~175** | |
+All hub/first-level pages are written before any material sub-pages.
+
+| Priority | Phase | Category | Total Pages | Status |
+|---|---|---|---|---|
+| 1 | 1 | General Pages | 6 | ✅ Complete |
+| 2 | 2 | CNC Service Hubs | 6 | ✅ Complete |
+| 3 | 4 | Non-CNC Service Hubs | 13 | ❌ Not started |
+| 4 | 6 | Industry Hub Pages | 9 | ❌ Not started |
+| 5 | 8 | Location Pages | 22 | ❌ Not started |
+| 6 | 9 | Alternatives Pages | 5 | ❌ Not started |
+| — | 3 | CNC Material Sub-Pages | 55 | ⏳ Deferred |
+| — | 5 | Non-CNC Material Sub-Pages | 27 | ⏳ Deferred |
+| — | 7 | Industry Part Sub-Pages | 27 | ⏳ Deferred |
+| — | 10 | Case Studies | 5 | ❌ Blocked (needs client data) |
 
 ---
 
@@ -40,11 +41,11 @@
 | Page | File | Status |
 |---|---|---|
 | Home | `General Pages/home.md` | ✅ Complete |
-| About Us | `General Pages/about-us.md` | ❌ Not started |
-| Contact | `General Pages/contact.md` | ❌ Not started |
-| Get a Quote | `General Pages/get-a-quote.md` | ❌ Not started |
-| FAQ | `General Pages/faq.md` | ❌ Not started |
-| Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
+| About Us | `General Pages/about-us.md` | ✅ Complete |
+| Contact | `General Pages/contact.md` | ✅ Complete |
+| Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
+| FAQ | `General Pages/faq.md` | ✅ Complete |
+| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Complete |
 
 ---
 
@@ -54,12 +55,12 @@ Read `_system/material-cnc-template.md` before writing any page in this phase.
 
 | Page | File | Status |
 |---|---|---|
-| Precision Machining Services (hub) | `Services/precision-machining-services.md` | ❌ Not started |
-| Custom CNC Machining Services | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ❌ Not started |
-| CNC Milling Services | `Services/CNC Milling Services/cnc-milling-services.md` | ❌ Not started |
-| CNC Turning Services | `Services/CNC Turning Services/cnc-turning-services.md` | ❌ Not started |
-| 5-Axis CNC Machining Services | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ❌ Not started |
-| Surface Finishing Services | `Services/surface-finishing-services.md` | ❌ Not started |
+| Precision Machining Services (hub) | `Services/precision-machining-services.md` | ✅ Complete |
+| Custom CNC Machining Services | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ✅ Complete |
+| CNC Milling Services | `Services/CNC Milling Services/cnc-milling-services.md` | ✅ Complete |
+| CNC Turning Services | `Services/CNC Turning Services/cnc-turning-services.md` | ✅ Complete |
+| 5-Axis CNC Machining Services | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ✅ Complete |
+| Surface Finishing Services | `Services/surface-finishing-services.md` | ✅ Complete |
 
 ---
 

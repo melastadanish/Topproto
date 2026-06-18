@@ -216,7 +216,7 @@ Material verified against mill cert. Alloy grade, heat number, and diameter tole
 OD checked with calibrated micrometer after roughing passes. Thread features Go/No-Go gauged during production, not only at final inspection. Any deviation from nominal triggers a hold before the run continues.
 
 **Final-Production:**
-CMM inspection on critical features — concentricity, runout, key diameters, thread gauging. Dimensional report against your drawing revision ships with every order. Material cert and packing list included.
+CMM inspection on critical features — concentricity, runout, key diameters, thread gauging. Dimensional reports and material certificates are available on request — specify at quoting stage so TOP PROTO can cost and schedule them from the start.
 
 Footer link: → View our full Quality Assurance process → [[quality-assurance]]
 
@@ -246,7 +246,7 @@ Long, slender, tight-tolerance components are the ones that expose the gap betwe
 Cycle time on a lathe for a cylindrical part is a fraction of what it costs to mill the same geometry from solid. We don't charge milling rates for turning work. If your part is predominantly turned, the quote will reflect it.
 
 **Everything documented, nothing assumed.**
-Dimensional report, material cert, thread gauge records — all in the box. Tight-tolerance cnc turning parts for aerospace and medical applications ship with full CMM output as standard. Not available on request — standard on every qualifying order.
+Dimensional reports, material certificates, and thread gauge records are available on request — specify documentation requirements at the quoting stage so TOP PROTO can cost and schedule them correctly.
 
 **Direct facility, fast response.**
 Your parts are quoted, produced, inspected, and shipped from Dongguan. One team, one facility. When a question comes up during production — a thread class ambiguity, a drawing revision — you get an answer in hours, not days.
@@ -276,7 +276,7 @@ Yes — with live tooling. Our turning centres with live tooling capability can 
 Yes, no minimum order quantity. Single pieces quoted and produced to the same standard as production runs — same material verification, same inspection process, same documentation. The per-unit cost is higher on singles due to setup time, but the process and the output are identical. Engineers who need one shaft to validate a design before committing to production get the same quality output as a 500-piece batch.
 
 **Q7: How does TOP PROTO CNC turning compare to other suppliers or online platforms?**
-Online CNC platforms typically route turned parts to a network of sub-contracted shops. Lead times and quality vary by shop. TOP PROTO turns every part in-house at our Dongguan facility — 2-axis, live tooling, and Swiss turning all under one roof, one quality system. Standard diametral tolerance: ±0.005mm, CMM-verified. Swiss turning for L:D ratios up to 20:1 — a capability most platforms can't guarantee because they don't control which shop takes the job. Documentation ships with every order: dimensional report, thread gauge records, material certificate. No chasing, no variables between orders.
+Online CNC platforms typically route turned parts to a network of sub-contracted shops. Lead times and quality vary by shop. TOP PROTO turns every part in-house at our Dongguan facility — 2-axis, live tooling, and Swiss turning all under one roof, one quality system. Standard diametral tolerance: ±0.005mm, CMM-verified. Swiss turning for L:D ratios up to 20:1 — a capability most platforms can't guarantee because they don't control which shop takes the job. Documentation available on request: dimensional report, thread gauge records, material certificate — specify at the quoting stage.
 
 ---
 
@@ -297,7 +297,7 @@ Online CNC platforms typically route turned parts to a network of sub-contracted
 - ✅ Tolerances to ±0.005mm, CMM verified
 - ✅ Thread gauging and runout inspection on every order
 - ✅ From 3 business days lead time
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive a DFM-reviewed quote within 24 hours
 
 ---
 

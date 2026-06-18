@@ -232,8 +232,8 @@ Most parts called "5-axis" only need 3+2 positioning. Some genuinely need simult
 **Setup reduction is where the real value is.**
 The standard pitch for 5-axis is complex geometry. The real argument is setups. A part that needs four setups on a 3-axis machine accumulates positional error at every transition. The same part in a single 5-axis setup has one datum, established once. That's not just faster — it's more accurate.
 
-**20 years of difficult parts.**
-Aerospace brackets with 12 GD&T callouts on a single face. Medical implants where the critical surface tolerance is ±0.005mm and surface profile is measured by CMM, not assumed. Complex impellers where blade geometry is verified against nominal CAD. We've machined all of these as production work — not special projects. That's a different thing.
+**Difficult parts are the routine, not the exception.**
+Aerospace brackets with 12 GD&T callouts on a single face. Medical implants where the critical surface tolerance is ±0.005mm and surface profile is measured by CMM, not assumed. Complex impellers where blade geometry is verified against nominal CAD. These are production work — not special projects.
 
 **Full surface inspection on complex geometry.**
 For freeform surfaces, point measurement isn't enough. We measure surface profile against your nominal CAD data, using the GD&T surface profile callout as the acceptance criterion. The result is a report showing deviation across the surface — not just pass/fail at three measured points.
@@ -269,7 +269,7 @@ Aerospace is the biggest driver — structural components with multiple mounting
 Three questions: (1) Does the part have features on more than two faces requiring separate setups? (2) Are there undercuts or compound angles a vertical tool path can't reach? (3) Are there true freeform curved surfaces? If any answer is yes, 5-axis is likely the right process. If none apply, 3-axis will do it. Send the STEP file — we'll assess during DFM review and recommend the right machine allocation before quoting.
 
 **Q7: How does TOP PROTO 5-axis machining compare to Xometry or local CNC shops?**
-5-axis work sent through a marketplace platform is only as good as the specific shop that takes the job. Programming quality, fixturing, and CMM verification vary. At TOP PROTO, every 5-axis part is programmed, set up, and inspected in-house at our Dongguan facility. We specify 3+2 or simultaneous in the quote — and explain why — so you understand the process before committing. Tolerances to ±0.005mm on critical features, surface profile measured against nominal CAD data on freeform surfaces. Full CMM output ships with every aerospace and medical order as standard. Local shops in the US or Europe typically charge 2–4× more for equivalent 5-axis capability; TOP PROTO delivers the same tolerance and documentation standard at direct-manufacturer pricing.
+5-axis work sent through a marketplace platform is only as good as the specific shop that takes the job. Programming quality, fixturing, and CMM verification vary. At TOP PROTO, every 5-axis part is programmed, set up, and inspected in-house at our Dongguan facility. We specify 3+2 or simultaneous in the quote — and explain why — so you understand the process before committing. Tolerances to ±0.005mm on critical features, surface profile measured against nominal CAD data on freeform surfaces. CMM output is available on request for aerospace and medical orders — specify at quoting stage. Local shops in the US or Europe typically charge 2–4× more for equivalent 5-axis capability; TOP PROTO delivers the same tolerance and documentation standard at direct-manufacturer pricing.
 
 ---
 
@@ -290,7 +290,7 @@ Three questions: (1) Does the part have features on more than two faces requirin
 - ✅ Tolerances to ±0.005mm, CMM and surface profile verified
 - ✅ DFM review confirms right process before you commit
 - ✅ From 4 business days lead time
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive a DFM-reviewed quote within 24 hours
 
 ---
 

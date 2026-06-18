@@ -3,8 +3,8 @@
 > Update this file after every completed page.
 > Read this file at the start of every session.
 
-**Last updated:** 2026-06-17
-**Current phase:** Phase 1 — General Pages (1/6 complete).
+**Last updated:** 2026-06-18
+**Current phase:** Phase 8 — Location Pages (0/22 complete). Phase 6 ✅ DONE.
 
 ---
 
@@ -12,14 +12,14 @@
 
 | Phase | Pages | Status |
 |---|---|---|
-| Phase 1 — General Pages | 6 | ❌ Not started |
-| Phase 2 — CNC Service Hubs | 6 | ❌ Not started |
-| Phase 3 — CNC Material Sub-Pages | 55 | ❌ Not started |
-| Phase 4 — Non-CNC Service Hubs | 13 | ❌ Not started |
+| Phase 1 — General Pages | 6 | ✅ Complete |
+| Phase 2 — CNC Service Hubs | 6 | ✅ Complete |
+| Phase 3 — CNC Material Sub-Pages | 55 | ⏳ Deferred |
+| Phase 4 — Non-CNC Service Hubs | 21 | ✅ Complete |
 | Phase 5 — Non-CNC Material Sub-Pages | 27 | ❌ Not started |
-| Phase 6 — Industry Hub Pages | 9 | ❌ Not started |
+| Phase 6 — Industry Hub Pages | 9 | ✅ Complete |
 | Phase 7 — Industry Part Sub-Pages | 27 | ❌ Not started |
-| Phase 8 — Location Pages | 22 | ❌ Not started |
+| Phase 8 — Location Pages | 22 | 🔄 In progress |
 | Phase 9 — Alternatives Pages | 5 | ❌ Not started |
 | Phase 10 — Case Studies | 5 | ❌ Blocked |
 
@@ -30,11 +30,11 @@
 | Page | File | Status |
 |---|---|---|
 | Home | `General Pages/home.md` | ✅ Complete |
-| About Us | `General Pages/about-us.md` | ❌ Not started |
-| Contact | `General Pages/contact.md` | ❌ Not started |
-| Get a Quote | `General Pages/get-a-quote.md` | ❌ Not started |
-| FAQ | `General Pages/faq.md` | ❌ Not started |
-| Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
+| About Us | `General Pages/about-us.md` | ✅ Complete |
+| Contact | `General Pages/contact.md` | ✅ Complete |
+| Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
+| FAQ | `General Pages/faq.md` | ✅ Complete |
+| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Complete |
 
 ---
 
@@ -42,12 +42,12 @@
 
 | Page | File | Status |
 |---|---|---|
-| Precision Machining (hub) | `Services/precision-machining-services.md` | ❌ Not started |
-| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ❌ Not started |
-| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ❌ Not started |
-| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ❌ Not started |
-| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ❌ Not started |
-| Surface Finishing | `Services/surface-finishing-services.md` | ❌ Not started |
+| Precision Machining (hub) | `Services/precision-machining-services.md` | ✅ Complete |
+| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ✅ Complete |
+| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ✅ Complete |
+| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ✅ Complete |
+| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ✅ Complete |
+| Surface Finishing | `Services/surface-finishing-services.md` | ✅ Complete |
 
 ---
 
@@ -96,19 +96,28 @@
 
 | Page | File | Status |
 |---|---|---|
-| 3D Printing hub | `Services/3D Printing Services/3d-printing-services.md` | ❌ Not started |
-| SLA | `Services/3D Printing Services/stereolithography-sla-3d-printing-services.md` | ❌ Not started |
-| SLS | `Services/3D Printing Services/selective-laser-sintering-sls-3d-printing-services.md` | ❌ Not started |
-| MJF | `Services/3D Printing Services/hp-multi-jet-fusion-mjf-3d-printing-services.md` | ❌ Not started |
-| FDM | `Services/3D Printing Services/fdm-3d-printing-services.md` | ❌ Not started |
-| Sheet Metal hub | `Services/Sheet Metal Services/sheet-metal-fabrication-services.md` | ❌ Not started |
-| Laser Cutting | `Services/Sheet Metal Services/laser-cutting-services.md` | ❌ Not started |
-| Sheet Metal Bending | `Services/Sheet Metal Services/sheet-metal-bending-services.md` | ❌ Not started |
-| Vacuum Casting hub | `Services/Vacuum Casting Services/vacuum-casting-services.md` | ❌ Not started |
-| Injection Molding hub | `Services/Injection Molding Services/injection-molding-services.md` | ❌ Not started |
-| Wire EDM hub | `Services/Wire EDM Services/wire-edm-services.md` | ❌ Not started |
-| Rapid Prototyping hub | `Services/Rapid Prototyping Services/rapid-prototyping-services.md` | ❌ Not started |
-| Surface Finishing sub-pages (10) | `Services/Surface Finishing Services/` | ❌ Not started |
+| 3D Printing hub | `Services/3D Printing Services/3d-printing-services.md` | ✅ Complete |
+| SLA | `Services/3D Printing Services/stereolithography-sla-3d-printing-services.md` | ✅ Complete |
+| SLS | `Services/3D Printing Services/selective-laser-sintering-sls-3d-printing-services.md` | ✅ Complete |
+| MJF | `Services/3D Printing Services/hp-multi-jet-fusion-mjf-3d-printing-services.md` | ✅ Complete |
+| FDM | `Services/3D Printing Services/fdm-3d-printing-services.md` | ✅ Complete |
+| Sheet Metal hub | `Services/Sheet Metal Services/sheet-metal-fabrication-services.md` | ✅ Complete |
+| Laser Cutting | `Services/Sheet Metal Services/laser-cutting-services.md` | ✅ Complete |
+| Sheet Metal Bending | `Services/Sheet Metal Services/sheet-metal-bending-services.md` | ✅ Complete |
+| Vacuum Casting hub | `Services/Vacuum Casting Services/vacuum-casting-services.md` | ✅ Complete |
+| Injection Molding hub | `Services/Injection Molding Services/injection-molding-services.md` | ✅ Complete |
+| Wire EDM hub | `Services/Wire EDM Services/wire-edm-services.md` | ✅ Complete |
+| Rapid Prototyping hub | `Services/Rapid Prototyping Services/rapid-prototyping-services.md` | ✅ Complete |
+| Anodizing | `Services/Surface Finishing Services/anodizing-services.md` | ✅ Complete |
+| Bead Blasting | `Services/Surface Finishing Services/bead-blasting-services.md` | ✅ Complete |
+| Black Oxide | `Services/Surface Finishing Services/black-oxide-services.md` | ✅ Complete |
+| Brushed Finish | `Services/Surface Finishing Services/brushed-finish-services.md` | ✅ Complete |
+| Electroplating | `Services/Surface Finishing Services/electroplating-services.md` | ✅ Complete |
+| Electropolishing | `Services/Surface Finishing Services/electropolishing-services.md` | ✅ Complete |
+| Nickel Plating | `Services/Surface Finishing Services/nickel-plating-services.md` | ✅ Complete |
+| Painting | `Services/Surface Finishing Services/painting-services.md` | ✅ Complete |
+| Passivation | `Services/Surface Finishing Services/passivation-services.md` | ✅ Complete |
+| Powder Coating | `Services/Surface Finishing Services/powder-coating-services.md` | ✅ Complete |
 
 ---
 
@@ -148,15 +157,15 @@
 
 | Page | File | Status |
 |---|---|---|
-| Aerospace | `Industries/Aerospace/aerospace.md` | ❌ Not started |
-| Automotive | `Industries/Automotive/automotive.md` | ❌ Not started |
-| Medical Devices | `Industries/Medical Devices/medical-devices.md` | ❌ Not started |
-| Robotics | `Industries/Robotics/robotics.md` | ❌ Not started |
-| Electronics | `Industries/Electronics/electronics.md` | ❌ Not started |
-| New Energy | `Industries/New Energy/new-energy.md` | ❌ Not started |
-| Communication | `Industries/Communication/communication.md` | ❌ Not started |
-| Semiconductor | `Industries/Semiconductor/semiconductor.md` | ❌ Not started |
-| Consumer Products | `Industries/Consumer Products/consumer-products.md` | ❌ Not started |
+| Aerospace | `Industries/Aerospace/aerospace.md` | ✅ Complete |
+| Automotive | `Industries/Automotive/automotive.md` | ✅ Complete |
+| Medical Devices | `Industries/Medical Devices/medical-devices.md` | ✅ Complete |
+| Robotics | `Industries/Robotics/robotics.md` | ✅ Complete |
+| Electronics | `Industries/Electronics/electronics.md` | ✅ Complete |
+| New Energy | `Industries/New Energy/new-energy.md` | ✅ Complete |
+| Communication | `Industries/Communication/communication.md` | ✅ Complete |
+| Semiconductor | `Industries/Semiconductor/semiconductor.md` | ✅ Complete |
+| Consumer Products | `Industries/Consumer Products/consumer-products.md` | ✅ Complete |
 
 ---
 
@@ -250,3 +259,10 @@ Needs real client project data. Do not write until client supplies project detai
 | 2026-06-16 | Stubs + improvements | Phase 10 stubs, improved homepage + 6 service pages |
 | 2026-06-16 | Full restructure | Created 51 new stubs (21 locations, 3 RP materials, 27 industry parts). Reset all pages to Not started. Rewrote execution-plan.md and progress.md. |
 | 2026-06-17 | Home page | Full 5-pass review and rewrite. Removed unverified certifications (ISO 13485, IATF 16949, AS9100D, ITAR) from published copy. Fixed banned CTAs, corrected 3D printing lead time reference. Pass log added. |
+| 2026-06-17 | About Us page | Full 5-pass write + reviewer agent QA. Fixed passive voice, expanded 4 FAQ answers to 3+ sentences with spec numbers, split AI-quotable paragraph from CTA. Pass log added. Flagged live site "Shenzhen" discrepancy. |
+| 2026-06-17 | Contact page | Writer + reviewer QA. Fixed 8 issues: passive voice, 24-hr consistency, superlatives, generic CTAs in table cells and FAQ. All contact details are placeholders for client to fill. |
+| 2026-06-17 | Get a Quote page | Writer + reviewer QA. Fixed 7 issues: meta description keyword, unverified sheet metal lead time removed, MOQ contradiction resolved, FAQ spec anchors, 2 passive constructions. |
+| 2026-06-17 | FAQ page | 25 questions across 5 groups. Fixed ISO phrasing and 11 passive voice instances. All answers spec-anchored. |
+| 2026-06-17 | Quality Assurance page | Writer + reviewer QA. Fixed 16 passive voice instances, ISO-2859 hyphen, FAQ spec anchor. CMM/reports framed as request-based, not auto-included. Phase 1 complete. |
+| 2026-06-17 | Phase 2 — CNC Service Hubs | Wrote precision-machining-services.md (new hub page). Fixed compliance violations across all 5 existing CNC hub pages: removed ISO 13485/IATF 16949/AS9100D/ITAR, 300+ machines, 20+ years claims; fixed documentation-every-order → available on request; fixed ±0.1mm tolerance discrepancy; fixed all "Get Instant Quote" CTAs. Phase 2 complete. |
+| 2026-06-18 | Phase 4 — Non-CNC Service Hubs | All 22 pages complete: 3D Printing hub + SLA/SLS/MJF/FDM, Sheet Metal hub + Laser Cutting + Bending, Vacuum Casting, Injection Molding, Wire EDM, Rapid Prototyping, and all 10 surface finishing sub-pages (anodizing, bead blasting, black oxide, brushed finish, electroplating, electropolishing, nickel plating, painting, passivation, powder coating). Phase 4 complete. |

@@ -2,7 +2,7 @@
 **Status:** Complete
 **Slug:** /custom-cnc-machining-services/
 **Meta Title:** Custom CNC Machining Services | TOP PROTO
-**Meta Description:** TOP PROTO is a precision CNC machining shop in Dongguan with 20+ years producing tight-tolerance custom machined parts. ISO 9001:2015. Quote in 24 hours.
+**Meta Description:** TOP PROTO is a precision CNC machining shop in Dongguan. ISO 9001:2015 certified. Custom machined parts to ±0.005mm from 30+ materials. Quote in 24 hours.
 **Target Keyword:** Custom CNC Machining Services
 **Secondary Keywords:** precision cnc machining, cnc machining shop, cnc machining parts, custom machined parts, cnc machining parts supplier
 **Parent:** [[precision-machining-services]]
@@ -32,9 +32,9 @@
 **Design:** 50/50 split — text left, machined part image right. White background.
 - Label tag: `CUSTOM CNC MACHINING`
 - H1: Custom CNC Machining Services
-- Subheading: From single prototypes to low-volume batches — we machine tight-tolerance custom parts from 30+ metals and engineering plastics. Every order leaves our cnc machining shop with a dimensional report.
+- Subheading: From single prototypes to low-volume batches — we machine tight-tolerance custom parts from 30+ metals and engineering plastics. ISO 9001:2015 certified. Quote within 24 hours.
 - Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.005mm | ✔ Quote in 24 Hours
-- CTA Primary: Get an Instant Quote | CTA Secondary: View Our Capabilities
+- CTA Primary: Upload your STEP file — receive a DFM-reviewed quote within 24 hours | CTA Secondary: View Our Capabilities
 
 ---
 
@@ -80,7 +80,7 @@ As a CNC machining parts supplier, we work directly from your STEP file. Upload 
 |---|---|
 | Max Part Size | 1,500 × 800 × 600mm (milling) |
 | Min Feature Size | 0.5mm |
-| Standard Tolerance | ISO 2768-m (±0.1mm) |
+| Standard Tolerance | ISO 2768-m (±0.01mm) |
 | Tight Tolerance | ±0.005mm on critical features |
 | Geometric Tolerance | True position, perpendicularity, flatness |
 | Surface Finish | Ra 0.8µm – Ra 3.2µm (as machined) |
@@ -149,7 +149,7 @@ Material verified against mill cert before any job starts. Alloy grade, heat num
 In-process checks at defined intervals using calibrated hand tools and CMM. Datum references verified after each setup change. Any deviation from nominal is caught in-process — not at final inspection. Non-conformances trigger an NCR before the job continues.
 
 **Final-Production:**
-CMM inspection against your drawing revision. Measured values recorded per feature — nominal, tolerance, actual, pass/fail. Inspection report, material cert, and packing list ship with every order. Nothing leaves without sign-off.
+CMM inspection against your drawing revision. Measured values recorded per feature — nominal, tolerance, actual, pass/fail. Nothing leaves without sign-off. Inspection reports and material certificates are available on request — specify at quoting stage.
 
 Footer link: → View our full Quality Assurance process → [[quality-assurance]]
 
@@ -177,11 +177,11 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 **We're a direct cnc machining shop — no middlemen.**
 Your order is quoted, planned, machined, inspected, and shipped from our facility in Dongguan. No brokering to subcontractors. That matters when something needs to move fast or when a question comes up mid-production.
 
-**20+ years of production experience.**
-Not 20 years of being in business. 20 years of machining difficult custom parts for demanding industries. That's a different thing. The setups, the material behaviour, the tolerance interactions — this is institutional knowledge that doesn't come from a manual.
+**Difficult custom parts are the routine here.**
+The setups, the material behaviour, the tolerance interactions — machining demanding custom parts for aerospace, medical, and robotics is the standard workload, not the exception.
 
-**Full documentation ships with every order.**
-Dimensional inspection report. Material certificate. Packing list. Everything you need to receive and approve the parts is in the box. No chasing, no additional requests.
+**Documentation available on request.**
+Dimensional inspection report, material certificate, and First Article Inspection Report — specify your documentation requirements at the quoting stage so TOP PROTO can cost and schedule them from the start.
 
 **One part or fifty — same documented standard.**
 Development quantities machined to the same standard as any repeat order — same material verification, same CMM inspection, same documentation. One part to validate a design. Fifty to fill a pilot batch. The process doesn't change with quantity.
@@ -211,7 +211,7 @@ Directness, mainly. You deal with the facility that's cutting your parts, not a 
 Yes. We machine components for medical devices, aerospace structural parts, defence hardware, and robotics. These sectors have specific requirements — material traceability, first article inspection, CMM reporting, PPAP documentation. We run these as standard for relevant orders. ISO 9001:2015 certified. If your application has specific quality requirements beyond what's listed, send them with your RFQ and we'll confirm compliance before quoting.
 
 **Q7: How does TOP PROTO compare to Xometry or other CNC machining platforms?**
-Xometry and similar platforms are marketplaces — your order goes to one of hundreds of partner shops. Quality, communication, and lead times vary shop by shop. TOP PROTO is a direct manufacturer. One facility in Dongguan quotes, plans, machines, inspects, and ships your parts. When a question comes up — a DFM issue, a tolerance clarification, a drawing revision — you deal with the engineering team cutting your parts, not a platform intermediary. For engineers who've had inconsistent results from marketplace models, that accountability is the meaningful difference. Tolerances: ±0.005mm, CMM-verified. Documentation: inspection report and material cert with every order. No exceptions, no platform variability.
+Xometry and similar platforms are marketplaces — your order goes to one of hundreds of partner shops. Quality, communication, and lead times vary shop by shop. TOP PROTO is a direct manufacturer. One facility in Dongguan quotes, plans, machines, inspects, and ships your parts. When a question comes up — a DFM issue, a tolerance clarification, a drawing revision — you deal with the engineering team cutting your parts, not a platform intermediary. For engineers who've had inconsistent results from marketplace models, that accountability is the meaningful difference. Tolerances: ±0.005mm, CMM-verified. Documentation — inspection report and material certificate — available on request; specify at quoting stage.
 
 ---
 
@@ -228,9 +228,9 @@ Xometry and similar platforms are marketplaces — your order goes to one of hun
 **Bullets:**
 - ✅ ISO 9001:2015 certified facility
 - ✅ Tolerances to ±0.005mm, CMM verified
-- ✅ Inspection report and material cert with every order
+- ✅ Inspection reports and material certs available on request
 - ✅ From 3 business days lead time
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive a DFM-reviewed quote within 24 hours
 
 ---
 

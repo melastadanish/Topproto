@@ -31,7 +31,7 @@
 - H1: Surface Finishing Services
 - Subheading: Metal finishing services applied to CNC machined parts — anodizing, passivation, powder coating, electropolishing, nickel plating, and more. Every finish specified, controlled, and documented from our Dongguan facility.
 - Trust badges: ✔ ISO 9001:2015 Certified | ✔ In-House Finishing | ✔ Quote in 24 Hours
-- CTA Primary: Get an Instant Quote | CTA Secondary: View All Finishes
+- CTA Primary: Upload your STEP file — receive a DFM-reviewed quote within 24 hours | CTA Secondary: View All Finishes
 
 ---
 
@@ -173,8 +173,8 @@ Coating thickness affects tolerances. Masking affects finishing coverage. Pre-co
 **Dimension-critical features protected.**
 Threads, precision bores, sealing faces — masked before finishing, re-checked after. If a feature can't tolerate the coating thickness, we raise it at quote stage and agree the approach before processing starts. No surprises at goods-in inspection.
 
-**Full finish documentation ships with every order.**
-Process record, coating thickness measurements, visual inspection sign-off, and material cert with every finished order. For aerospace and medical applications where finish traceability is required, that documentation is standard — not an additional charge.
+**Finish documentation available on request.**
+Process record, coating thickness measurements, visual inspection sign-off, and material certificate — specify documentation requirements at the quoting stage so TOP PROTO can cost and schedule them from the start.
 
 **One order, one point of contact.**
 Parts machined at TOP PROTO finish at TOP PROTO or our qualified local partners under our QMS. No separate PO to a finishing house, no coordination between two suppliers, no misplaced parts between handoffs.
@@ -226,8 +226,8 @@ Sending CNC parts to an external finishing house after machining introduces a se
 - ✅ 12+ surface finishes available
 - ✅ In-house and qualified partner finishing under ISO 9001:2015
 - ✅ Dimension-critical features masked and documented
-- ✅ Finish process record and coating thickness report with every order
-**CTA:** Get Instant Quote
+- ✅ Finish process record and coating thickness report available on request
+**CTA:** Upload your STEP file — receive a DFM-reviewed quote within 24 hours
 
 ---
 
