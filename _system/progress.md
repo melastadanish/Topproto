@@ -14,8 +14,8 @@
 |---|---|---|
 | Phase 1 — General Pages | 6 | ✅ Complete |
 | Phase 2 — CNC Service Hubs | 6 | ✅ Complete |
-| Phase 3 — CNC Material Sub-Pages | 55 | ❌ Not started |
-| Phase 4 — Non-CNC Service Hubs | 13 | ❌ Not started |
+| Phase 3 — CNC Material Sub-Pages | 55 | ⏳ Deferred |
+| Phase 4 — Non-CNC Service Hubs | 13 | 🔄 In progress (11/13 committed, 10 surface finishing stubs pending) |
 | Phase 5 — Non-CNC Material Sub-Pages | 27 | ❌ Not started |
 | Phase 6 — Industry Hub Pages | 9 | ❌ Not started |
 | Phase 7 — Industry Part Sub-Pages | 27 | ❌ Not started |

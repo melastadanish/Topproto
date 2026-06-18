@@ -5,21 +5,22 @@
 
 ---
 
-## Summary
+## Delivery Order
 
-| Phase | Category | Total Pages | Status |
-|---|---|---|---|
-| 1 | General Pages | 6 | ✅ Complete |
-| 2 | CNC Service Hubs | 6 | ✅ Complete |
-| 3 | CNC Material Sub-Pages | 55 | ❌ Not started |
-| 4 | Non-CNC Service Hubs | 13 | ❌ Not started |
-| 5 | Non-CNC Material Sub-Pages | 27 | ❌ Not started |
-| 6 | Industry Hub Pages | 9 | ❌ Not started |
-| 7 | Industry Part Sub-Pages | 27 | ❌ Not started |
-| 8 | Location Pages | 22 | ❌ Not started |
-| 9 | Alternatives Pages | 5 | ❌ Not started |
-| 10 | Case Studies | 5 | ❌ Blocked (needs client data) |
-| **Total** | | **~175** | |
+All hub/first-level pages are written before any material sub-pages.
+
+| Priority | Phase | Category | Total Pages | Status |
+|---|---|---|---|---|
+| 1 | 1 | General Pages | 6 | ✅ Complete |
+| 2 | 2 | CNC Service Hubs | 6 | ✅ Complete |
+| 3 | 4 | Non-CNC Service Hubs | 13 | ❌ Not started |
+| 4 | 6 | Industry Hub Pages | 9 | ❌ Not started |
+| 5 | 8 | Location Pages | 22 | ❌ Not started |
+| 6 | 9 | Alternatives Pages | 5 | ❌ Not started |
+| — | 3 | CNC Material Sub-Pages | 55 | ⏳ Deferred |
+| — | 5 | Non-CNC Material Sub-Pages | 27 | ⏳ Deferred |
+| — | 7 | Industry Part Sub-Pages | 27 | ⏳ Deferred |
+| — | 10 | Case Studies | 5 | ❌ Blocked (needs client data) |
 
 ---
 
