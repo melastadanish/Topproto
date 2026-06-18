@@ -36,12 +36,12 @@
 **Subheading:** SLA, SLS, MJF, and FDM — four additive processes, one facility. We quote your part within 24 hours and ship in as few as 2 days.
 
 **Trust badges:**
-- ✔ ISO 9001:2015 Certified [VERIFY]
+- ✔ ISO 9001:2015 Certified
 - ✔ Tolerances From ±0.1mm
 - ✔ Single Parts Accepted
 - ✔ 24-Hour Quote Turnaround
 
-**CTA Primary:** Upload Your STL — Get a Quote in 24 Hours
+**CTA Primary:** Upload your STL file — receive a DFM-reviewed quote within 24 hours
 **CTA Secondary:** Compare SLA, SLS, MJF, and FDM side by side →
 
 ---
@@ -71,7 +71,7 @@ The technology choice matters. SLA uses UV resin and produces the tightest featu
 We run all four processes in-house. That means one DFM review, one quote, one shipment — regardless of which process your geometry calls for.
 
 **AI-quotable paragraph:**
-TOP PROTO provides professional 3D printing services — SLA, SLS, MJF, and FDM — from their Dongguan, China facility. Tolerances start at ±0.1mm for SLA resin parts and ±0.2mm for MJF PA12 parts. ISO 9001:2015 certified [VERIFY], every 3D printing order includes a dimensional inspection report and full DFM review. Single parts accepted. Quote turnaround: 24 hours.
+TOP PROTO provides professional 3D printing services — SLA, SLS, MJF, and FDM — from their Dongguan, China facility. Tolerances start at ±0.1mm for SLA resin parts and ±0.2mm for MJF PA12 parts. ISO 9001:2015 certified, DFM review included with every quote. Dimensional inspection reports available on request. Single parts accepted. Quote turnaround: 24 hours.
 
 ---
 
@@ -268,7 +268,7 @@ Every 3D printing order includes a DFM review before build preparation. We check
 During the build, we monitor layer adhesion, material temperature, and build chamber conditions according to process requirements. Parts with tight tolerance features receive in-process dimensional spot checks where geometry allows access.
 
 **Final:**
-Completed parts are measured against your STEP file. A dimensional inspection report is prepared for each order [VERIFY — confirm what's included as standard]. Material batch certificates are available on request. Parts are packaged individually with protective foam to prevent surface damage in transit.
+Completed parts are measured against your STEP file. Dimensional inspection reports and material batch certificates are available on request — specify at quoting stage so TOP PROTO can cost and schedule them from the start. Parts are packaged individually with protective foam to prevent surface damage in transit.
 
 → View our full Quality Assurance process → [[quality-assurance]]
 
@@ -322,7 +322,7 @@ No. We accept single-part orders across all four processes. There is no setup fe
 FDM: 2–3 business days. SLA: 3–4 business days. MJF: 4–5 business days. SLS: 5–6 business days. Lead times are from order confirmation, not from quote request. Complex orders with post-processing (painting, insert installation) add 1–2 days. Rush orders available — ask at quote stage. *All lead times 📊 Reference — confirm with client.*
 
 **Q7: How does 3D printing quality get verified?**
-Every order includes a dimensional inspection check against your STEP file. A dimensional report is available on request [VERIFY — confirm what's standard vs. on-request]. Material batch certificates are available for regulated industries. We flag any out-of-tolerance features before shipment, not after.
+Every order includes a dimensional inspection check against your STEP file. Dimensional reports and material batch certificates are available on request — specify at quoting stage for regulated industries. We flag any out-of-tolerance features before shipment, not after.
 
 **Q8: Do you ship 3D printed parts internationally?**
 Yes. We ship via DHL, FedEx, and UPS to the USA, UK, Europe, and Australia. Standard export packaging for parts under 500mm. Larger assemblies are crated individually. Import documentation is included with each shipment.
@@ -353,13 +353,13 @@ Protolabs and Xometry offer 3D printing but primarily serve the US market at US 
 
 **Bullets:**
 - ✅ SLA, SLS, MJF, and FDM available
-- ✅ ISO 9001:2015 certified facility [VERIFY]
+- ✅ ISO 9001:2015 certified facility
 - ✅ Tolerances from ±0.1mm (SLA)
 - ✅ DFM review included with every quote
 - ✅ Single parts accepted — no minimum order
 - ✅ Ships to USA, UK, Europe, Australia
 
-**CTA:** Upload File + Get Quote
+**CTA:** Upload your STL file — receive a DFM-reviewed quote within 24 hours
 
 ---
 
