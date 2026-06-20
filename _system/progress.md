@@ -61,7 +61,7 @@
 | aluminium-7075-cnc-machining-services | ✅ Complete |
 | stainless-steel-cnc-machining-services | ✅ Complete |
 | 316l-cnc-machining-services | ✅ Complete |
-| 303-cnc-machining-services | ❌ Not started |
+| 303-cnc-machining-services | ✅ Complete |
 | titanium-cnc-machining-services | ❌ Not started |
 | titanium-grade-2-cnc-machining-services | ❌ Not started |
 | titanium-grade-5-cnc-machining-services | ❌ Not started |
