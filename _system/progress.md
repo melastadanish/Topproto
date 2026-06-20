@@ -95,7 +95,21 @@
 | nickel-plating-cnc-machining-services | ✅ Complete |
 | passivation-cnc-machining-services | ✅ Complete |
 | powder-coating-cnc-machining-services | ✅ Complete |
-### CNC Milling — Materials (11 pages) — all ❌ Not started
+### CNC Milling — Materials (11 pages)
+| Page | Status |
+|---|---|
+| abs-cnc-milling-services | ✅ Complete |
+| aluminium-cnc-milling-services | ✅ Complete |
+| brass-cnc-milling-services | ✅ Complete |
+| copper-cnc-milling-services | ✅ Complete |
+| delrin-cnc-milling-services | ✅ Complete |
+| nylon-cnc-milling-services | ✅ Complete |
+| peek-cnc-milling-services | ✅ Complete |
+| polycarbonate-cnc-milling-services | ✅ Complete |
+| stainless-steel-cnc-milling-services | ✅ Complete |
+| titanium-cnc-milling-services | ✅ Complete |
+| tool-steel-cnc-milling-services | ✅ Complete |
+
 ### CNC Turning — Materials (8 pages) — all ❌ Not started
 ### 5-Axis — Materials (6 pages) — all ❌ Not started
 
