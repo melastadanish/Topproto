@@ -80,7 +80,7 @@
 | nylon-cnc-machining-services | ✅ Complete |
 | polycarbonate-cnc-machining-services | ✅ Complete |
 | ptfe-cnc-machining-services | ✅ Complete |
-| acrylic-cnc-machining-services | ❌ Not started |
+| acrylic-cnc-machining-services | ✅ Complete |
 | ultem-cnc-machining-services | ❌ Not started |
 | hdpe-cnc-machining-services | ❌ Not started |
 | polypropylene-cnc-machining-services | ❌ Not started |
