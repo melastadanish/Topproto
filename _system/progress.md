@@ -82,7 +82,7 @@
 | ptfe-cnc-machining-services | ✅ Complete |
 | acrylic-cnc-machining-services | ✅ Complete |
 | ultem-cnc-machining-services | ✅ Complete |
-| hdpe-cnc-machining-services | ❌ Not started |
+| hdpe-cnc-machining-services | ✅ Complete |
 | polypropylene-cnc-machining-services | ❌ Not started |
 
 ### Custom CNC — Surface Finishes (7 pages) — all ❌ Not started
