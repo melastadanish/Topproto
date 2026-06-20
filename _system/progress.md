@@ -59,7 +59,7 @@
 | aluminium-cnc-machining-services | ✅ Complete |
 | aluminium-6061-cnc-machining-services | ✅ Complete |
 | aluminium-7075-cnc-machining-services | ✅ Complete |
-| stainless-steel-cnc-machining-services | ❌ Not started |
+| stainless-steel-cnc-machining-services | ✅ Complete |
 | 316l-cnc-machining-services | ❌ Not started |
 | 303-cnc-machining-services | ❌ Not started |
 | titanium-cnc-machining-services | ❌ Not started |
