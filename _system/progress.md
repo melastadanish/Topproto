@@ -79,7 +79,7 @@
 | delrin-cnc-machining-services | ✅ Complete |
 | nylon-cnc-machining-services | ✅ Complete |
 | polycarbonate-cnc-machining-services | ✅ Complete |
-| ptfe-cnc-machining-services | ❌ Not started |
+| ptfe-cnc-machining-services | ✅ Complete |
 | acrylic-cnc-machining-services | ❌ Not started |
 | ultem-cnc-machining-services | ❌ Not started |
 | hdpe-cnc-machining-services | ❌ Not started |
