@@ -69,7 +69,7 @@
 | copper-cnc-machining-services | ✅ Complete |
 | tool-steel-cnc-machining-services | ✅ Complete |
 | steel-alloy-cnc-machining-services | ✅ Complete |
-| bronze-cnc-machining-services | ❌ Not started |
+| bronze-cnc-machining-services | ✅ Complete |
 
 ### Custom CNC — Plastics (10 pages)
 | Page | Status |
