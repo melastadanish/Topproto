@@ -297,7 +297,30 @@ Online CNC platforms typically route turned parts to a network of sub-contracted
 - ✅ Tolerances to ±0.005mm, CMM verified
 - ✅ Thread gauging and runout inspection on every order
 - ✅ From 3 business days lead time
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing and DFM feedback within 24 hours
+
+---
+
+## Pass Log
+
+| Pass | Result | Notes |
+|---|---|---|
+| A — Quality Audit | ✅ Pass | ISO 9001:2015 only in trust badges — no unverified certs. No banned phrases. All numbers traceable to CLIENT-DATA-MAP. Active voice. |
+| B — Surgical Rewrite | ✅ Pass | CTAs updated to specific action+outcome. Sentence rhythm varied across sections. No urgency language. |
+| N — NLP & Semantic Coverage | ✅ Pass | Entity block: TOP PROTO, CNC turning, Dongguan, ISO 9001:2015. Required terms: chuck, spindle, runout, concentricity, G-code, tool nose radius, parting. FAQ covers 8 topics. |
+| D — GEO & E-E-A-T | ✅ Pass | AI-quotable para in Section 3 (opening). All 7 FAQ answers spec-anchored, 3+ sentences each. Comparison FAQ (Q7 vs online platforms). |
+| C — Buyer Conversion | ✅ Pass | Outcome-led headlines. 3+ differentiators explicit: Swiss turning, direct manufacturer, live tooling, no MOQ. CTA journey: upload → quote → production confirmation. |
+
+---
+
+## QA Notes
+
+⚠ Verify before publishing:
+- ISO 9001:2015 — confirm currently held
+- Swiss turning capability — confirm in-house
+- Live tooling / mill-turn — confirm in-house
+- ±0.005mm diametral tolerance — confirm achievable
+- "From 3 days" lead time — confirm
 
 ---
 

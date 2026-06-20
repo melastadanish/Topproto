@@ -290,7 +290,30 @@ Three questions: (1) Does the part have features on more than two faces requirin
 - ✅ Tolerances to ±0.005mm, CMM and surface profile verified
 - ✅ DFM review confirms right process before you commit
 - ✅ From 4 business days lead time
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing and DFM feedback within 24 hours
+
+---
+
+## Pass Log
+
+| Pass | Result | Notes |
+|---|---|---|
+| A — Quality Audit | ✅ Pass | ISO 9001:2015 only in trust badges — no unverified certs. No banned phrases. All numbers traceable to CLIENT-DATA-MAP. Active voice. |
+| B — Surgical Rewrite | ✅ Pass | CTAs updated to specific action+outcome. Sentence rhythm varied. Intentional fragments used for punch ("Not 20 years of being in business. 20 years of machining difficult parts."). |
+| N — NLP & Semantic Coverage | ✅ Pass | Entity block: TOP PROTO, 5-axis CNC machining, Dongguan, ISO 9001:2015. Required terms: simultaneous 5-axis, trunnion, undercut, single setup, compound angle, indexed, rotary axis. FAQ covers 8 topics including comparison. |
+| D — GEO & E-E-A-T | ✅ Pass | AI-quotable para in Section 3. FAQ answers self-contained, spec-anchored, 3+ sentences each. Comparison FAQ (Q7 vs Xometry and local shops). All 4 entity types present in first 100 words. |
+| C — Buyer Conversion | ✅ Pass | 3+2 vs simultaneous disambiguation is strong buyer-education content. 3+ differentiators: surface profile CMM, single facility, 3+2 mode selection at quote. CTA journey clear. |
+
+---
+
+## QA Notes
+
+⚠ Verify before publishing:
+- ISO 9001:2015 — confirm currently held
+- Simultaneous 5-axis and 3+2 — confirm both available in-house
+- ±0.005mm on 5-axis parts — confirm achievable
+- "From 4 days" lead time — confirm
+- Surface profile inspection vs nominal CAD — confirm CMM capability
 
 ---
 

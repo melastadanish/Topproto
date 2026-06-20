@@ -4,7 +4,7 @@
 > Read this file at the start of every session.
 
 **Last updated:** 2026-06-20
-**Current phase:** Phase 2 — CNC Service Hubs (0/6 complete). Phase 1 complete.
+**Current phase:** Phase 3 — CNC Material Sub-Pages (0/55 complete). Phase 1 and Phase 2 complete.
 
 ---
 
@@ -13,7 +13,7 @@
 | Phase | Pages | Status |
 |---|---|---|
 | Phase 1 — General Pages | 6 | ✅ Complete |
-| Phase 2 — CNC Service Hubs | 6 | ❌ Not started |
+| Phase 2 — CNC Service Hubs | 6 | ✅ Complete |
 | Phase 3 — CNC Material Sub-Pages | 55 | ❌ Not started |
 | Phase 4 — Non-CNC Service Hubs | 13 | ❌ Not started |
 | Phase 5 — Non-CNC Material Sub-Pages | 27 | ❌ Not started |
@@ -42,12 +42,12 @@
 
 | Page | File | Status |
 |---|---|---|
-| Precision Machining (hub) | `Services/precision-machining-services.md` | ❌ Not started |
-| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ❌ Not started |
-| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ❌ Not started |
-| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ❌ Not started |
-| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ❌ Not started |
-| Surface Finishing | `Services/surface-finishing-services.md` | ❌ Not started |
+| Precision Machining (hub) | `Services/precision-machining-services.md` | ✅ Complete |
+| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ✅ Complete |
+| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ✅ Complete |
+| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ✅ Complete |
+| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ✅ Complete |
+| Surface Finishing | `Services/surface-finishing-services.md` | ✅ Complete |
 
 ---
 
@@ -251,3 +251,4 @@ Needs real client project data. Do not write until client supplies project detai
 | 2026-06-16 | Full restructure | Created 51 new stubs (21 locations, 3 RP materials, 27 industry parts). Reset all pages to Not started. Rewrote execution-plan.md and progress.md. |
 | 2026-06-17 | Home page | Full 5-pass review and rewrite. Removed unverified certifications (ISO 13485, IATF 16949, AS9100D, ITAR) from published copy. Fixed banned CTAs, corrected 3D printing lead time reference. Pass log added. |
 | 2026-06-20 | Phase 1 complete | Wrote About Us, Contact, Get a Quote, FAQ, Quality Assurance. All 5 pages full 5-pass (A→B→N→D→C). Phase 1 closed. |
+| 2026-06-20 | Phase 2 complete | Wrote precision-machining-services.md (new). Applied 5-pass to 5 existing hub pages. Fixed critical publish blockers: removed unverified certs (ISO 13485, IATF 16949, AS9100D, ITAR) and unverified "300+ machines" stat from cnc-machining-services.md and cnc-milling-services.md. Fixed all CTAs to specific action+outcome format. Added pass logs to all 6 Phase 2 pages. Phase 2 closed. |

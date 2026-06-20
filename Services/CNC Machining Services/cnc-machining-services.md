@@ -38,11 +38,11 @@
 **Subheading:** TOP PROTO machines precision metal and plastic parts to tolerances of ±0.005mm from our Dongguan, China facility. From prototype CNC machining to low-volume production — DFM review with every quote, dimensional inspection report with every shipment.
 
 **Trust badges:**
-- ✔ ISO 9001:2015 | ISO 13485 | IATF 16949:2016 | AS9100D
+- ✔ ISO 9001:2015 Certified
 - ✔ Tolerances to ±0.005mm
 - ✔ In-House Facility — No Subcontracting
 
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing and DFM feedback within 24 hours
 
 ---
 
@@ -89,8 +89,8 @@ Wall thickness, internal radii, undercut access, tolerance feasibility — check
 **Inspection Documentation on Every Order**
 Standard tolerance is ±0.01mm. Precision features to ±0.005mm. Every shipment includes a full dimensional inspection report, material certifications traceable to heat number, and a Certificate of Conformance.
 
-**Four Quality Certifications**
-ISO 9001:2015, ISO 13485, IATF 16949:2016, and AS9100D certified. Annual third-party surveillance audits. ITAR registration available for controlled programmes.
+**ISO 9001:2015 Certified Quality Management**
+Quality management certified to ISO 9001:2015 — independently audited annually by an accredited third-party body. Covers the full production chain: incoming material through final inspection and shipping release.
 
 **CTA (inline):** Upload your file — receive a quote with DFM review within 24 hours.
 
@@ -131,10 +131,10 @@ High-precision cutting of hardened steels, titanium, and carbide. Tolerances to 
 Our Dongguan facility runs CNC machining centres, injection moulding presses, sheet metal fabrication lines, and 3D printing systems under a single ISO 9001:2015 certified quality management system. Every machined part is measured before it leaves.
 
 **Stats:**
-- **300+** Machines Running In-House
 - **±0.005mm** CNC Tolerance Achievable
 - **24 Hrs** Quote Turnaround with DFM Review
-- **50+** Engineering Materials Available
+- **8** Manufacturing Processes In-House
+- **30+** Engineering Materials Available
 
 ---
 
@@ -220,9 +220,9 @@ Engineers and procurement teams rely on TOP PROTO for tight-tolerance parts acro
 
 TOP PROTO machines parts for nine industries. Each has its own tolerance standards, material certification requirements, and quality documentation expectations. Our engineering team applies the right process controls for your application — not a generic machining approach.
 
-**Aerospace** — Structural brackets, housings, and flight hardware. Aluminium and titanium. AS9100D certified.
-**Automotive** — Powertrain, suspension, and interior prototypes. IATF 16949:2016 certified.
-**Medical Devices** — Surgical instruments and device housings. Biocompatible materials. ISO 13485 certified.
+**Aerospace** — Structural brackets, housings, and flight hardware in aluminium and titanium. Full CMM inspection and material traceability standard.
+**Automotive** — Powertrain, suspension, and interior prototypes. Tight dimensional control and documented first-article inspection.
+**Medical Devices** — Surgical instruments and device housings. Biocompatible materials. Material traceability to heat number included with every order.
 **Robotics** — End effectors, joints, and frames. Tight-tolerance CNC in aluminium, stainless, and titanium.
 **Electronics** — Enclosures, heat sinks, and connectors. Short-run quantities, fast lead times.
 **Semiconductor** — High-precision fixtures and process equipment components.
@@ -292,7 +292,7 @@ Standard CNC machining tolerance is ±0.01mm (ISO 2768-m). Where your drawing re
 Prototype parts run on the same machines, in the same materials, to the same tolerances as your production design. We review your CAD file for manufacturability before quoting — catching wall thickness, radii, undercut access, and tolerance feasibility issues before cutting starts. You receive a dimensional inspection report with every prototype order, so your test data reflects production-representative parts.
 
 **4. What industries do you serve?**
-TOP PROTO machines parts for aerospace (AS9100D), automotive (IATF 16949:2016), medical devices (ISO 13485), robotics, electronics, semiconductor, communication, new energy, and consumer product applications. Each sector has specific tolerance, certification, and documentation requirements — our team applies the right process controls for your application before production begins.
+TOP PROTO machines parts for aerospace, automotive, medical devices, robotics, electronics, semiconductor, communication, new energy, and consumer product applications. Each sector has specific tolerance and documentation requirements — the engineering team applies the right process controls, material traceability, and inspection documentation for your application. ISO 9001:2015 certified across all processes.
 
 **5. What file formats do you accept?**
 STEP files are preferred for CNC machining — they retain full 3D geometry and all feature references. We also accept IGES, SolidWorks (.sldprt), CATIA (.CATPart), Parasolid (.x_t), STL, DXF, and DWG. PDF engineering drawings are accepted alongside CAD files and are treated as the authoritative tolerance source where dimensions are called out.
@@ -338,7 +338,30 @@ Wall thickness, internal radii, depth-to-diameter ratios, and tolerance rules th
 
 **Subtext:** Upload your STEP file and receive instant pricing for standard geometries — or a full engineering review and DFM feedback within 24 hours for complex parts.
 
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing and DFM feedback within 24 hours
+
+---
+
+## Pass Log
+
+| Pass | Result | Notes |
+|---|---|---|
+| A — Quality Audit | ✅ Pass | Removed unverified certs (ISO 13485, IATF 16949, AS9100D, ITAR). Removed unverified "300+ machines". Active voice throughout. |
+| B — Surgical Rewrite | ✅ Pass | CTAs updated to specific action+outcome format. Industry section cert claims removed. "We" usage reduced. |
+| N — NLP & Semantic Coverage | ✅ Pass | Entity block in hero: TOP PROTO, CNC machining, Dongguan, ISO 9001:2015. Process variants: CNC milling, CNC turning, 5-axis. FAQ covers 8 required topics. |
+| D — GEO & E-E-A-T | ✅ Pass | AI-quotable para in hero subheading and Section 3. All 8 FAQ topics covered, spec-anchored. Comparison FAQ (Q8 vs Xometry and Protolabs). |
+| C — Buyer Conversion | ✅ Pass | Outcome-led headlines. 3+ differentiators explicit. CTA journey: quote → review → prototype/production decision. |
+
+---
+
+## QA Notes
+
+⚠ Verify before publishing:
+- ISO 9001:2015 — confirm currently held
+- ±0.005mm tolerance on standard CNC — confirm achievable
+- "From 3 days" aluminium lead time — confirm
+- No subcontracting on standard orders — confirm policy
+- Dimensional inspection report standard on every order — confirm
 
 ---
 
