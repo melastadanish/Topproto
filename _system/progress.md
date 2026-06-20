@@ -56,7 +56,7 @@
 ### Custom CNC — Metals (14 pages)
 | Page | Status |
 |---|---|
-| aluminium-cnc-machining-services | ❌ Not started |
+| aluminium-cnc-machining-services | ✅ Complete |
 | aluminium-6061-cnc-machining-services | ❌ Not started |
 | aluminium-7075-cnc-machining-services | ❌ Not started |
 | stainless-steel-cnc-machining-services | ❌ Not started |
