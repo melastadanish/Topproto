@@ -9,7 +9,7 @@
 
 | Phase | Category | Total Pages | Status |
 |---|---|---|---|
-| 1 | General Pages | 6 | ❌ Not started |
+| 1 | General Pages | 6 | ✅ Complete |
 | 2 | CNC Service Hubs | 6 | ❌ Not started |
 | 3 | CNC Material Sub-Pages | 55 | ❌ Not started |
 | 4 | Non-CNC Service Hubs | 13 | ❌ Not started |
@@ -40,11 +40,11 @@
 | Page | File | Status |
 |---|---|---|
 | Home | `General Pages/home.md` | ✅ Complete |
-| About Us | `General Pages/about-us.md` | ❌ Not started |
-| Contact | `General Pages/contact.md` | ❌ Not started |
-| Get a Quote | `General Pages/get-a-quote.md` | ❌ Not started |
-| FAQ | `General Pages/faq.md` | ❌ Not started |
-| Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
+| About Us | `General Pages/about-us.md` | ✅ Complete |
+| Contact | `General Pages/contact.md` | ✅ Complete |
+| Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
+| FAQ | `General Pages/faq.md` | ✅ Complete |
+| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Complete |
 
 ---
 

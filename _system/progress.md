@@ -3,8 +3,8 @@
 > Update this file after every completed page.
 > Read this file at the start of every session.
 
-**Last updated:** 2026-06-17
-**Current phase:** Phase 1 — General Pages (1/6 complete).
+**Last updated:** 2026-06-20
+**Current phase:** Phase 2 — CNC Service Hubs (0/6 complete). Phase 1 complete.
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Phase | Pages | Status |
 |---|---|---|
-| Phase 1 — General Pages | 6 | ❌ Not started |
+| Phase 1 — General Pages | 6 | ✅ Complete |
 | Phase 2 — CNC Service Hubs | 6 | ❌ Not started |
 | Phase 3 — CNC Material Sub-Pages | 55 | ❌ Not started |
 | Phase 4 — Non-CNC Service Hubs | 13 | ❌ Not started |
@@ -30,11 +30,11 @@
 | Page | File | Status |
 |---|---|---|
 | Home | `General Pages/home.md` | ✅ Complete |
-| About Us | `General Pages/about-us.md` | ❌ Not started |
-| Contact | `General Pages/contact.md` | ❌ Not started |
-| Get a Quote | `General Pages/get-a-quote.md` | ❌ Not started |
-| FAQ | `General Pages/faq.md` | ❌ Not started |
-| Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
+| About Us | `General Pages/about-us.md` | ✅ Complete |
+| Contact | `General Pages/contact.md` | ✅ Complete |
+| Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
+| FAQ | `General Pages/faq.md` | ✅ Complete |
+| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Complete |
 
 ---
 
@@ -250,3 +250,4 @@ Needs real client project data. Do not write until client supplies project detai
 | 2026-06-16 | Stubs + improvements | Phase 10 stubs, improved homepage + 6 service pages |
 | 2026-06-16 | Full restructure | Created 51 new stubs (21 locations, 3 RP materials, 27 industry parts). Reset all pages to Not started. Rewrote execution-plan.md and progress.md. |
 | 2026-06-17 | Home page | Full 5-pass review and rewrite. Removed unverified certifications (ISO 13485, IATF 16949, AS9100D, ITAR) from published copy. Fixed banned CTAs, corrected 3D printing lead time reference. Pass log added. |
+| 2026-06-20 | Phase 1 complete | Wrote About Us, Contact, Get a Quote, FAQ, Quality Assurance. All 5 pages full 5-pass (A→B→N→D→C). Phase 1 closed. |
