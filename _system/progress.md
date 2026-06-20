@@ -75,7 +75,7 @@
 | Page | Status |
 |---|---|
 | abs-cnc-machining-services | ✅ Complete |
-| peek-cnc-machining-services | ❌ Not started |
+| peek-cnc-machining-services | ✅ Complete |
 | delrin-cnc-machining-services | ❌ Not started |
 | nylon-cnc-machining-services | ❌ Not started |
 | polycarbonate-cnc-machining-services | ❌ Not started |
