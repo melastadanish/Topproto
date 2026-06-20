@@ -89,12 +89,12 @@
 | Page | Status |
 |---|---|
 | anodizing-cnc-machining-services | ✅ Complete |
-| bead-blasting-cnc-machining-services | ❌ Not started |
-| black-oxide-cnc-machining-services | ❌ Not started |
-| electropolishing-cnc-machining-services | ❌ Not started |
-| nickel-plating-cnc-machining-services | ❌ Not started |
-| passivation-cnc-machining-services | ❌ Not started |
-| powder-coating-cnc-machining-services | ❌ Not started |
+| bead-blasting-cnc-machining-services | ✅ Complete |
+| black-oxide-cnc-machining-services | ✅ Complete |
+| electropolishing-cnc-machining-services | ✅ Complete |
+| nickel-plating-cnc-machining-services | ✅ Complete |
+| passivation-cnc-machining-services | ✅ Complete |
+| powder-coating-cnc-machining-services | ✅ Complete |
 ### CNC Milling — Materials (11 pages) — all ❌ Not started
 ### CNC Turning — Materials (8 pages) — all ❌ Not started
 ### 5-Axis — Materials (6 pages) — all ❌ Not started
