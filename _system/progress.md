@@ -83,7 +83,7 @@
 | acrylic-cnc-machining-services | ✅ Complete |
 | ultem-cnc-machining-services | ✅ Complete |
 | hdpe-cnc-machining-services | ✅ Complete |
-| polypropylene-cnc-machining-services | ❌ Not started |
+| polypropylene-cnc-machining-services | ✅ Complete |
 
 ### Custom CNC — Surface Finishes (7 pages) — all ❌ Not started
 ### CNC Milling — Materials (11 pages) — all ❌ Not started
