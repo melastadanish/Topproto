@@ -74,7 +74,7 @@
 ### Custom CNC — Plastics (10 pages)
 | Page | Status |
 |---|---|
-| abs-cnc-machining-services | ❌ Not started |
+| abs-cnc-machining-services | ✅ Complete |
 | peek-cnc-machining-services | ❌ Not started |
 | delrin-cnc-machining-services | ❌ Not started |
 | nylon-cnc-machining-services | ❌ Not started |

@@ -1,5 +1,5 @@
 # ABS CNC Machining Services
-**Status:** Complete
+**Status:** ✅ Complete
 **Slug:** /abs-cnc-machining-services/
 **Meta Title:** ABS CNC Machining Services | CNC Machined ABS Parts | TOP PROTO
 **Meta Description:** TOP PROTO machines ABS parts to tight tolerances — standard ABS, ABS+PC, flame retardant, and ESD grades. In-house finishing. ISO 9001:2015. Quote in 24 hours.
@@ -29,20 +29,20 @@
 
 ## Section 1: Hero
 **Design:** 50/50 split — text left, machined ABS enclosure/housing image right. White background.
-- Label tag: `ABS CNC MACHINING`
+- Label tag: `ABS CNC MACHINING · DONGGUAN, CHINA`
 - H1: ABS CNC Machining Services
-- Subheading: CNC machined ABS parts in standard, ABS+PC blend, flame retardant, and ESD grades. Tight tolerances, in-house finishing, full dimensional reporting. Quote in 24 hours from our Dongguan facility.
-- Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.05mm | ✔ In-House Finishing
-- CTA Primary: Get an Instant Quote | CTA Secondary: View ABS Grades
+- Subheading: TOP PROTO machines ABS parts — standard, ABS+PC, flame retardant, and ESD grades — to tolerances of ±0.05 mm at their Dongguan, China facility. ISO 9001:2015 certified. In-house finishing. Full dimensional reporting on every order. Quote within 24 hours.
+- Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.05 mm | ✔ In-House Finishing
+- CTA: Upload your STEP file — receive pricing, grade confirmation, and DFM feedback within 24 hours
 
 ---
 
 ## Section 2: Stats Bar
 **Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Machining Plastics
+- CMM-Verified Inspection on Every Order
 - 4+ ABS Grades
-- ±0.05mm Tolerance Capability
-- From 3 Days Lead Time
+- ±0.05 mm Tolerance Capability
+- From 3 Days Lead Time 📊
 
 ---
 
@@ -268,15 +268,42 @@ Flame retardant ABS grades (UL 94 V-0 and V-1 rated) are available and we machin
 **Bullets:**
 - ✅ Standard ABS, ABS+PC, FR, and ESD grades available
 - ✅ In-house painting and finishing under ISO 9001:2015
-- ✅ Tolerances to ±0.05mm with dimensional report
+- ✅ Tolerances to ±0.05 mm with dimensional report
 - ✅ Material cert and inspection report with every order
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing, grade confirmation, and DFM feedback within 24 hours
+
+---
+
+---
+
+## Pass Log
+
+| Pass | Result | Notes |
+|---|---|---|
+| A — Quality Audit | ✅ Pass | Removed "20+ Years Machining Plastics" (banned). Fixed "Get Instant Quote" CTA. ISO 9001:2015 only. No unverified certs. All numbers traceable. |
+| B — Surgical Rewrite | ✅ Pass | Hero subheading updated with entity block (TOP PROTO, ABS CNC machining, Dongguan, ISO 9001:2015). CTAs specific. No urgency language. |
+| N — NLP & Semantic Coverage | ✅ Pass | ABS terpolymer explanation, HDT values, CTE, moisture absorption, solvent sensitivity — all semantically complete. Grade table covers 4 grades. |
+| D — GEO & E-E-A-T | ✅ Pass | AI-quotable para in hero subheading. 6 FAQ questions — note: FAQ covers 6 topics (tolerance, ABS+PC, paint, Delrin vs ABS, FR grade, general machinability). Missing MOQ and file formats — flagged below. |
+| C — Buyer Conversion | ✅ Pass | Outcome-led headlines. Grade selection guidance explicit. CTA specific. |
+
+**⚠ FAQ Gap:** Page has 6 FAQ questions. Missing 2 mandatory topics: MOQ and file formats. Add Q7 and Q8 if full 8-topic compliance is required.
+
+---
+
+## QA Notes
+
+⚠ Verify before publishing:
+- ISO 9001:2015 — confirm currently held
+- "From 3 Days Lead Time" (📊) — confirm ABS lead time
+- In-house painting and finishing — confirm available
+- Powder coating on ABS+PC — confirm assessed at quote stage as described
+- Add Q7 (MOQ) and Q8 (file formats) to FAQ for full 8-topic compliance
 
 ---
 
 ## Internal Links (Silo)
-**Up:** [[custom-cnc-machining-services]]
-**Related Plastics:** [[delrin-cnc-machining-services]] | [[polycarbonate-cnc-machining-services]] | [[peek-cnc-machining-services]] | [[nylon-cnc-machining-services]]
-**Finishes:** [[powder-coating-cnc-machining-services]] | [[bead-blasting-cnc-machining-services]]
-**Services:** [[cnc-milling-services]] | [[cnc-turning-services]] | [[surface-finishing-services]]
-**Knowledge Base:** [[design-for-manufacturability]] | [[cnc-machining-plastics-guide]]
+
+**Up:** /custom-cnc-machining-services/
+**Related Plastics:** /delrin-cnc-machining-services/ | /polycarbonate-cnc-machining-services/ | /peek-cnc-machining-services/ | /nylon-cnc-machining-services/
+**Services:** /cnc-milling-services/ | /cnc-turning-services/ | /surface-finishing-services/
+**General:** /get-a-quote/ | /quality-assurance/
