@@ -67,7 +67,7 @@
 | titanium-grade-5-cnc-machining-services | ✅ Complete |
 | brass-cnc-machining-services | ✅ Complete |
 | copper-cnc-machining-services | ✅ Complete |
-| tool-steel-cnc-machining-services | ❌ Not started |
+| tool-steel-cnc-machining-services | ✅ Complete |
 | steel-alloy-cnc-machining-services | ❌ Not started |
 | bronze-cnc-machining-services | ❌ Not started |
 
