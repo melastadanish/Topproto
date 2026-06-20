@@ -85,7 +85,16 @@
 | hdpe-cnc-machining-services | ✅ Complete |
 | polypropylene-cnc-machining-services | ✅ Complete |
 
-### Custom CNC — Surface Finishes (7 pages) — all ❌ Not started
+### Custom CNC — Surface Finishes (7 pages)
+| Page | Status |
+|---|---|
+| anodizing-cnc-machining-services | ✅ Complete |
+| bead-blasting-cnc-machining-services | ❌ Not started |
+| black-oxide-cnc-machining-services | ❌ Not started |
+| electropolishing-cnc-machining-services | ❌ Not started |
+| nickel-plating-cnc-machining-services | ❌ Not started |
+| passivation-cnc-machining-services | ❌ Not started |
+| powder-coating-cnc-machining-services | ❌ Not started |
 ### CNC Milling — Materials (11 pages) — all ❌ Not started
 ### CNC Turning — Materials (8 pages) — all ❌ Not started
 ### 5-Axis — Materials (6 pages) — all ❌ Not started
