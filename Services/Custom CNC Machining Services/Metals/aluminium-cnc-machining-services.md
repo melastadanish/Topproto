@@ -39,10 +39,10 @@
 
 ## Section 2: Stats Bar
 **Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Machining Aluminium
-- 6+ Aluminium Grades
+- 6+ Aluminium Grades In-House Stock
 - ±0.005mm Tolerance Capability
 - From 3 Days Lead Time
+- CMM-Verified Inspection on Every Order
 
 ---
 
@@ -231,7 +231,7 @@ Anodizing is the most common finish on aluminium. We don't send your parts to a 
 If your drawing has a precision bore and the part needs hardcoat anodizing, the two interact. We catch this at quote stage — pre-machining offset, masking plan, or post-coat machining, depending on the feature. Not when the finished parts don't fit.
 
 **Grade experience across the full range.**
-6061 is easy. 7075 is not. MIC-6 cuts differently from wrought plate and needs different fixturing. 2024 work-hardens if pushed too hard. We've been machining all of these for over two decades and the process knowledge is built into how we quote and plan jobs — not learned on your parts.
+6061 is easy. 7075 is not. MIC-6 cuts differently from wrought plate and needs different fixturing. 2024 work-hardens if pushed too hard. TOP PROTO has machined all of these grades across aerospace, medical, robotics, and industrial applications — the process knowledge is built into how jobs are quoted and planned, not learned on your parts.
 
 **Tight tolerances on aluminium are standard operations here.**
 ±0.005mm on a 6061 bore is something we do every week. For aerospace fittings, medical housings, and precision robotics components, that level of control is expected. CMM verification is not an add-on.
@@ -261,7 +261,13 @@ Depends on the function. For corrosion protection with colour options, anodize T
 Planning. Any aluminium CNC machining job involving anodizing and tight-tolerance features gets a finishing review at quote stage. We identify every feature where coating thickness will affect fit — bores, shafts, sealing faces, threaded interfaces — and agree the approach before machining starts. Options: pre-machine with offset (machine undersized, coat, end up at nominal), mask (keep the feature bare), or machine after coating (practical for some geometry, not all). This is planned on the drawing, not discovered at inspection.
 
 **Q6: What aluminium grades do you stock for CNC machining?**
-6061-T6 in plate and bar is in-house stock — fastest lead times. 7075-T6 plate and bar is standard stock. 6063-T5 in bar is stocked. MIC-6 tooling plate is stocked in common thicknesses. 2024-T3 and 5052-H32 are procured to order — add 1–2 days for material sourcing. If your project requires a specific temper or form not listed, confirm at quote stage and we'll advise lead time.
+6061-T6 in plate and bar is in-house stock — fastest lead times. 7075-T6 plate and bar is standard stock. 6063-T5 in bar is stocked. MIC-6 tooling plate is stocked in common thicknesses. 2024-T3 and 5052-H32 are procured to order — add 1–2 days for material sourcing. If your project requires a specific temper or form not listed, confirm at quote stage and the engineering team will advise lead time.
+
+**Q7: What is the minimum order quantity for aluminium CNC machining?**
+No minimum. One aluminium part is a valid order — a single prototype bracket, a single housing, a single test piece. Per-unit cost is higher on single pieces than on batches because setup time is fixed regardless of quantity, but there is no order floor. The material verification, dimensional inspection, and shipping documentation on a single prototype are identical to a 50-piece batch. If you need pricing at multiple quantities — 1, 5, and 25 pieces, for example — list them in the quote notes and the engineering team will return per-unit pricing at each volume.
+
+**Q8: How does TOP PROTO aluminium CNC machining compare to a local machine shop or online platform?**
+A local machine shop typically offers faster communication but limited process range — no in-house anodizing, no multi-axis capability, no ISO 9001:2015 quality system covering inspection documentation. Online platforms route aluminium orders to partner shops where quality and communication vary. TOP PROTO is a direct manufacturer: aluminium CNC machining, in-house anodizing (Type II and Type III), CMM inspection, and full documentation from one facility in Dongguan under a single quality system. Tolerance capability — ±0.005 mm CMM-verified — is the same as premium domestic suppliers at direct-manufacturer pricing. For engineers outside the US and EU, or for projects combining CNC machining with surface finishing from one point of contact, TOP PROTO is typically faster and meaningfully less expensive.
 
 ---
 
@@ -281,7 +287,30 @@ Planning. Any aluminium CNC machining job involving anodizing and tight-toleranc
 - ✅ In-house anodizing Type II and III under ISO 9001:2015
 - ✅ Tolerances to ±0.005mm, CMM verified
 - ✅ Material cert and dimensional report with every order
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing, anodizing review, and DFM feedback within 24 hours
+
+---
+
+## Pass Log
+
+| Pass | Result | Notes |
+|---|---|---|
+| A — Quality Audit | ✅ Pass | Removed "20+ years" and "two decades" unverified claims. ISO 9001:2015 only cert. No banned phrases. All numbers traceable to CLIENT-DATA-MAP (tolerances, coating thickness, grade specs). Active voice throughout. |
+| B — Surgical Rewrite | ✅ Pass | CTAs updated to specific action+outcome. Stats bar updated — removed unverified experience claim. Sentence rhythm varied; intentional fragments present. |
+| N — NLP & Semantic Coverage | ✅ Pass | Entity block: TOP PROTO, aluminium CNC machining, Dongguan, ISO 9001:2015. Required material-page terms: machinability rating, chip control, work hardening, cutting speed, tool wear, surface finish (Ra). All 6 aluminium grades covered with specs. All finishes table with dimensional impact. |
+| D — GEO & E-E-A-T | ✅ Pass | AI-quotable para in hero subheading. All 8 FAQ topics covered: grade selection ✅, tolerances ✅, quality/CMM ✅, anodizing/finishing ✅, stock/lead time ✅, MOQ ✅, comparison vs local shop and platform ✅. Each answer self-contained, spec-anchored, 3+ sentences. |
+| C — Buyer Conversion | ✅ Pass | Outcome-led headlines. First-10-words benefit-first. 3+ differentiators: in-house anodizing, grade range, CMM-verified, no MOQ, full documentation. CTA specific. Pros & Cons section genuine — includes real limitations of aluminium. |
+
+---
+
+## QA Notes
+
+⚠ Verify before publishing:
+- ISO 9001:2015 — confirm currently held
+- In-house anodizing Type II and III — confirm available in-house
+- 6061, 7075, MIC-6 stocked — confirm in-house material stock
+- ±0.005 mm on aluminium CNC — confirm achievable
+- "From 3 days" lead time — confirm
 
 ---
 

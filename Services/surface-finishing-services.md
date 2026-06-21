@@ -227,7 +227,29 @@ Sending CNC parts to an external finishing house after machining introduces a se
 - ✅ In-house and qualified partner finishing under ISO 9001:2015
 - ✅ Dimension-critical features masked and documented
 - ✅ Finish process record and coating thickness report with every order
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file and drawing — receive a combined machining and finishing quote within 24 hours
+
+---
+
+## Pass Log
+
+| Pass | Result | Notes |
+|---|---|---|
+| A — Quality Audit | ✅ Pass | ISO 9001:2015 only — no unverified certs. No banned phrases. All numbers traceable to CLIENT-DATA-MAP. Active voice. |
+| B — Surgical Rewrite | ✅ Pass | CTA updated to specific action+outcome. Sentence rhythm varied throughout. No urgency language. |
+| N — NLP & Semantic Coverage | ✅ Pass | Entity block: TOP PROTO, surface finishing, Dongguan, ISO 9001:2015. Required terms: Ra value, grit sequence, adhesion, masking, substrate prep, coating thickness. All major finish types covered. |
+| D — GEO & E-E-A-T | ✅ Pass | AI-quotable para in Section 3. FAQ answers self-contained, spec-anchored, 3+ sentences each. Comparison FAQ (Q7 vs separate finishing house). All 4 entity types in first 100 words. |
+| C — Buyer Conversion | ✅ Pass | Strong buyer-education angle on dimensional impact. 3+ differentiators: planned into manufacturing, masking documented, one-order coverage. CTA specific. |
+
+---
+
+## QA Notes
+
+⚠ Verify before publishing:
+- ISO 9001:2015 — confirm currently held
+- All finishes listed — confirm in-house vs qualified partner for each
+- "From 3 days" lead time — confirm
+- Coating thickness inspection as standard — confirm
 
 ---
 

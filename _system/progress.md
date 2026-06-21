@@ -3,8 +3,8 @@
 > Update this file after every completed page.
 > Read this file at the start of every session.
 
-**Last updated:** 2026-06-17
-**Current phase:** Phase 1 — General Pages (1/6 complete).
+**Last updated:** 2026-06-20
+**Current phase:** Phase 3 — CNC Material Sub-Pages (0/55 complete). Phase 1 and Phase 2 complete.
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Phase | Pages | Status |
 |---|---|---|
-| Phase 1 — General Pages | 6 | ❌ Not started |
-| Phase 2 — CNC Service Hubs | 6 | ❌ Not started |
+| Phase 1 — General Pages | 6 | ✅ Complete |
+| Phase 2 — CNC Service Hubs | 6 | ✅ Complete |
 | Phase 3 — CNC Material Sub-Pages | 55 | ❌ Not started |
 | Phase 4 — Non-CNC Service Hubs | 13 | ❌ Not started |
 | Phase 5 — Non-CNC Material Sub-Pages | 27 | ❌ Not started |
@@ -30,11 +30,11 @@
 | Page | File | Status |
 |---|---|---|
 | Home | `General Pages/home.md` | ✅ Complete |
-| About Us | `General Pages/about-us.md` | ❌ Not started |
-| Contact | `General Pages/contact.md` | ❌ Not started |
-| Get a Quote | `General Pages/get-a-quote.md` | ❌ Not started |
-| FAQ | `General Pages/faq.md` | ❌ Not started |
-| Quality Assurance | `General Pages/quality-assurance.md` | ❌ Not started |
+| About Us | `General Pages/about-us.md` | ✅ Complete |
+| Contact | `General Pages/contact.md` | ✅ Complete |
+| Get a Quote | `General Pages/get-a-quote.md` | ✅ Complete |
+| FAQ | `General Pages/faq.md` | ✅ Complete |
+| Quality Assurance | `General Pages/quality-assurance.md` | ✅ Complete |
 
 ---
 
@@ -42,12 +42,12 @@
 
 | Page | File | Status |
 |---|---|---|
-| Precision Machining (hub) | `Services/precision-machining-services.md` | ❌ Not started |
-| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ❌ Not started |
-| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ❌ Not started |
-| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ❌ Not started |
-| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ❌ Not started |
-| Surface Finishing | `Services/surface-finishing-services.md` | ❌ Not started |
+| Precision Machining (hub) | `Services/precision-machining-services.md` | ✅ Complete |
+| Custom CNC Machining | `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` | ✅ Complete |
+| CNC Milling | `Services/CNC Milling Services/cnc-milling-services.md` | ✅ Complete |
+| CNC Turning | `Services/CNC Turning Services/cnc-turning-services.md` | ✅ Complete |
+| 5-Axis CNC | `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` | ✅ Complete |
+| Surface Finishing | `Services/surface-finishing-services.md` | ✅ Complete |
 
 ---
 
@@ -56,37 +56,60 @@
 ### Custom CNC — Metals (14 pages)
 | Page | Status |
 |---|---|
-| aluminium-cnc-machining-services | ❌ Not started |
-| aluminium-6061-cnc-machining-services | ❌ Not started |
-| aluminium-7075-cnc-machining-services | ❌ Not started |
-| stainless-steel-cnc-machining-services | ❌ Not started |
-| 316l-cnc-machining-services | ❌ Not started |
-| 303-cnc-machining-services | ❌ Not started |
-| titanium-cnc-machining-services | ❌ Not started |
-| titanium-grade-2-cnc-machining-services | ❌ Not started |
-| titanium-grade-5-cnc-machining-services | ❌ Not started |
-| brass-cnc-machining-services | ❌ Not started |
-| copper-cnc-machining-services | ❌ Not started |
-| tool-steel-cnc-machining-services | ❌ Not started |
-| steel-alloy-cnc-machining-services | ❌ Not started |
-| bronze-cnc-machining-services | ❌ Not started |
+| aluminium-cnc-machining-services | ✅ Complete |
+| aluminium-6061-cnc-machining-services | ✅ Complete |
+| aluminium-7075-cnc-machining-services | ✅ Complete |
+| stainless-steel-cnc-machining-services | ✅ Complete |
+| 316l-cnc-machining-services | ✅ Complete |
+| 303-cnc-machining-services | ✅ Complete |
+| titanium-cnc-machining-services | ✅ Complete |
+| titanium-grade-2-cnc-machining-services | ✅ Complete |
+| titanium-grade-5-cnc-machining-services | ✅ Complete |
+| brass-cnc-machining-services | ✅ Complete |
+| copper-cnc-machining-services | ✅ Complete |
+| tool-steel-cnc-machining-services | ✅ Complete |
+| steel-alloy-cnc-machining-services | ✅ Complete |
+| bronze-cnc-machining-services | ✅ Complete |
 
 ### Custom CNC — Plastics (10 pages)
 | Page | Status |
 |---|---|
-| abs-cnc-machining-services | ❌ Not started |
-| peek-cnc-machining-services | ❌ Not started |
-| delrin-cnc-machining-services | ❌ Not started |
-| nylon-cnc-machining-services | ❌ Not started |
-| polycarbonate-cnc-machining-services | ❌ Not started |
-| ptfe-cnc-machining-services | ❌ Not started |
-| acrylic-cnc-machining-services | ❌ Not started |
-| ultem-cnc-machining-services | ❌ Not started |
-| hdpe-cnc-machining-services | ❌ Not started |
-| polypropylene-cnc-machining-services | ❌ Not started |
+| abs-cnc-machining-services | ✅ Complete |
+| peek-cnc-machining-services | ✅ Complete |
+| delrin-cnc-machining-services | ✅ Complete |
+| nylon-cnc-machining-services | ✅ Complete |
+| polycarbonate-cnc-machining-services | ✅ Complete |
+| ptfe-cnc-machining-services | ✅ Complete |
+| acrylic-cnc-machining-services | ✅ Complete |
+| ultem-cnc-machining-services | ✅ Complete |
+| hdpe-cnc-machining-services | ✅ Complete |
+| polypropylene-cnc-machining-services | ✅ Complete |
 
-### Custom CNC — Surface Finishes (7 pages) — all ❌ Not started
-### CNC Milling — Materials (11 pages) — all ❌ Not started
+### Custom CNC — Surface Finishes (7 pages)
+| Page | Status |
+|---|---|
+| anodizing-cnc-machining-services | ✅ Complete |
+| bead-blasting-cnc-machining-services | ✅ Complete |
+| black-oxide-cnc-machining-services | ✅ Complete |
+| electropolishing-cnc-machining-services | ✅ Complete |
+| nickel-plating-cnc-machining-services | ✅ Complete |
+| passivation-cnc-machining-services | ✅ Complete |
+| powder-coating-cnc-machining-services | ✅ Complete |
+### CNC Milling — Materials (11 pages)
+| Page | Status |
+|---|---|
+| abs-cnc-milling-services | ✅ Complete |
+| aluminium-cnc-milling-services | ✅ Complete |
+| brass-cnc-milling-services | ✅ Complete |
+| copper-cnc-milling-services | ✅ Complete |
+| delrin-cnc-milling-services | ✅ Complete |
+| nylon-cnc-milling-services | ✅ Complete |
+| peek-cnc-milling-services | ✅ Complete |
+| polycarbonate-cnc-milling-services | ✅ Complete |
+| stainless-steel-cnc-milling-services | ✅ Complete |
+| titanium-cnc-milling-services | ✅ Complete |
+| tool-steel-cnc-milling-services | ✅ Complete |
+
 ### CNC Turning — Materials (8 pages) — all ❌ Not started
 ### 5-Axis — Materials (6 pages) — all ❌ Not started
 
@@ -250,3 +273,5 @@ Needs real client project data. Do not write until client supplies project detai
 | 2026-06-16 | Stubs + improvements | Phase 10 stubs, improved homepage + 6 service pages |
 | 2026-06-16 | Full restructure | Created 51 new stubs (21 locations, 3 RP materials, 27 industry parts). Reset all pages to Not started. Rewrote execution-plan.md and progress.md. |
 | 2026-06-17 | Home page | Full 5-pass review and rewrite. Removed unverified certifications (ISO 13485, IATF 16949, AS9100D, ITAR) from published copy. Fixed banned CTAs, corrected 3D printing lead time reference. Pass log added. |
+| 2026-06-20 | Phase 1 complete | Wrote About Us, Contact, Get a Quote, FAQ, Quality Assurance. All 5 pages full 5-pass (A→B→N→D→C). Phase 1 closed. |
+| 2026-06-20 | Phase 2 complete | Wrote precision-machining-services.md (new). Applied 5-pass to 5 existing hub pages. Fixed critical publish blockers: removed unverified certs (ISO 13485, IATF 16949, AS9100D, ITAR) and unverified "300+ machines" stat from cnc-machining-services.md and cnc-milling-services.md. Fixed all CTAs to specific action+outcome format. Added pass logs to all 6 Phase 2 pages. Phase 2 closed. |

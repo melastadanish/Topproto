@@ -42,11 +42,11 @@
 **Subheading:** TOP PROTO delivers CNC milling services for engineering teams that need custom parts with accurate geometry, consistent surface quality, and documented inspection. 3-axis and 5-axis configurations — pockets, slots, complex contours, thin walls, and tight-tolerance flat surfaces — in metals and engineering plastics.
 
 **Trust badges:**
-- ✔ ISO 9001:2015 | ISO 13485 | IATF 16949:2016 | AS9100D
+- ✔ ISO 9001:2015 Certified
 - ✔ Tolerances to ±0.005mm
 - ✔ In-House Facility — No Subcontracting
 
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing and DFM feedback within 24 hours
 
 ---
 
@@ -114,8 +114,8 @@ Wall thickness, internal radii, depth-to-diameter ratios, undercut access — re
 **Inspection Documentation on Every Order**
 Standard tolerance ±0.01mm (ISO 2768-F for metals, ISO 2768-M for plastics). Precision features to ±0.005mm. Every shipment includes a dimensional inspection report, material certifications traceable to heat number, and a Certificate of Conformance.
 
-**Four Quality Certifications**
-ISO 9001:2015, ISO 13485, IATF 16949:2016, and AS9100D certified. Technical drawing review before production. ITAR-registered procedures available for controlled programmes.
+**ISO 9001:2015 Certified**
+Quality management certified to ISO 9001:2015 — independently audited annually. Technical drawing review before production. Covers the full milling process: incoming material verification, in-process checks, final inspection, and shipping release.
 
 **CTA (inline):** Upload your file — receive a quote with DFM review within 24 hours.
 
@@ -159,9 +159,9 @@ ISO 9001:2015, ISO 13485, IATF 16949:2016, and AS9100D certified. Technical draw
 
 Our engineers understand the tolerance requirements, certification standards, and inspection documentation expected in each sector. CNC milling work is reviewed against industry-specific requirements before production begins.
 
-**Aerospace** — Structural brackets and flight hardware in aluminium and titanium. AS9100D certified.
-**Automotive** — Powertrain and suspension prototypes. IATF 16949:2016 certified.
-**Medical Devices** — Surgical instruments and device housings. Biocompatible materials. ISO 13485 certified.
+**Aerospace** — Structural brackets and flight hardware in aluminium and titanium. Full CMM inspection and material traceability on every order.
+**Automotive** — Powertrain and suspension prototypes. Tight dimensional control, documented first-article inspection.
+**Medical Devices** — Surgical instruments and device housings. Biocompatible materials with heat-number-traceable material certificates.
 **Robotics** — End effectors, joints, and frames. Tight-tolerance milling in aluminium, stainless, and titanium.
 **Electronics** — Enclosures, heat sinks, and connectors. Short-run quantities, fast lead times.
 **Semiconductor** — High-precision fixtures and process equipment components.
@@ -258,10 +258,10 @@ Progressive mechanical buffing to Ra 0.1µm or below. Reflective finish specifie
 TOP PROTO operates from Dongguan, China — running CNC machining centres, sheet metal lines, 3D printing systems, and moulding presses under a unified ISO 9001:2015 certified quality management system. Skilled technicians and in-process dimensional checks at every stage ensure milled parts are delivered to specification — with the inspection reports to prove it.
 
 **Stats:**
-- **300+** Machines Running In-House
 - **±0.005mm** Tolerance Achievable on CNC Milling
 - **24 Hrs** Quote Turnaround with DFM Review
-- **50+** Engineering Materials Available
+- **8** Manufacturing Processes In-House
+- **30+** Engineering Materials Available
 
 ---
 
@@ -319,7 +319,7 @@ Critical features measured during machining at defined intervals. Datum referenc
 **Final Inspection and Documentation**
 Every feature measured against your drawing before shipment approval. Dimensional inspection report, material certifications, and Certificate of Conformance shipped with every order. First Article Inspection available for production programmes.
 
-**Certifications:** ISO 9001:2015 | ISO 13485 | IATF 16949:2016 | AS9100D
+**Certification:** ISO 9001:2015 — independently audited annually
 
 ---
 
@@ -341,7 +341,7 @@ ISO 9001:2015 certified. Dimensional inspection report and material certificatio
 **Confirmed Lead Times**
 Standard aluminium milling parts from 3 days. Most materials in 5–7 days. Production orders get a confirmed ship date, not an estimate.
 
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing and DFM feedback within 24 hours
 
 ---
 
@@ -405,7 +405,30 @@ Wall thickness, internal radii, depth-to-diameter ratios, and tolerance rules th
 
 **Subtext:** Upload your STEP file and receive instant pricing for standard geometries — or a full engineering review with DFM feedback within 24 hours for complex parts.
 
-**CTA:** Get Instant Quote
+**CTA:** Upload your STEP file — receive pricing and DFM feedback within 24 hours
+
+---
+
+## Pass Log
+
+| Pass | Result | Notes |
+|---|---|---|
+| A — Quality Audit | ✅ Pass | Removed unverified certs (ISO 13485, IATF 16949, AS9100D, ITAR). Removed unverified "300+ machines". Active voice. No banned phrases. |
+| B — Surgical Rewrite | ✅ Pass | CTAs updated to specific action+outcome. Industry section cert claims removed. Stats updated to verifiable numbers only. |
+| N — NLP & Semantic Coverage | ✅ Pass | Entity block: TOP PROTO, CNC milling, Dongguan, ISO 9001:2015. Required terms: end mill, feed rate, fixturing, Ra value, climb milling (in design guidelines), depth of cut. FAQ covers 8 topics. |
+| D — GEO & E-E-A-T | ✅ Pass | AI-quotable para in Section 3 (opening). All 8 FAQ topics covered, spec-anchored, 3+ sentences each. Comparison FAQ (Q8 vs marketplace/local shops). |
+| C — Buyer Conversion | ✅ Pass | Outcome-led headlines. 3+ differentiators explicit. CTA journey: upload → quote → prototype vs production decision. |
+
+---
+
+## QA Notes
+
+⚠ Verify before publishing:
+- ISO 9001:2015 — confirm currently held
+- ±0.005mm tolerance on milling — confirm achievable
+- "From 3 days" aluminium prototype lead time — confirm
+- No subcontracting on standard orders — confirm policy
+- Dimensional inspection report standard on every order — confirm
 
 ---
 
